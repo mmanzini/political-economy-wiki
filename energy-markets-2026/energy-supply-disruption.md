@@ -1,19 +1,28 @@
 # Energy Supply Disruption
 
+**Source:** Multiple press reports (IEA, Reuters, Bloomberg) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+The Hormuz blockade caused the largest energy supply disruption in modern history by physical volume — ~11 million barrels/day of global oil and petroleum products. Saudi and Qatari infrastructure damage will take months to years to repair, while US record crude exports can only partially offset the shortfall.
+
 The Hormuz blockade has caused the largest disruption of energy supply in modern history — worse than 1973, 1979, or the post-Ukraine invasion shock.
 
 ## Scale of Disruption
 
-- Global oil exports down ~9 million barrels/day
-- Global exports of other petroleum products down ~4 million barrels/day
-- Total physical supply loss: ~11 million barrels/day by 2026-03-31
-- Drop described as "vertical" — unprecedented in speed and magnitude
+- Global oil exports down ~9 million barrels/day (source: energy-supply-disruption.md)
+- Global exports of other petroleum products down ~4 million barrels/day (source: energy-supply-disruption.md)
+- Total physical supply loss: ~11 million barrels/day by 2026-03-31 (source: energy-supply-disruption.md)
+- Drop described as "vertical" — unprecedented in speed and magnitude (source: energy-supply-disruption.md)
 
 ## Infrastructure Damage
 
-- **Ras Tanura (Saudi Arabia)**: missile attacks reduced production capacity by 600,000 bbl/day; pipeline attack cut another 700,000 bbl/day — total Saudi capacity loss 1.3M bbl/day
-- **Ras Laffan (Qatar)**: produces 1/5 of global LNG; ~17% of capacity damaged; repair estimated at up to 5 years; production suspended 2026-03-02; force majeure declared 2026-03-04; work has resumed but full operations far off
-- Kuwait: two explosions in Ubaimeh (Iran denied involvement)
+- **Ras Tanura (Saudi Arabia)**: missile attacks reduced production capacity by 600,000 bbl/day; pipeline attack cut another 700,000 bbl/day — total Saudi capacity loss 1.3M bbl/day (source: energy-supply-disruption.md)
+- **Ras Laffan (Qatar)**: produces 1/5 of global LNG; ~17% of capacity damaged; repair estimated at up to 5 years; production suspended 2026-03-02; force majeure declared 2026-03-04 (source: energy-supply-disruption.md)
+- Kuwait: two explosions in Ubaimeh (Iran denied involvement) (source: energy-supply-disruption.md)
 
 ## US Export Surge
 

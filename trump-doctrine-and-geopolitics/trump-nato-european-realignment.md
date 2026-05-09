@@ -1,13 +1,22 @@
 # Trump, NATO, and European Defence Realignment (2026)
 
+**Source:** Stars and Stripes, German Marshall Fund, Northeastern University — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
 *Sources: Stars and Stripes, German Marshall Fund, Northeastern University, GMF — compiled April 2026.*
+
+## Summary
+
+Trump's 5% GDP defence spending demand has dramatically increased European NATO contributions (>$450B/year, nearly double 2022 levels), but the coercive method has accelerated European strategic autonomy — Europe is building independent capacity that reduces future US leverage. The Greenland gambit reveals the predatory doctrine has no ally exception.
 
 ## The Pressure Campaign
 
-- Trump demanded NATO members raise defence spending to **5% of GDP** (from the 2% baseline agreed under Obama)
-- Result: European NATO members now spending **>$450B/year** — nearly double 2022 levels
-- New official NATO targets: **5% of GDP by 2035** for core defence + security-related spending; **3.5%** for core defence requirements alone
-- Leading edge: Poland (4.12%, targeting 4.7%); Estonia pledged "at least 5% from 2026"; Lithuania 5–6% by 2026
+- Trump demanded NATO members raise defence spending to **5% of GDP** (from the 2% baseline agreed under Obama) (source: trump-nato-european-realignment.md)
+- Result: European NATO members now spending **>$450B/year** — nearly double 2022 levels (source: trump-nato-european-realignment.md)
+- New official NATO targets: **5% of GDP by 2035** for core defence + security-related spending (source: trump-nato-european-realignment.md)
+- Leading edge: Poland (4.12%, targeting 4.7%); Estonia pledged "at least 5% from 2026"; Lithuania 5–6% by 2026 (source: trump-nato-european-realignment.md)
 
 ## Coercive Tactics
 

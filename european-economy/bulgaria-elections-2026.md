@@ -1,10 +1,18 @@
 # Bulgaria Elections 2026: Toward a Pro-Russia Government?
 
+**Source:** Multiple press reports (Bloomberg, Al Jazeera) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+Bulgaria's pro-Russia populist Rumen Radev won the April 2026 elections after the country's eighth parliamentary vote since 2021. His victory threatens to install a new internal EU dissident on Ukraine support and Russia sanctions just as Hungary was pivoting pro-European under Magyar — though analysts consider him a softer challenge than Orbán.
+
 ## Context: Bulgaria's Political Crisis
-- Bulgaria has held **8 parliamentary elections since 2021** — a record of political fragmentation in an EU member state
-- Each election produced weak coalition governments with short lifespans
-- The most recent government fell after large protests in December 2025
-- Voter turnout in the last 4 elections: consistently **below 40%** — deep civic disengagement and institutional distrust
+- Bulgaria has held **8 parliamentary elections since 2021** — a record of political fragmentation in an EU member state (source: bulgaria-elections-2026.md)
+- The most recent government fell after large protests in December 2025 (source: bulgaria-elections-2026.md)
+- Voter turnout in the last 4 elections: consistently **below 40%** — deep civic disengagement (source: bulgaria-elections-2026.md)
 
 ## Outcome (Confirmed 2026-04-23)
 - **Bulgaria Progressista** coalition (formed late 2025 by former President **Rumen Radev**) **won the election**

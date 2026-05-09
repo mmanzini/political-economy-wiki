@@ -1,13 +1,22 @@
 # Pakistan as a Security State
 
+**Source:** [Altri Orienti podcast Ep.167 "Labirinto pakistano"](https://choramedia.com) (Simone Pieranni, Chora Media, Apr 2026), drawing on Tahir Kamran, *Secret Past, Uncertain Future* (Bacon House National University, Lahore, 2024)
+**Author:** Simone Pieranni (podcast); Tahir Kamran (book)
+
+---
+
+## Summary
+
+Pakistan is a "security state" — a polity in which border defence and the permanent manufacture of an external-threat perception have subordinated every other institution to the military. This condition was baked in from 1947 by partition trauma, the immediate Kashmir war, and the early deaths of Jinnah and Liaquat Ali Khan, leaving a power vacuum filled by the army and bureaucracy that has never been resolved.
+
 Framework drawn from Tahir Kamran, *Secret Past, Uncertain Future* (Bacon House National University, Lahore, 2024), as developed in *Altri Orienti* podcast Ep.167 "Labirinto pakistano" (Simone Pieranni, Chora Media, Apr 2026).
 
 ## The Core Thesis
 
-- Pakistan is a **"security state"**: a polity in which border defence and the perception of external threat have conditioned the development of every other institution
-- Civilian power has remained permanently subordinated to the military establishment
-- The state has manufactured — from birth — a permanent fear of encirclement and siege
-- Resources have been diverted almost entirely toward defence, leaving little for education, health, or civil society
+- Pakistan is a **"security state"**: a polity in which border defence and the perception of external threat have conditioned the development of every other institution (source: Tahir Kamran, *Secret Past, Uncertain Future*)
+- Civilian power has remained permanently subordinated to the military establishment (source: Tahir Kamran, *Secret Past, Uncertain Future*)
+- The state has manufactured — from birth — a permanent fear of encirclement and siege (source: Tahir Kamran, *Secret Past, Uncertain Future*)
+- Resources have been diverted almost entirely toward defence, leaving little for education, health, or civil society (source: Tahir Kamran, *Secret Past, Uncertain Future*)
 
 ## The Original Sin (1947)
 

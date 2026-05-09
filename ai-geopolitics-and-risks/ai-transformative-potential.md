@@ -1,12 +1,21 @@
 # AI Transformative Potential
 
+**Source:** [Dario Amodei, "Machines of Loving Grace"](https://darioamodei.com)
+**Author:** Dario Amodei
+
+---
+
 *Source: Dario Amodei, "Machines of Loving Grace" (darioamodei.com, October 2024)*
+
+## Summary
+
+Dario Amodei's "Machines of Loving Grace" sketches what the world could look like 5–10 years after powerful AI arrives, predicting a "compressed 21st century" of biological and medical progress — near-elimination of most disease, doubled human lifespan, cured mental illness — alongside accelerated poverty reduction and strengthened democracy, contingent on managing the associated risks.
 
 ## Core Thesis
 
-- Most people **underestimate both the upside and the risks** of powerful AI
-- Powerful AI = "a country of geniuses in a datacenter": millions of instances, each smarter than a Nobel laureate across fields, operating 10–100x human speed, able to run autonomously for days/weeks
-- Could arrive **as early as 2026**, though possibly later
+- Most people **underestimate both the upside and the risks** of powerful AI (source: darioamodei.com)
+- Powerful AI = "a country of geniuses in a datacenter": millions of instances, each smarter than a Nobel laureate across fields, operating 10–100x human speed, able to run autonomously for days/weeks (source: darioamodei.com)
+- Could arrive **as early as 2026**, though possibly later (source: darioamodei.com)
 - The essay sketches what happens in the **5–10 years after** powerful AI arrives, if risks are managed
 
 ## Framework: Marginal Returns to Intelligence

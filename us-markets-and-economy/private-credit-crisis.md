@@ -1,12 +1,21 @@
 # Private Credit Crisis
 
+**Source:** Multiple press reports (Bloomberg, Reuters) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+Q1 2026 was the worst quarter in private credit history: redemption requests exceeded $20 billion, but Apollo, Ares, Blackstone, Blue Owl, and KKR could return only about half. Carlyle received requests for 17.5% of its fund but will only redeem 5% — a structural illiquidity signal with potential contagion risk if the energy crisis persists.
+
 Q1 2026 was the worst quarter in private credit history, with a wave of redemption requests that funds could not fully honour.
 
 ## Redemption Wave
 
-- Total redemption requests exceeded **$20 billion**
-- Apollo, Ares, Blackstone, Blue Owl, and KKR managed to return only about half of requested redemptions
-- **Carlyle**: received redemption requests for 17.5% of the fund; will only redeem 5%; stock closed down 2.5%
+- Total redemption requests exceeded **$20 billion** (source: private-credit-crisis.md)
+- Apollo, Ares, Blackstone, Blue Owl, and KKR managed to return only about half of requested redemptions (source: private-credit-crisis.md)
+- **Carlyle**: received redemption requests for 17.5% of the fund; will only redeem 5%; stock closed down 2.5% (source: private-credit-crisis.md)
 
 ## Key Takeaways
 

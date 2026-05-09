@@ -1,5 +1,14 @@
 # EU Marginalized in the Middle East Crisis
 
+**Source:** Multiple press reports (Reuters, Bloomberg, Politico) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+After 48 days of the 2026 Middle East conflict, the EU has had no meaningful role in war outcomes — a reality acknowledged by EU officials themselves. EU member states paid €22B+ extra for fossil fuel imports in the first 44 days, while the EU's post-war Hormuz planning explicitly excludes the US and Israel, signalling a quiet acknowledgment that the transatlantic relationship may be structurally changing.
+
 ## The Core Reality
 - Day 48 of the conflict (as of 2026-04-16): the EU and its member states have had no meaningful role in war outcomes
 - **The war is decided by the US, Israel, and Iran** — Europe is not at the table
@@ -14,9 +23,9 @@
 - EU is also developing a **NATO contingency plan** for a scenario where the US withdraws from the alliance
 
 ## The Cost to Europe
-- Since the conflict started (44 days): EU member states paid **€22B+ more** for fossil fuel imports
-- Ireland: protests and fuel shortages; farmers and hauliers blocked the country's only oil refinery (Cork) for 5 days; government cut fuel excise taxes; motion of no confidence defeated
-- BCE forecast: in the adverse scenario, euro zone growth cut to **1.4%** in 2026 and **1.2%** in 2027
+- Since the conflict started (44 days): EU member states paid **€22B+ more** for fossil fuel imports (source: eu-role-in-middle-east.md)
+- Ireland: protests and fuel shortages; farmers and hauliers blocked the country's only oil refinery (Cork) for 5 days (source: eu-role-in-middle-east.md)
+- BCE forecast: in the adverse scenario, euro zone growth cut to **1.4%** in 2026 and **1.2%** in 2027 (source: eu-role-in-middle-east.md)
 
 ## The Strategic Implication
 - EU post-war planning that excludes the US reflects a quiet acknowledgment that the transatlantic relationship may be structurally changing

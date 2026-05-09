@@ -1,5 +1,10 @@
 # Iran's Nuclear Program
 
+**Source:** Multiple press reports (NYT, Reuters, Bloomberg) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
 *Stub — this topic is the central sticking point in ceasefire negotiations. Expand as source material becomes available.*
 
 ## Current Status

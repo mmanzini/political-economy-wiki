@@ -1,5 +1,14 @@
 # Markets Rally: April 2026
 
+**Source:** Multiple market sources (Goldman Sachs, Bloomberg, IMF Spring Meetings) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+US equity markets rallied strongly in mid-April 2026 (Nasdaq +14% in 10 sessions) on ceasefire optimism, while the real economy remained constrained by unresolved energy supply disruption. The paper/physical oil divergence is the core risk asymmetry, with the IMF adverse scenario (now closer to base case) implying persistent inflation and slower growth not yet priced in.
+
 ## The "Tale of Two Stories"
 - **Financial markets**: rallying on de-escalation signals from the Iran conflict
 - **Physical/real economy**: still contracting under energy supply disruption
@@ -7,11 +16,10 @@
 - Goldman Sachs (Toni Pasquariello): two factors driving S&P resilience — (1) market never lost faith in US economic fundamentals; (2) earnings expectations have risen
 
 ## Equity Performance (End of March to Mid-April 2026)
-- **Nasdaq**: +14% in 10 trading sessions — best streak since 2021
-- **S&P 500**: +10%; one step from an all-time high
-- **Dow Jones**: +7%
-- Technology sector led the rally; software rebounding strongly
-- Largest short-covering in a decade: hedge fund ETF short exposure on US equities fell **11.5%** in one week
+- **Nasdaq**: +14% in 10 trading sessions — best streak since 2021 (source: markets-rally-april-2026.md)
+- **S&P 500**: +10%; one step from an all-time high (source: markets-rally-april-2026.md)
+- **Dow Jones**: +7% (source: markets-rally-april-2026.md)
+- Largest short-covering in a decade: hedge fund ETF short exposure on US equities fell **11.5%** in one week (source: markets-rally-april-2026.md)
 
 ## Technology Highlights
 - **Nvidia**: +18% in 10 days (best streak since 2023); denied interest in acquiring OHP
@@ -29,11 +37,10 @@
 - UBS revised S&P 500 EPS growth estimate to **+17%** for 2026 — highest pace in 5 years
 
 ## IMF Forecasts (April 2026)
-- Global growth revised down to **3.1%** (–0.2pp)
-- **Adverse scenario** (oil ~$100, conflict continues): global GDP 2.5%; inflation 5.4%
-- **Severe scenario**: GDP 2.0% both 2025 and 2026; inflation >6%
-- IMF chief economist: "We are closer to the adverse scenario"
-- Stark finding: **50% of fertilizer price increases pass through to food prices within 12 months** — food inflation risk underappreciated
+- Global growth revised down to **3.1%** (–0.2pp) (source: IMF)
+- **Adverse scenario** (oil ~$100, conflict continues): global GDP 2.5%; inflation 5.4% (source: IMF)
+- IMF chief economist: "We are closer to the adverse scenario" (source: IMF)
+- Stark finding: **50% of fertilizer price increases pass through to food prices within 12 months** (source: IMF)
 - Italy: +0.5% growth both years; Spain: +2.8% (top G7 performer); UK: 0.8% (most impacted among rich countries)
 - IMF warned countries to prepare for **market dysfunction and a liquidity squeeze**
 

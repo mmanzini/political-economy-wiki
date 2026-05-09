@@ -1,13 +1,22 @@
 # Trump-China Trade War and Tariff Strategy (2025–2026)
 
+**Source:** PIIE, CNBC, Yale Insights, CS Monitor — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
 *Sources: PIIE, CNBC, Yale Insights, CS Monitor — compiled April 2026.*
+
+## Summary
+
+Trump's tariff escalation against China — reaching 145 percentage points before being partially struck down by SCOTUS — has been partially effective in extracting concessions but fundamentally constrained by China's scale. Xi's rare earth export controls and strategic patience forced Trump to come to Beijing for the May 2026 summit, validating the Sun Tzu counter-strategy.
 
 ## Legal Architecture
 
-- **April 2025**: Trump raised tariffs on China by 145 percentage points under IEEPA
-- **SCOTUS ruling (2026)**: President cannot use IEEPA to impose tariffs — forced legal recalibration
-- New framework: global 10% tariff under **Section 122 of the Trade Act of 1974**, valid for 150 days (expires ~July 24, 2026)
-- **March 2026**: new Section 301 investigations launched against China, Vietnam, Taiwan, Mexico, Japan, EU, and others
+- **April 2025**: Trump raised tariffs on China by 145 percentage points under IEEPA (source: trump-china-trade-war.md)
+- **SCOTUS ruling (2026)**: President cannot use IEEPA to impose tariffs — forced legal recalibration (source: trump-china-trade-war.md)
+- New framework: global 10% tariff under **Section 122 of the Trade Act of 1974**, valid for 150 days (source: trump-china-trade-war.md)
+- **March 2026**: new Section 301 investigations launched against China, Vietnam, Taiwan, Mexico, Japan, EU, and others (source: trump-china-trade-war.md)
 
 ## Current Tariff Levels (as of April 2026)
 

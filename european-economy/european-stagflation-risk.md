@@ -1,11 +1,20 @@
 # European Stagflation Risk
 
+**Source:** Multiple press reports (EU Commission statements, Bloomberg, Il Post) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+EU Commissioner Gentiloni warned of a coming stagflationary shock driven by the Hormuz energy crisis, with EU forecasts due to be downgraded in May 2026. Germany and Italy cut fuel excise duties as political palliatives despite EU warnings these measures are economically counterproductive. Italy's 7.3% deficit (2023) leaves it with minimal fiscal room to manoeuvre.
+
 ## EU Commission Warnings
 
-- Commissioner Paolo Gentiloni: **"A stagflationary shock is arriving for Europe"**
+- Commissioner Paolo Gentiloni: **"A stagflationary shock is arriving for Europe"** (source: EU Commission)
 - New European forecasts (mid-May) will downgrade growth
-- **If energy costs return to pre-war levels by year-end**: growth impact -0.2–0.4%, inflation impact +1%
-- **If energy decline is slower**: growth impact -0.6%, inflation impact +1.5%
+- **If energy costs return to pre-war levels by year-end**: growth impact -0.2–0.4%, inflation impact +1% (source: EU Commission)
+- **If energy decline is slower**: growth impact -0.6%, inflation impact +1.5% (source: EU Commission)
 - On energy windfall tax: must be coordinated across all countries; compensation measures must not weigh on public accounts
 - Stability Pact derogation "only possible in case of severe recession"
 
@@ -70,6 +79,7 @@
 - [[energy-supply-disruption]]
 - [[brent-oil-price-dynamics]]
 - [[conflict-and-ceasefire-status]]
+- [[nazi-membership-database]] — Germany's political and memory climate in 2026; the Die Zeit database controversy unfolded alongside the stagflation debate
 
 ## Tags
 

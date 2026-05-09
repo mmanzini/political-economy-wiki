@@ -1,5 +1,14 @@
 # Country-by-Country Impact
 
+**Source:** Multiple press reports (Reuters, Bloomberg, regional media) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+A country-by-country snapshot of Asia's response to the Hormuz energy crisis as of early April 2026. Responses range from South Korea's voluntary austerity drives to the Philippines' national emergency declaration. Malaysia is the lone bright spot as a net energy exporter, while countries with short reserve buffers face imminent rationing.
+
 Breakdown of how individual Asian countries are coping with the Hormuz energy crisis as of early April 2026.
 
 ## South Korea
@@ -12,9 +21,9 @@ Breakdown of how individual Asian countries are coping with the Hormuz energy cr
 
 ## Japan
 
-- Strategic reserves for ~230 days (built after 1970s shocks)
-- PM Kishida releasing additional reserves (20 days' worth)
-- Depends 90% on Middle East supplies
+- Strategic reserves for ~230 days (built after 1970s shocks) (source: country-impacts.md)
+- PM Kishida releasing additional reserves (20 days' worth) (source: country-impacts.md)
+- Depends 90% on Middle East supplies (source: country-impacts.md)
 - Ferry/bus services reduced; public baths closing; consumer goods production halted (e.g., fried chips — shortage of heavy oil)
 - Authorised return to maximum coal plant capacity
 

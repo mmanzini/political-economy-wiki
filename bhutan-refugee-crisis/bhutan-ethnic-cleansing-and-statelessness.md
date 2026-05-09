@@ -1,5 +1,14 @@
 # Bhutan: Ethnic Cleansing and Statelessness
 
+**Source:** Multiple press reports and Bhutan Watch 2025 Human Rights Report — compiled 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+Bhutan expelled 100,000–120,000 people of Nepali origin (Lhotshampa) in the late 1980s–90s through discriminatory citizenship laws, forced migration forms, and cultural suppression — roughly one-sixth of its population. The 2025–26 US deportation pipeline has created a grotesque loop where people born stateless are deported to a country that immediately re-expels them.
+
 ## Background
 
 - Bhutan is globally celebrated for its **Gross National Happiness** (GNH) index, but behind the idyllic image lies a history of **ethnic cleansing**
@@ -8,13 +17,13 @@
 
 ## The Expulsion (1980s–1990s)
 
-- **1985 Citizenship Act**: tightened requirements, demanding proof of residence before 1958 — applied discriminatorily only to ethnic Nepalis
-- **1988 census**: classified residents from "full Bhutanese" to "non-nationals" using arbitrary criteria; family members could end up in different categories
-- **"One Nation, One People" policy**: banned Nepali language in schools, imposed majority Ngalop culture via the *Driglam Namza* code of conduct
-- Military forced Nepali-speaking citizens to sign **"voluntary migration forms"** and confiscated all identity documents
-- **100,000–120,000 people** (≈ one-sixth of the population) expelled to refugee camps in Nepal's Jhapa district
-- Since 2007, over 100,000 resettled in Western countries (90,000+ to the US); ~7,000 remain in Nepali camps
-- Bhutan has **never allowed a single person to return**
+- **1985 Citizenship Act**: tightened requirements, demanding proof of residence before 1958 — applied discriminatorily only to ethnic Nepalis (source: bhutan-ethnic-cleansing-and-statelessness.md)
+- **1988 census**: classified residents from "full Bhutanese" to "non-nationals" using arbitrary criteria (source: bhutan-ethnic-cleansing-and-statelessness.md)
+- **"One Nation, One People" policy**: banned Nepali language in schools, imposed majority Ngalop culture via the *Driglam Namza* code of conduct (source: bhutan-ethnic-cleansing-and-statelessness.md)
+- Military forced Nepali-speaking citizens to sign **"voluntary migration forms"** and confiscated all identity documents (source: bhutan-ethnic-cleansing-and-statelessness.md)
+- **100,000–120,000 people** (≈ one-sixth of the population) expelled to refugee camps in Nepal's Jhapa district (source: bhutan-ethnic-cleansing-and-statelessness.md)
+- Since 2007, over 100,000 resettled in Western countries (90,000+ to the US); ~7,000 remain in Nepali camps (source: bhutan-ethnic-cleansing-and-statelessness.md)
+- Bhutan has **never allowed a single person to return** (source: Bhutan Watch 2025)
 
 ## 2025–2026: The Deportation Loop
 

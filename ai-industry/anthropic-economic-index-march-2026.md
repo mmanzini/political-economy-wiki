@@ -1,12 +1,21 @@
 # Anthropic Economic Index: Learning Curves (March 2026)
 
+**Source:** [Anthropic Economic Index Report (2026-03-24)](https://www.anthropic.com/research/economic-index)
+**Author:** Massenkoff, Lyubich, McCrory, Appel, Heller
+
+---
+
 Source: Anthropic Economic Index Report, published 2026-03-24. Authors: Massenkoff, Lyubich, McCrory, Appel, Heller.
+
+## Summary
+
+The fifth edition of the Anthropic Economic Index (February 2026 sample) finds two trends: AI use cases are diversifying on Claude.ai while coding consolidates on the API, and experienced users measurably outperform newcomers — a learning-by-doing effect that may deepen inequality between early and late AI adopters. Global AI adoption inequality between countries is widening even as within-US inequality narrows.
 
 ## Overview
 
-- Fifth edition of the Anthropic Economic Index, using a privacy-preserving system to track how Claude is used across the economy
-- Sample: 1 million conversations from Claude.ai and 1P API, covering **February 5–12, 2026** (3 months after Opus 4.5, coincident with Opus 4.6 release)
-- Two main findings: (1) diversification of use cases, (2) learning curves in AI adoption
+- Fifth edition of the Anthropic Economic Index, using a privacy-preserving system to track how Claude is used across the economy (source: Anthropic Economic Index Report)
+- Sample: 1 million conversations from Claude.ai and 1P API, covering **February 5–12, 2026** (source: Anthropic Economic Index Report)
+- Two main findings: (1) diversification of use cases, (2) learning curves in AI adoption (source: Anthropic Economic Index Report)
 
 ## Diversification of Use Cases
 

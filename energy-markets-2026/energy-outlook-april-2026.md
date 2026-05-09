@@ -1,10 +1,19 @@
 # Energy Markets: Mid-April 2026
 
+**Source:** Multiple market sources (IEA, analyst reports, Bloomberg) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+The defining feature of mid-April 2026 energy markets is the paper/physical oil split: Brent futures at ~$95 (pricing in de-escalation) versus physical Brent above $130 (unresolved scarcity). Russia's doubled oil revenues ($19B in March) mean Moscow has a direct financial incentive for the crisis to persist, while the IEA records first demand destruction since COVID.
+
 ## The Paper–Physical Oil Divergence
-- **Brent futures**: ~**$95/barrel** — stabilized on de-escalation hopes
-- **Physical Brent**: above **$130/barrel** — actual shortage conditions unresolved
-- This is the defining market anomaly: financial instruments anticipate resolution; real-world supply remains cut off
-- Analyst Birolli: "We are short 13 million barrels/day; 8 infrastructure assets are damaged; repairs will take 2–3 years; futures prices do not reflect the severity of the crisis"
+- **Brent futures**: ~**$95/barrel** — stabilized on de-escalation hopes (source: energy-outlook-april-2026.md)
+- **Physical Brent**: above **$130/barrel** — actual shortage conditions unresolved (source: energy-outlook-april-2026.md)
+- This is the defining market anomaly: financial instruments anticipate resolution; real-world supply remains cut off (source: energy-outlook-april-2026.md)
+- Analyst Birolli: "We are short 13 million barrels/day; 8 infrastructure assets are damaged; repairs will take 2–3 years" (source: energy-outlook-april-2026.md)
 
 ## Hormuz: Still Effectively Blocked
 - CENTCOM data: no vessels have transited the strait freely
@@ -20,9 +29,9 @@
 - "Price signals matter; cutting fuel excise taxes (as Ireland attempted) merely sustains demand in a supply-constrained environment and does not address the root cause"
 
 ## Russia's Windfall
-- Russia's oil revenues **doubled in March 2026**: rose to **$19B** from $9–17B in February
-- The Hormuz closure inadvertently benefited Russia: prices spiked; demand redirected toward Russian oil
-- Russia is therefore financially incentivized to see the crisis persist
+- Russia's oil revenues **doubled in March 2026**: rose to **$19B** from $9–17B in February (source: energy-outlook-april-2026.md)
+- The Hormuz closure inadvertently benefited Russia: prices spiked; demand redirected toward Russian oil (source: energy-outlook-april-2026.md)
+- Russia is therefore financially incentivized to see the crisis persist (source: energy-outlook-april-2026.md)
 
 ## Natural Gas
 - **TTF** (European benchmark): returned to 7-week lows at ~**€43.175/MWh** — approaching late-January pre-war levels

@@ -1,11 +1,20 @@
 # Hungary Elections 2026
 
+**Source:** [Bloomberg (2026-04-18)](https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally); [Wikipedia](https://en.wikipedia.org/wiki/2026_Hungarian_parliamentary_election)
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+Péter Magyar's Tisza party won Hungary's April 2026 election with a historic supermajority (141/199 seats), ending Viktor Orbán's 16-year grip on power in the highest-turnout election in post-communist Hungarian history (>78%). The victory could unlock ~€35B in frozen EU funds, remove the EU's primary internal enabler of Russian influence, and unblock Ukraine support votes.
+
 ## Election Results (12 April 2026)
 
-- **Tisza** (Péter Magyar): **141 seats** out of 199 — a supermajority (>133 needed for two-thirds); note: the preliminary election-night count was 138, revised to 141 after diaspora votes were tallied (Bloomberg, 2026-04-18)
-- **Fidesz** (Viktor Orbán): **55 seats**
-- **Mi Hazánk Mozgalom** (far-right): **6 seats**
-- Turnout: **>78%** — highest in post-communist Hungarian history (previous record: 73.5% in 2002; 2022 was 69%)
+- **Tisza** (Péter Magyar): **141 seats** out of 199 — a supermajority (source: Bloomberg, 2026-04-18)
+- **Fidesz** (Viktor Orbán): **55 seats** (source: Bloomberg, 2026-04-18)
+- **Mi Hazánk Mozgalom** (far-right): **6 seats** (source: Bloomberg, 2026-04-18)
+- Turnout: **>78%** — highest in post-communist Hungarian history (source: Bloomberg, 2026-04-18)
 
 ## Significance
 

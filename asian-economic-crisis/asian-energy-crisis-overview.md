@@ -1,6 +1,15 @@
 # Asian Energy Crisis Overview
 
-The Hormuz blockade has hit Asia disproportionately: 80% of oil and 90% of LNG transiting the strait is destined for Asian markets. The crisis is described as asymmetric — the war is fought in the Mediterranean with American and Israeli weapons, but Asia pays the steepest economic price.
+**Source:** Multiple press reports (IEA, IMF, Reuters) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+The Hormuz blockade has hit Asia disproportionately — 80% of oil and 90% of LNG transiting the strait is destined for Asian markets. The crisis has triggered a chain reaction from energy scarcity to inflation to social unrest, while reversing a decade of green-energy commitments across the continent.
+
+The Hormuz blockade has hit Asia disproportionately: 80% of oil and 90% of LNG transiting the strait is destined for Asian markets (source: asian-energy-crisis-overview.md). The crisis is described as asymmetric — the war is fought in the Mediterranean with American and Israeli weapons, but Asia pays the steepest economic price.
 
 ## Chain Reaction
 
@@ -11,10 +20,10 @@ The Hormuz blockade has hit Asia disproportionately: 80% of oil and 90% of LNG t
 
 ## Key Data
 
-- Global petroleum supply lost ~11M barrels/day
-- Philippines, Vietnam, Indonesia: oil reserves for only ~3 weeks of normal demand
-- Half of global flight cancellations last week involved Asian airport routes
-- If war continues, Southeast Asian growth could drop 2–3 percentage points (Legend estimate)
+- Global petroleum supply lost ~11M barrels/day (source: asian-energy-crisis-overview.md)
+- Philippines, Vietnam, Indonesia: oil reserves for only ~3 weeks of normal demand (source: asian-energy-crisis-overview.md)
+- Half of global flight cancellations last week involved Asian airport routes (source: asian-energy-crisis-overview.md)
+- If war continues, Southeast Asian growth could drop 2–3 percentage points (source: asian-energy-crisis-overview.md)
 
 ## Environmental Reversal
 

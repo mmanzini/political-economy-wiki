@@ -1,11 +1,20 @@
 # Vastaamo Data Breach: The Uberisation of Mental Health
 
+**Source:** Fuori da Qui podcast (Coranews) — compiled 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+Finland's largest private psychotherapy network (Vastaamo) was hacked in 2020, exposing 33,000 patient therapy records through catastrophic negligence — no firewall, empty password. The case exemplifies the dangers of applying platform-economy ("uberisation") logic to sensitive healthcare: growth and efficiency were prioritised over security, causing lasting trust damage that has deterred thousands from seeking mental health treatment.
+
 ## The Attack (2020)
 
-- **Vastaamo**, Finland's largest private psychotherapy network, was hacked — ~**33,000 patient records** stolen
-- The database had **no firewall**, was internet-accessible, and the admin password was **empty** (just press Enter)
-- Patients received extortion emails: pay 200 bitcoin or have therapy transcripts (divorces, trauma, suicide attempts, abuse) published online
-- First 100 records published on the dark web included politicians, police officers, public figures
+- **Vastaamo**, Finland's largest private psychotherapy network, was hacked — ~**33,000 patient records** stolen (source: vastaamo-data-breach.md)
+- The database had **no firewall**, was internet-accessible, and the admin password was **empty** (just press Enter) (source: vastaamo-data-breach.md)
+- Patients received extortion emails: pay 200 bitcoin or have therapy transcripts (divorces, trauma, suicide attempts, abuse) published online (source: vastaamo-data-breach.md)
+- First 100 records published on the dark web included politicians, police officers, public figures (source: vastaamo-data-breach.md)
 - A search engine was later created allowing anyone to look up their neighbours' therapy records
 
 ## The Hacker: Aleksanteri Kivimaki ("Zeekill")

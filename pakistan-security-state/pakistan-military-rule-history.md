@@ -1,5 +1,14 @@
 # Pakistan Military Rule — A History
 
+**Source:** [Altri Orienti podcast Ep.167](https://choramedia.com) (Chora Media, Apr 2026), drawing on Tahir Kamran, *Secret Past, Uncertain Future*
+**Author:** Simone Pieranni (podcast); Tahir Kamran (book)
+
+---
+
+## Summary
+
+A chronological survey of Pakistan's military regimes — from Ayub Khan's "democracy with restricted entry" (1958) to the Imran Khan "hybrid regime" experiment (2018–2022) — shows that every civilian government has either been ousted by the army or survived only by subordinating itself to military control. The Doctrine of Necessity (1954) is the juridical key that has unlocked every subsequent military takeover.
+
 Chronological survey of Pakistan's military regimes and "hybrid" arrangements, drawn from Tahir Kamran, *Secret Past, Uncertain Future*, via *Altri Orienti* Ep.167 (Apr 2026).
 
 ## Ayub Khan (1958–1969) — The Modernising Dictator
@@ -8,8 +17,8 @@ Chronological survey of Pakistan's military regimes and "hybrid" arrangements, d
 - Sandhurst-trained, fluent English; presented himself as a moderniser cleaning up "parasite" politicians
 - Designed a **"democracy with restricted entry"**: a 1962 constitution with an electoral college of just 80,000 "Basic Democrats" who alone could elect the president and assemblies
 - The **"decade of development"**: ~6% growth, US dollars flowing in (JFK welcomed him in 1961 as an anti-communist bulwark)
-- **22 industrial families controlled 66% of industry, 79% of insurance, 80% of banking assets** — a paradise for 22 families, an inferno for millions
-- Built **Islamabad** next to the army HQ at Rawalpindi: literally fusing state and military
+- **22 industrial families controlled 66% of industry, 79% of insurance, 80% of banking assets** (source: Tahir Kamran, *Secret Past, Uncertain Future*)
+- Built **Islamabad** next to the army HQ at Rawalpindi: literally fusing state and military (source: Tahir Kamran, *Secret Past, Uncertain Future*)
 - 1965 Operation Gibraltar: infiltration into Indian Kashmir failed; Indian counter-attack reached Lahore; Soviet-brokered peace forced Ayub to return conquered territory
 - The 1965 war shattered the myth of his invincibility; 1968 saw mass student and worker protests; in March 1969 he resigned, illegally handing power to General Yahya Khan instead of the speaker of the National Assembly
 

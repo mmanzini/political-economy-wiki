@@ -1,5 +1,14 @@
 # Conflict and Ceasefire Status
 
+**Source:** Multiple press reports (NYT, Bloomberg, Axios, Reuters) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+As of Day 46 of the 2026 Middle East conflict, a fragile two-week ceasefire brokered by Pakistan is in its seventh day, with Israeli strikes in Lebanon representing the primary threat to its collapse. The NYT frames the conflict as a "Suez moment" for US credibility — potentially the most consequential marker of American power decline since the Iraq/Afghanistan wars.
+
 ## Timeline Context
 
 - **Day 42 of war**, day 3 of ceasefire (as of 2026-04-12)
@@ -16,8 +25,8 @@
 
 ## Diplomatic Track
 
-- **NYT**: Saudis have proposed a **20-year freeze on Iran's nuclear activities**
-- **Bloomberg**: discussions for a second meeting before the **22 April deadline**
+- **NYT**: Saudis have proposed a **20-year freeze on Iran's nuclear activities** (source: NYT)
+- **Bloomberg**: discussions for a second meeting before the **22 April deadline** (source: Bloomberg)
 - President Pezeshkian: dialogue is open but within international law; Europe should play an active role
 - France + UK planning a defensive mission in Hormuz; **Turkey opposed**
 - **Israel-Lebanon**: negotiations in Washington today (2026-04-15)

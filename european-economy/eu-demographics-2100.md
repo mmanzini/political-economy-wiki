@@ -1,17 +1,26 @@
 # EU Demographics: Projections to 2100
 
+**Source:** [Eurostat demographic projections (2026-04-16)](https://ec.europa.eu/eurostat) via *Ventisette* / Il Post, 2026-04-23
+**Author:** Eurostat
+
+---
+
 ## Source
 Eurostat demographic projections published 2026-04-16 (via *Ventisette* / Il Post, 2026-04-23).
 
+## Summary
+
+Eurostat's 2026 projections forecast an 11.7% population decline by 2100, driven by low birth rates. The most dramatic shift is the 80+ cohort tripling from 6% to 16% of the EU population. The Baltic states, Poland, and Italy face the steepest absolute declines, while migration-receiving states like Luxembourg and Malta continue growing.
+
 ## Headline Figures
-- EU population projected to **shrink 11.7%** by 2100, driven primarily by low birth rates
-- Share aged **0–19**: 20% → 17%
-- Share aged **20–64** (working-age): 58% → 50%
-- Share aged **80+**: **6% → 16%** — the most dramatic structural shift
+- EU population projected to **shrink 11.7%** by 2100, driven primarily by low birth rates (source: Eurostat)
+- Share aged **0–19**: 20% → 17% (source: Eurostat)
+- Share aged **20–64** (working-age): 58% → 50% (source: Eurostat)
+- Share aged **80+**: **6% → 16%** — the most dramatic structural shift (source: Eurostat)
 
 ## Country-Level Variation
-- **Growing populations** (immigration-driven): Luxembourg, Iceland, Malta
-- **Biggest declines**:
+- **Growing populations** (immigration-driven): Luxembourg, Iceland, Malta (source: Eurostat)
+- **Biggest declines** (source: Eurostat):
   - Latvia: −33.9%
   - Lithuania: −33.4%
   - Poland: −31.6%

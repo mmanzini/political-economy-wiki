@@ -1,20 +1,29 @@
 # MAGA as New Religious Movement: Grace vs Sword
 
+**Source:** [Fuori da Qui podcast Ep.102 — "La grazia e la spada"](https://coranews.it) (Simone Pirani, 2026-04-19)
+**Author:** Simone Pirani
+
+---
+
 *Source: "Fuori da Qui" podcast Ep.102 — "La grazia e la spada" (Simone Pirani, Coranews), 2026-04-19. Drawing on Vox (Jun 2025, "Donald Trump Is Building a Strange New Religious Movement"), Aeon (Apr 2026, "Revolutionary Tolerance"), The New Yorker ("The Politics of Faith after Charlie Kirk"), and The Atlantic ("Fully MAGA").*
+
+## Summary
+
+MAGA represents a structural rupture with the old Christian right: rather than "state conforms to church," the MAGA model bends the church to the nation. The institutional marker is the abolition of the Office for Faith-Based Partnerships and its replacement with a Commission on Religious Freedom that frames religious institutions' legitimacy by how "sufficiently American" they are. Charlie Kirk's funeral — Erika Kirk's Luke 23:34 forgiveness versus Trump's "I hate my opponents" laugh-line — is the exemplary tableau of this substitution.
 
 ## Thesis: A Rupture with the Old Religious Right
 
-- For six decades the US religious right was a traditional **Christian nationalism** — theocratic in inspiration, trying to conform state law to scriptural standards (prayer in schools, National Prayer Breakfast, etc.)
-- The **MAGA religious movement** is **fundamentally different and opposed** to the old religious right
+- For six decades the US religious right was a traditional **Christian nationalism** — theocratic in inspiration, trying to conform state law to scriptural standards (source: Fuori da Qui Ep.102)
+- The **MAGA religious movement** is **fundamentally different and opposed** to the old religious right (source: Fuori da Qui Ep.102)
 - Traditional model: "state conforms to church"
-- MAGA model: **"church is bent to the will of the nation"** — religion subordinated to an ethno-nationalist project
+- MAGA model: **"church is bent to the will of the nation"** — religion subordinated to an ethno-nationalist project (source: Fuori da Qui Ep.102)
 - Comparable structurally to **post-revolutionary Iran** (clerical guardians govern) — but inverted — or to the Russian Orthodox Church under the Kremlin, acting as propaganda and intelligence arm
 - Coherence is **political, not theological**
 
 ## Institutional Marker: Commission on Religious Freedom
 
-- Previous administrations (all three pre-Trump) maintained an **Office for Faith-Based Partnerships** — treated religious organisations as charitable partners against poverty, human trafficking, etc. (church helping state with collective moral failures)
-- Trump admin **abolished this office** and replaced it with a **Commission on Religious Freedom** tasked with producing an official account of religious freedom in America
+- Previous administrations (all three pre-Trump) maintained an **Office for Faith-Based Partnerships** — treated religious organisations as charitable partners against poverty, human trafficking, etc. (source: Fuori da Qui Ep.102)
+- Trump admin **abolished this office** and replaced it with a **Commission on Religious Freedom** tasked with producing an official account of religious freedom in America (source: Fuori da Qui Ep.102)
 - Shift: religion is no longer a balm for moral ills; **American history and institutions become the vehicle through which religion sustains itself**
 - Religious institutions prosper in proportion to how "sufficiently American" they are — per MAGA definition: **white, heterosexual, unconditionally loyal to the nation**
 - "Religious freedom" is redeployed as a weapon — same move the segregationists made to block racial equality — now against LGBTQ+ rights and reproductive healthcare

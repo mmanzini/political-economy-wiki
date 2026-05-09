@@ -1,13 +1,22 @@
 # China Medical Tourism — The Hospital of the World
 
+**Source:** The Economist / Six Don data; Guangzhou Daily (state media) — compiled 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+China is rapidly becoming the world's third major export industry after manufacturing and technology — this time in healthcare. 1.28 million foreign patients visited Chinese hospitals in 2025 (+73.6% in three years), drawn by speed, cost, and integrated AI/fintech systems. Beneath the economic model lies a strategic prize: harvesting globally representative biometric data to dominate future AI-driven personalised medicine.
+
 China is emerging as a global destination for medical tourism, combining high clinical professionalism, ultra-modern equipment, AI/fintech-streamlined procedures, and short waiting times. Foreign patients from saturated Western and Asian health systems are increasingly travelling to Beijing, Shanghai and Guangzhou for treatment.
 
 ## Scale
 
-- **2025**: 1.28 million foreign patient visits to Chinese hospitals
-- **+73.6%** vs. three years prior (Six Don / The Economist data)
-- **2023 revenue from foreign patients**: ~$5 billion
-- Patient base shifting from wealthy cosmetic-surgery tourists to Asian and Western middle class fleeing waiting lists
+- **2025**: 1.28 million foreign patient visits to Chinese hospitals (source: The Economist / Six Don data)
+- **+73.6%** vs. three years prior (source: The Economist / Six Don data)
+- **2023 revenue from foreign patients**: ~$5 billion (source: china-medical-tourism.md)
+- Patient base shifting from wealthy cosmetic-surgery tourists to Asian and Western middle class fleeing waiting lists (source: china-medical-tourism.md)
 
 ## Why Patients Come
 

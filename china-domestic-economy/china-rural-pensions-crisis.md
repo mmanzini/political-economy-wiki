@@ -1,5 +1,14 @@
 # China: Rural Pensions Crisis
 
+**Source:** Chinese legislative reports; Zichen Wang analysis; commentary by Su Hainan and David Daokui — compiled 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+In 2026 China raised rural minimum pensions by just 20 yuan/month (~€2.50) to 163 yuan total — less than $1/day — provoking a rare public revolt from legislative delegates. The 21:1 urban-rural pension gap reflects decades of extraction from the countryside that funded industrialisation, and contradicts Xi Jinping's flagship "Common Prosperity" programme.
+
 ## The 20-Yuan Insult
 
 - In 2026, China raised rural minimum pensions by just **20 yuan/month** (~€2.50), bringing the total to **163 yuan/month** (~€22)
@@ -9,10 +18,10 @@
 
 ## The Numbers
 
-- **180 million people** depend on rural pensions (70%+ are farmers)
-- Average **urban pension**: ~3,500 yuan/month (~€440) — a **21:1 ratio**
-- At 20 yuan/year increases, reaching a dignified 1,000 yuan pension would take **42 years** — most recipients will die first
-- In 2009, rural pensions were 55 yuan; going from 55 to 163 in 17 years is "progress at the limit of insult" (Zichen Wang)
+- **180 million people** depend on rural pensions (70%+ are farmers) (source: china-rural-pensions-crisis.md)
+- Average **urban pension**: ~3,500 yuan/month (~€440) — a **21:1 ratio** (source: china-rural-pensions-crisis.md)
+- At 20 yuan/year increases, reaching a dignified 1,000 yuan pension would take **42 years** (source: china-rural-pensions-crisis.md)
+- In 2009, rural pensions were 55 yuan; going from 55 to 163 in 17 years is "progress at the limit of insult" (source: Zichen Wang)
 
 ## The Historical Debt
 

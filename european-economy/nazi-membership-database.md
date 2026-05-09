@@ -1,10 +1,19 @@
 # Nazi Membership Database: Memory Politics in Germany and Austria
 
+**Source:** Die Zeit searchable database (March 2026); US National Archives
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+In March 2026, the US National Archives released digitised NSDAP membership records, which *Die Zeit* organised into a public searchable database. Within hours, millions of visits revealed that ~1 in 5 German adults of the era had been NSDAP members — shattering post-war family narratives of non-involvement and opening a new chapter in individual reckoning with inherited historical guilt.
+
 ## The Database
-- **Source**: US National Archives; digitised and made public in **March 2026**
+- **Source**: US National Archives; digitised and made public in **March 2026** (source: US National Archives)
 - **Contents**: Records of millions of Germans who joined the NSDAP (Nazi party) in the 1930s–40s
-- **Scope**: Estimated **~8.5 million NSDAP members** — roughly **1 in 5 adults** of the era
-- **Access before**: Possible but "macchinoginoso" (cumbersome) — required navigating raw archival data
+- **Scope**: Estimated **~8.5 million NSDAP members** — roughly **1 in 5 adults** of the era (source: US National Archives)
+- **Access before**: Possible but cumbersome — required navigating raw archival data
 
 ## Die Zeit's Contribution
 - German newspaper *Die Zeit* organised the data into a **searchable database** accessible to the public

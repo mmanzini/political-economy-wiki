@@ -1,5 +1,14 @@
 # Hungary Post-Election: Magyar's Priorities
 
+**Source:** [Bloomberg (2026-04-18)](https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally); Politico — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+Péter Magyar's post-election priorities centre on dismantling Orbán's institutional grip (retroactive two-term limit, loyalist removal, court reform), unlocking ~€35B in EU frozen funds, and pivoting Hungary toward EU and NATO alignment. The first concrete geopolitical result came on 2026-04-23 when COREPER unblocked a €90B EU loan to Ukraine after Hungary dropped its veto.
+
 ## Government Formation Timeline
 - Orbán remains in office until the new parliament convenes and votes confidence in the new government
 - New parliament expected to convene **9 May 2026**, after which a confidence vote on the Magyar government is expected
@@ -26,8 +35,8 @@
 - The Druzhba oil pipeline (Russian crude through Ukraine to Hungary) was damaged by Russian bombardment
 - Orbán accused Zelensky of deliberately not repairing it, using this as pretext to block a **€90B EU loan to Ukraine**
 - Zelensky (post-Magyar victory): committed to repairing the pipeline — and **did repair it** by late April 2026
-- **2026-04-23 update**: COREPER (EU Council preparatory committee) **unblocked the €90B loan** to Ukraine after Hungary withdrew its veto
-  - EU member states had agreed the loan in December 2025; Hungary's veto delayed it for months
+- **2026-04-23 update**: COREPER (EU Council preparatory committee) **unblocked the €90B loan** to Ukraine after Hungary withdrew its veto (source: hungary-post-election-priorities.md)
+  - EU member states had agreed the loan in December 2025; Hungary's veto delayed it for months (source: hungary-post-election-priorities.md)
   - With the pipeline repaired and Orbán out, Hungary dropped its opposition
   - Final approval pending: member states had until 2026-04-24 to raise objections; no significant opposition expected
   - First concrete geopolitical consequence of Orbán's electoral defeat

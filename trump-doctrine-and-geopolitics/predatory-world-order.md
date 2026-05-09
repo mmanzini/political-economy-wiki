@@ -1,10 +1,18 @@
 # Predatory World Order: Machiavelli vs Sun Tzu
 
+**Source:** Fuori da Qui podcast (Coranews) — compiled 2026
+**Author:** Simone Pirani
+
+---
+
+## Summary
+
+Trump has operationalised Machiavelli's predatory doctrine — "men must either be caressed or annihilated" — beginning with the Venezuela blitz (3 January 2026). Xi Jinping counters with Sun Tzu's strategic patience: refusing direct confrontation and letting US overextension accumulate. Mencius offers a third frame: legitimacy is not strategic but moral, and rulers who abandon virtue eventually lose the mandate to rule.
+
 ## The Venezuela Blitz (3 January 2026)
-- US special operation: **Nicolás Maduro and his wife arrested** in Caracas; ~80 casualties (US sources)
-- Trump: Venezuelan oil "will be ours" — to be sold to Russians and Chinese for dollars
-- Ends decades of Western half-measures: sanctions, diplomatic isolation, tepid opposition support
-- All prior approaches left Maduro in power; the blitz removed him in one night
+- US special operation: **Nicolás Maduro and his wife arrested** in Caracas; ~80 casualties (source: predatory-world-order.md)
+- Trump: Venezuelan oil "will be ours" — to be sold to Russians and Chinese for dollars (source: predatory-world-order.md)
+- Ends decades of Western half-measures; all prior approaches left Maduro in power; the blitz removed him in one night (source: predatory-world-order.md)
 
 ## The Doctrine of the Predatory Order
 - **"Men must either be caressed or annihilated"** (Machiavelli, *The Prince*, 1513)

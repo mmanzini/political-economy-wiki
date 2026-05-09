@@ -1,11 +1,20 @@
 # Silicon Valley Civil War Over Military AI
 
+**Source:** Multiple press reports (CBS News, Financial Times, Reuters) — compiled March–April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+Anthropic walked away from a $200M Pentagon contract over mass-surveillance and autonomous-weapons red lines, while OpenAI immediately signed a competing deal using a technically flimsy justification. Anduril (founded by Palmer Luckey) is emerging as the third path — a company built from the ground up for autonomous weapons, now disrupting traditional defense primes like Boeing and Lockheed Martin.
+
 ## The Pentagon–Anthropic Confrontation (February–March 2026)
-- **Contract on the table**: $200M DoD contract for Claude in classified systems
+- **Contract on the table**: $200M DoD contract for Claude in classified systems (source: silicon-valley-military-ai-split.md)
 - Anthropic's two non-negotiable red lines:
   1. No use for **mass surveillance** of US citizens (bulk-collected data: browsing history, GPS tracking, credit card transactions)
   2. No use in **fully autonomous weapons** without meaningful human control
-- Friday of the final negotiation week: Anthropic discovers the government wants Claude to analyze bulk-collected citizen data → walks away
+- Friday of the final negotiation week: Anthropic discovers the government wants Claude to analyze bulk-collected citizen data → walks away (source: silicon-valley-military-ai-split.md)
 - Pentagon offered a compromise: keep AI "only in the cloud," not physically on drones — so AI would not "pull the trigger" directly
 - Anthropic rejected this: in modern military architectures, cloud and battlefield are not separate; a server in Virginia guiding an armed drone is ethically the same as being on board
 
@@ -29,11 +38,11 @@
 - Employee dissent has not changed outcomes but represents a genuine internal fracture
 
 ## Palmer Luckey and Anduril: The Alternative
-- **Anduril** (founded 2017) is building exactly what the ethical wing of Silicon Valley refuses to touch
-- Founder: **Palmer Luckey** — created Oculus VR, sold to Facebook for $2B; fired in 2017 after a $9,000 donation to a pro-Trump political org; reinvented as defense tech founder
-- **Anduril valuation**: ~$31B; **$6B+** in government contracts; building a **$1B factory in Ohio**
-- DoD FY2026 budget for autonomous weapons: **$13.4B**
-- April 2026: Anduril beat **Boeing and Lockheed Martin** for a US Air Force autonomous fighter jet contract — a historic disruption of the traditional defense prime contractor system
+- **Anduril** (founded 2017) is building exactly what the ethical wing of Silicon Valley refuses to touch (source: silicon-valley-military-ai-split.md)
+- Founder: **Palmer Luckey** — created Oculus VR, sold to Facebook for $2B; fired in 2017 after a $9,000 donation to a pro-Trump political org; reinvented as defense tech founder (source: silicon-valley-military-ai-split.md)
+- **Anduril valuation**: ~$31B; **$6B+** in government contracts; building a **$1B factory in Ohio** (source: silicon-valley-military-ai-split.md)
+- DoD FY2026 budget for autonomous weapons: **$13.4B** (source: silicon-valley-military-ai-split.md)
+- April 2026: Anduril beat **Boeing and Lockheed Martin** for a US Air Force autonomous fighter jet contract (source: silicon-valley-military-ai-split.md)
 - Luckey's vision: autonomous weapons "stored like industrial products in a warehouse — press a button, they wake up and remember all their training, because they are robots"
 - Reportedly suggested to Trump the renaming of "Department of Defense" back to "Department of War"
 - Close personal relationship with Trump; regularly at Mar-a-Lago

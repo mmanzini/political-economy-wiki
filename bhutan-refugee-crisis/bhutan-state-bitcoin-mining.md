@@ -1,5 +1,14 @@
 # Bhutan: State Bitcoin Mining and Crypto Facade
 
+**Source:** Multiple press reports (Bloomberg, Financial Times) — compiled 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+Bhutan has quietly become a state-level Bitcoin mining power, leveraging cheap hydroelectric energy to accumulate $1.4 billion in BTC reserves by early 2024 — the largest state "green" crypto reserve in the world. A tourist-facing crypto payment system launched in 2024 has largely failed due to infrastructure barriers, revealing it as primarily a PR operation for the state's real digital asset strategy.
+
 ## The Crypto Payment System (2024)
 
 - In May 2024, Bhutan launched a **national cryptocurrency payment system for tourists** via Binance Pay
@@ -11,11 +20,11 @@
 
 ## State Bitcoin Mining
 
-- Since 2019, Bhutan has leveraged **abundant hydroelectric power** and low domestic consumption to run state-owned Bitcoin mining facilities
-- By early 2024, reserves reached **$1.4 billion** — the largest state reserve of "green" cryptocurrency in the world
-- Unlike the US and China (which obtained BTC through seizures/purchases), Bhutan produces its own using renewable energy
-- Bitcoin provides **foreign currency** to pay for imports, circumventing chronic shortages
-- In 2023, the government sold **$72 million in Bitcoin** to finance a 50% salary increase for all public employees
+- Since 2019, Bhutan has leveraged **abundant hydroelectric power** and low domestic consumption to run state-owned Bitcoin mining facilities (source: bhutan-state-bitcoin-mining.md)
+- By early 2024, reserves reached **$1.4 billion** — the largest state reserve of "green" cryptocurrency in the world (source: bhutan-state-bitcoin-mining.md)
+- Unlike the US and China (which obtained BTC through seizures/purchases), Bhutan produces its own using renewable energy (source: bhutan-state-bitcoin-mining.md)
+- Bitcoin provides **foreign currency** to pay for imports, circumventing chronic shortages (source: bhutan-state-bitcoin-mining.md)
+- In 2023, the government sold **$72 million in Bitcoin** to finance a 50% salary increase for all public employees (source: bhutan-state-bitcoin-mining.md)
 
 ## The Contradiction
 

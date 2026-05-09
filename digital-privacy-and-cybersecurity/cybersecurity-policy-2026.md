@@ -1,10 +1,19 @@
 # Cybersecurity Policy Landscape 2026
 
+**Source:** Coalfire, Forcepoint, Perspective Labs, Detecon, AI Magicx, Just Security — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
 *Sources: Coalfire, Forcepoint, Perspective Labs, Detecon, AI Magicx, Just Security — compiled April 2026.*
+
+## Summary
+
+The 2026 cybersecurity landscape is defined by two diverging governance paradigms: the EU's risk-classification approach (EU AI Act enforcement from August 2026) versus the Trump administration's offensive-cyber posture. The key structural gap is data sovereignty for AI processing rather than storage, and the transition to agentic AI is about to widen this gap dramatically.
 
 ## EU AI Act: Key Enforcement Milestones
 
-- **2 August 2026**: core framework broadly operational; Annex III high-risk provisions take full effect
+- **2 August 2026**: core framework broadly operational; Annex III high-risk provisions take full effect (source: EU AI Act)
 - **August 2027**: second wave of provisions
 - High-risk AI categories (Annex III) — mandatory conformity assessments before EU deployment:
   - Hiring and employment screening
@@ -16,8 +25,8 @@
 
 ## Data Sovereignty and the AI Processing Gap
 
-- At least 34 countries have enacted data localisation requirements restricting where AI processing can occur
-- 29% of organisations cite cross-border AI transfers as their top compliance exposure
+- At least 34 countries have enacted data localisation requirements restricting where AI processing can occur (source: cybersecurity-policy-2026.md)
+- 29% of organisations cite cross-border AI transfers as their top compliance exposure (source: cybersecurity-policy-2026.md)
 - The critical gap: most organisations have solved sovereignty for **storage** but not for where data is **processed, trained, or inferred**
 - EU-US data privacy framework collapse creates a live regulatory exposure: API calls to US-hosted AI models may violate regulations in 30+ countries
 - 2026 transition: from large language models to **agentic AI** (autonomous reasoning, real-world execution) — raises the stakes dramatically

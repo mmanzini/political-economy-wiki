@@ -1,5 +1,10 @@
 # USCIRF and the Hollowing of Religious Freedom Foreign Policy (2026)
 
+**Source:** [USCIRF 2026 Annual Report (March 4, 2026)](https://www.uscirf.gov); The Diplomat; Hudson Institute; Just Security
+**Author:** USCIRF
+
+---
+
 *Sources: USCIRF 2026 Annual Report (March 4, 2026); The Diplomat; Hudson Institute; Just Security.*
 
 ## What USCIRF Is
@@ -9,18 +14,22 @@
 - Established by the International Religious Freedom Act (IRFA, 1998) — a product of the rules-based multilateral human rights order
 - Members appointed by the President and Congressional leaders; advisory only — not a decision-making body
 
+## Summary
+
+USCIRF's 2026 annual report reveals over two years of zero Country of Particular Concern (CPC) designations — the Trump administration has systematically decoupled its religious freedom rhetoric from any enforcement mechanism. Aid cuts, low refugee admissions (7,500 in 2026), and the commission's structural tension with transactional diplomacy all confirm the same substitution operating domestically: the religious freedom label retained while its substantive content is replaced by geopolitical utility.
+
 ## 2026 Annual Report (Released March 4, 2026)
 
-- Assessed religious freedom conditions in **29 countries** covering 2025
-- Recommended **18 countries** for CPC designation: Afghanistan, Burma, China, Cuba, Eritrea, India, Iran, Libya, Nicaragua, Nigeria, North Korea, Pakistan, Russia, Saudi Arabia, Syria, Tajikistan, Turkmenistan, Vietnam
-- **11 countries** for Special Watch List (SWL)
-- **7 entities** for Entities of Particular Concern (EPC) designation
+- Assessed religious freedom conditions in **29 countries** covering 2025 (source: USCIRF 2026 Annual Report)
+- Recommended **18 countries** for CPC designation: Afghanistan, Burma, China, Cuba, Eritrea, India, Iran, Libya, Nicaragua, Nigeria, North Korea, Pakistan, Russia, Saudi Arabia, Syria, Tajikistan, Turkmenistan, Vietnam (source: USCIRF 2026 Annual Report)
+- **11 countries** for Special Watch List (SWL) (source: USCIRF 2026 Annual Report)
+- **7 entities** for Entities of Particular Concern (EPC) designation (source: USCIRF 2026 Annual Report)
 
 ## Trump Administration Tensions
 
-- **No CPC designations since 2023**: over two years elapsed; USCIRF urged the Trump administration to act — "they're expired"
-- **Foreign aid cuts**: USAID suspension left hundreds of religious persecution victims without lifesaving assistance in Afghanistan, Burma, Egypt, Nigeria, Vietnam
-- **Refugee admissions**: Trump authorised only 7,500 refugees in 2026 — historically low; disproportionately impacts religious minorities fleeing persecution
+- **No CPC designations since 2023**: over two years elapsed; USCIRF urged the Trump administration to act (source: USCIRF 2026 Annual Report)
+- **Foreign aid cuts**: USAID suspension left hundreds of religious persecution victims without lifesaving assistance in Afghanistan, Burma, Egypt, Nigeria, Vietnam (source: USCIRF 2026 Annual Report)
+- **Refugee admissions**: Trump authorised only 7,500 refugees in 2026 — historically low (source: USCIRF 2026 Annual Report)
 - **Mixed rhetoric vs action**: VP Vance gave major address at February 2026 International Religious Freedom Summit — administration's policy record contradicts the rhetoric
 - **Internal commission split**: Republican commissioners officially dissented from USCIRF's policy critique sections — agreed on findings, but disputed whether the commission should critique US domestic policy at all
 

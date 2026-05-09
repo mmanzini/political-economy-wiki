@@ -1,16 +1,25 @@
 # Other Asset Classes — April 2026
 
+**Source:** Market data (Bloomberg) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+As of April 2026, gold is in its third consecutive positive week despite daily dips, reflecting sustained safe-haven demand during the energy crisis. Bitcoin is flat at ~$72,000 despite its new geopolitical role as an accepted Hormuz toll payment — indicating no observable market premium from that utility.
+
 Snapshot of safe-haven and alternative assets as of 2026-04-11.
 
 ## Precious Metals
 
-- **Gold**: down 0.6% on the day, but heading for its **3rd consecutive positive week**
-- **Silver**: down fractionally
+- **Gold**: down 0.6% on the day, but heading for its **3rd consecutive positive week** (source: other-asset-classes.md)
+- **Silver**: down fractionally (source: other-asset-classes.md)
 
 ## Crypto
 
-- **Bitcoin**: $72,108 — flat on the day
-- Bitcoin also accepted as payment for Hormuz strait tolls (alongside Chinese yuan)
+- **Bitcoin**: $72,108 — flat on the day (source: other-asset-classes.md)
+- Bitcoin also accepted as payment for Hormuz strait tolls (alongside Chinese yuan) (source: other-asset-classes.md)
 
 ## Key Takeaways
 

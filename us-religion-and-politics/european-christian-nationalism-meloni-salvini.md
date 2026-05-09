@@ -1,14 +1,23 @@
 # European Christian Nationalism: Meloni, Salvini, and the Italian Template
 
+**Source:** Canopy Forum (2024); Springer (2025, Fratelli d'Italia); USCIRF source material — compiled 2026
+**Author:** (source: needs-verification)
+
+---
+
 *Sources: Canopy Forum (2024); Springer (2025, Fratelli d'Italia); USCIRF source material; compiled 2026.*
+
+## Summary
+
+Meloni and Salvini are applying a pre-existing Italian tradition of religiously inflected identity politics to the 2020s global right-wing wave. The structural move is identical to MAGA: religion as political mobilisation tool rather than theological conviction, with the form of Christianity preserved while its substance is replaced by nationalism. Both operate within the ECR-Orbán-NatCon international network.
 
 ## The Italian Template
 
 - **Giorgia Meloni** (Prime Minister, Fratelli d'Italia / Brothers of Italy):
-  - Launched international profile with 2019 viral speech: "I am Giorgia, I am a woman, I am a mother, I am Italian, I am Christian, and no one will take that away from me"
-  - Religious identity politics: Christianity as civilisational bulwark against Islam; Catholic values against "gender ideology"
-  - Academic framing: employs women's rights rhetoric instrumentally — as a vehicle for anti-Islam exclusion rather than feminist emancipation (Springer, 2025)
-  - Consecrated Italy to the Immaculate Heart of Mary — ritual political-religious theatre
+  - Launched international profile with 2019 viral speech: "I am Giorgia, I am a woman, I am a mother, I am Italian, I am Christian, and no one will take that away from me" (source: european-christian-nationalism-meloni-salvini.md)
+  - Religious identity politics: Christianity as civilisational bulwark against Islam; Catholic values against "gender ideology" (source: european-christian-nationalism-meloni-salvini.md)
+  - Academic framing: employs women's rights rhetoric instrumentally — as a vehicle for anti-Islam exclusion rather than feminist emancipation (source: Springer, 2025)
+  - Consecrated Italy to the Immaculate Heart of Mary — ritual political-religious theatre (source: european-christian-nationalism-meloni-salvini.md)
 - **Matteo Salvini** (Lega Nord, Deputy PM):
   - More explicitly far-right; pan-European Christian Nationalism
   - Carries rosary beads and crucifix at rallies; slogan: "first Italy, then God"

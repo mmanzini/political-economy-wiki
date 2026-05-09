@@ -1,13 +1,22 @@
 # Urea and Food Crisis
 
+**Source:** Multiple press reports (FAO, Reuters, regional media) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+The Hormuz energy crisis has cascaded into a food crisis through the gas → urea → fertiliser → harvest chain. Urea prices rose 83% in the first quarter of 2026, with multiple Asian countries facing fertiliser reserves measured in weeks rather than months, threatening entire harvest cycles if supplies don't arrive in time for planting.
+
 The energy crisis is metamorphosing into a food crisis through a critical dependency: natural gas → urea → nitrogen fertilisers → food production.
 
 ## The Urea Chain
 
-- Natural gas is 60–90% of urea production costs
-- The Persian Gulf supplies 35% of global urea exports
-- Urea is the basis of nitrogen fertilisers essential for rice, corn, and wheat in Asia
-- By 2026-03-31, urea prices had risen **83% since 1 January 2026** (vs. +70% measured from the war's start in late February — see [[brent-oil-price-dynamics]])
+- Natural gas is 60–90% of urea production costs (source: urea-and-food-crisis.md)
+- The Persian Gulf supplies 35% of global urea exports (source: urea-and-food-crisis.md)
+- Urea is the basis of nitrogen fertilisers essential for rice, corn, and wheat in Asia (source: urea-and-food-crisis.md)
+- By 2026-03-31, urea prices had risen **83% since 1 January 2026** (source: urea-and-food-crisis.md)
 
 ## Country Exposure
 

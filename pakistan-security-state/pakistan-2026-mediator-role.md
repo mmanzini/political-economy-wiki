@@ -1,10 +1,19 @@
 # Pakistan's 2026 Mediator Role — Munir, Trump, and "Active Opportunism"
 
+**Source:** [Altri Orienti Ep.167](https://choramedia.com) (Chora Media, Apr 2026)
+**Author:** Simone Pieranni
+
+---
+
 How Islamabad has positioned itself at the centre of the US-Iran-Gulf crisis as of April 2026. Source: *Altri Orienti* Ep.167 (Chora Media, Apr 2026).
+
+## Summary
+
+Pakistan's Field Marshal Asim Munir leveraged a personal relationship with Trump to position Islamabad as the key US-Iran mediator in April 2026, extracting a $500M critical-minerals deal and integration of the Trump family's World Liberty Financial stablecoin into Pakistan's national payments system. This represents a third moment — after 1979 and 9/11 — when an external war rehabilitates Pakistan's army-led state by generating strategic rents.
 
 ## The Setup (17 April 2026)
 
-- Islamabad presided by 10,000 security agents; two days of national holiday declared for the US-Iran talks
+- Islamabad presided by 10,000 security agents; two days of national holiday declared for the US-Iran talks (source: Altri Orienti Ep.167)
 - The two-week ceasefire that began **8 April 2026** remains extremely fragile
 - Israel continues bombing Lebanon; Hormuz reopening (20% of world oil) is not yet guaranteed
 - Pakistan acts as mediator through what analysts call **"active opportunism"** (*opportunismo attivo*)
@@ -20,13 +29,13 @@ How Islamabad has positioned itself at the centre of the US-Iran-Gulf crisis as 
 
 ### 1. Critical Minerals Deal — $500 million
 
-- Pakistan granted the US easy access to Pakistani critical minerals
-- Deal valued at **$500 million**
+- Pakistan granted the US easy access to Pakistani critical minerals (source: Altri Orienti Ep.167)
+- Deal valued at **$500 million** (source: Altri Orienti Ep.167)
 
 ### 2. World Liberty Financial Stablecoin Integration
 
-- Pakistan has integrated the **World Liberty Financial stablecoin** — the cryptocurrency company of the Trump family — into its **national payments system**
-- Direct monetary entanglement between a sitting US presidency's family business and a sovereign payments rail
+- Pakistan has integrated the **World Liberty Financial stablecoin** — the cryptocurrency company of the Trump family — into its **national payments system** (source: Altri Orienti Ep.167)
+- Direct monetary entanglement between a sitting US presidency's family business and a sovereign payments rail (source: Altri Orienti Ep.167)
 - Concrete example of the predatory order: state-level transactional dependency on a presidential-family financial product
 
 ## Pakistan's Balancing Act

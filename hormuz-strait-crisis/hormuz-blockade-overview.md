@@ -1,6 +1,15 @@
 # Hormuz Blockade Overview
 
-The Strait of Hormuz — 167 km of water dubbed the "jugular vein of the world" — has been effectively shut down since late February 2026 following the US operation codenamed *Epic Fury*. Iran responded by militarising the strait, reducing transit by ~90%.
+**Source:** Multiple press reports (Reuters, Bloomberg, CENTCOM, TankerTrackers) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+The Strait of Hormuz — 167 km handling 20% of global oil supply — was effectively shut down from late February 2026 following the US Operation *Epic Fury*. Iran responded with a discriminatory toll-and-authorisation system priced in yuan, physical mines, and shadow-fleet diplomacy, causing the largest energy supply disruption in modern history and triggering cascading crises across Asia, Europe, and global commodity markets.
+
+The Strait of Hormuz — 167 km of water dubbed the "jugular vein of the world" — has been effectively shut down since late February 2026 following the US operation codenamed *Epic Fury*. Iran responded by militarising the strait, reducing transit by ~90% (source: hormuz-blockade-overview.md).
 
 ## Update — US Naval Blockade (2026-04-15, Day 46)
 
@@ -11,10 +20,10 @@ The Strait of Hormuz — 167 km of water dubbed the "jugular vein of the world" 
 - US Energy Secretary Chris Wright: prices will keep rising until flows recover
 - WSJ: Saudi Arabia has asked Trump to lift the blockade
 - ~70 container ships heading to US East Coast to load American crude
-- **Cumulative oil supply lost since war start: 430 million barrels**
-- **Urea prices**: +70% since war start (late Feb 2026); +83% since 1 Jan 2026 — different baseline than [[urea-and-food-crisis]]
-- Saudi production reportedly down to ~6 mb/d
-- FAO/UN warning of agro-food catastrophe risk; **urea prices +70% since war start**
+- **Cumulative oil supply lost since war start: 430 million barrels** (source: hormuz-blockade-overview.md)
+- **Urea prices**: +70% since war start (late Feb 2026); +83% since 1 Jan 2026 (source: hormuz-blockade-overview.md)
+- Saudi production reportedly down to ~6 mb/d (source: hormuz-blockade-overview.md)
+- FAO/UN warning of agro-food catastrophe risk (source: FAO/UN)
 
 ## Current Status (2026-04-12)
 

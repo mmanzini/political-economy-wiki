@@ -1,11 +1,20 @@
 # AI Risks and Safety
 
+**Source:** [Dario Amodei, "The Adolescence of Technology"](https://darioamodei.com)
+**Author:** Dario Amodei
+
+---
+
 *Source: Dario Amodei, "The Adolescence of Technology" (darioamodei.com, 2026)*
+
+## Summary
+
+Dario Amodei's essay frames AI development as humanity's "technological adolescence" — a civilisational test with five risk categories (autonomy, mass destruction, power seizure, economic disruption, and indirect effects), each paired with proposed defences. The central argument is that stopping AI is impossible, making careful development within democracies the only viable path.
 
 ## Core Thesis
 
-- Humanity is entering a "technological adolescence" — a rite of passage that will test whether our social, political, and technological systems can handle almost unimaginable power
-- Powerful AI ("country of geniuses in a datacenter") may be **1–2 years away**; AI is now writing much of the code at Anthropic, creating a feedback loop accelerating its own development
+- Humanity is entering a "technological adolescence" — a rite of passage that will test whether our social, political, and technological systems can handle almost unimaginable power (source: darioamodei.com)
+- Powerful AI ("country of geniuses in a datacenter") may be **1–2 years away**; AI is now writing much of the code at Anthropic, creating a feedback loop accelerating its own development (source: darioamodei.com)
 - Five categories of risk, each with proposed defences
 - Approach: avoid doomerism, acknowledge uncertainty, intervene surgically — start with transparency legislation, escalate only with evidence
 
@@ -30,9 +39,9 @@
 ## 2. Misuse for Destruction ("A surprising and terrible empowerment")
 
 ### The Problem
-- AI breaks the **negative correlation between ability and motive**: disturbed individuals who lack skill to create bioweapons get elevated to PhD-level capability
-- **Biology is the scariest vector**: some agents could cause millions of deaths; LLMs may already provide **substantial uplift** (doubling or tripling likelihood of success for some steps)
-- As of mid-2025, models approaching the threshold where someone with a STEM degree (not specifically biology) could be walked through the entire bioweapon production process with AI assistance
+- AI breaks the **negative correlation between ability and motive**: disturbed individuals who lack skill to create bioweapons get elevated to PhD-level capability (source: darioamodei.com)
+- **Biology is the scariest vector**: some agents could cause millions of deaths; LLMs may already provide **substantial uplift** (doubling or tripling likelihood of success for some steps) (source: darioamodei.com)
+- As of mid-2025, models approaching the threshold where someone with a STEM degree (not specifically biology) could be walked through the entire bioweapon production process with AI assistance (source: darioamodei.com)
 - Future risk: **mirror life** — organisms with opposite chirality that could be indigestible to all existing biological systems, potentially destroying all life on earth. Currently far from feasible but powerful AI could accelerate this.
 - AI-led cyberattacks already happening in the wild, including state-sponsored espionage
 

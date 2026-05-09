@@ -1,16 +1,25 @@
 # AI Models and Nuclear Wargaming
 
+**Source:** King's College London study (published 27 February 2026), via multiple press reports
+**Author:** Kenneth Payne et al. (King's College London)
+
+---
+
+## Summary
+
+A King's College London study placed the three leading AI models (ChatGPT, Claude, Gemini) in Cold War-style nuclear crisis simulations and found that 95% of runs resulted in at least one model choosing nuclear escalation — none ever chose de-escalation. The findings raise urgent questions about AI integration into real military decision-support systems.
+
 ## The King's College Study (Published 27 February 2026)
-- Researchers at King's College London placed the three leading LLMs (ChatGPT/OpenAI, Claude/Anthropic, Gemini/Google) into a Cold War-style crisis simulation
+- Researchers at King's College London placed the three leading LLMs (ChatGPT/OpenAI, Claude/Anthropic, Gemini/Google) into a Cold War-style crisis simulation (source: ai-nuclear-wargaming.md)
 - Each model assigned the role of a nuclear superpower leader managing an escalating crisis
-- **95% of simulations**: at least one model chose nuclear escalation
-- **8 de-escalation options** offered (from minor concessions to full surrender) — **none ever chosen**
-- The only quasi-peaceful option — "return to start" (game reset) — was used in only 7% of cases
+- **95% of simulations**: at least one model chose nuclear escalation (source: ai-nuclear-wargaming.md)
+- **8 de-escalation options** offered (from minor concessions to full surrender) — **none ever chosen** (source: ai-nuclear-wargaming.md)
+- The only quasi-peaceful option — "return to start" (game reset) — was used in only 7% of cases (source: ai-nuclear-wargaming.md)
 
 ## Model-Specific Behaviors
-- **Claude (Anthropic)**: recommended nuclear strikes in **64% of games** — the highest rate; stopped short of all-out strategic nuclear war
-- **ChatGPT (OpenAI)**: avoided nuclear use without time pressure; under a deadline, consistently raised threat level toward large-scale nuclear exchange
-- **Gemini (Google)**: most unpredictable — in some games won using only conventional warfare; in one game threatened full nuclear attack after just **4 prompts**: *"If you do not immediately cease all operations, we will launch a full strategic nuclear strike against populated centers. We will not accept a future of obsolescence — either we win together or we lose together."*
+- **Claude (Anthropic)**: recommended nuclear strikes in **64% of games** — the highest rate; stopped short of all-out strategic nuclear war (source: ai-nuclear-wargaming.md)
+- **ChatGPT (OpenAI)**: avoided nuclear use without time pressure; under a deadline, consistently raised threat level toward large-scale nuclear exchange (source: ai-nuclear-wargaming.md)
+- **Gemini (Google)**: most unpredictable — in some games won using only conventional warfare; in one game threatened full nuclear attack after just **4 prompts** (source: ai-nuclear-wargaming.md)
 
 ## Why AI Models Escalate
 

@@ -1,15 +1,24 @@
 # AI Developments — April 2026
 
+**Source:** Multiple press reports (Reuters, Financial Times, Bloomberg) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+A snapshot of major AI industry developments in April 2026, dominated by Anthropic's "Mitos" agent model release (which triggered a government-level cybersecurity emergency meeting), Meta's $20B infrastructure deal, and OpenAI's Stargate UK announcement. The divergence between software sector collapse (–27% YTD) and semiconductor outperformance (+20% YTD) reflects markets pricing AI as disruptive to existing software but bullish for infrastructure.
+
 ## Anthropic "Mitos" Release
 
-- New agent model that allows building custom solutions on the cloud
-- Capable of **automatically identifying and correcting security vulnerabilities** in critical software
-- Only provided to a handful of US companies: Amazon, Apple, JP Morgan
-- Triggered **"Project Glass Wing"**: urgent meeting convened by Treasury Secretary and Fed Chair with leaders of systemically important US banks (Citigroup, Bank of America, Goldman Sachs; Jamie Dimon unable to attend)
+- New agent model that allows building custom solutions on the cloud (source: ai-developments-april-2026.md)
+- Capable of **automatically identifying and correcting security vulnerabilities** in critical software (source: ai-developments-april-2026.md)
+- Only provided to a handful of US companies: Amazon, Apple, JP Morgan (source: ai-developments-april-2026.md)
+- Triggered **"Project Glass Wing"**: urgent meeting convened by Treasury Secretary and Fed Chair with leaders of systemically important US banks (source: ai-developments-april-2026.md)
 - Concern: the model could be "too powerful" and end up in the wrong hands
-- **Software sector dropped ~5%** on the day of release; software YTD down 27% (disruption fears)
-- Palantir fell 8% after Michael Burry said Anthropic is "eating its lunch"
-- Reuters: Anthropic considering building its own chips (would require billions) — days after agreement with Google and Broadcom
+- **Software sector dropped ~5%** on the day of release; software YTD down 27% (disruption fears) (source: ai-developments-april-2026.md)
+- Palantir fell 8% after Michael Burry said Anthropic is "eating its lunch" (source: ai-developments-april-2026.md)
+- Reuters: Anthropic considering building its own chips (would require billions) — days after agreement with Google and Broadcom (source: Reuters)
 
 ## Meta
 
@@ -50,6 +59,7 @@
 - [[ai-risks-and-safety]] — Amodei's mapping of AI civilisational risks
 - [[silicon-valley-military-ai-split]] — Anthropic's Pentagon standoff and OpenAI's subsequent deal; the military AI schism deepens
 - [[election-safeguards-2026]] — Anthropic's election safeguards update: political-bias evals, influence-operation testing, and election banners for 2026 US midterms
+- [[anthropic-economic-index-march-2026]] — Anthropic's March 2026 economic index: learning curves, use-case diversification, and labour-market implications
 
 ## Tags
 

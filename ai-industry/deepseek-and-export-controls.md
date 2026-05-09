@@ -1,10 +1,19 @@
 # DeepSeek and Export Controls
 
+**Source:** [Dario Amodei, "On DeepSeek and Export Controls"](https://darioamodei.com)
+**Author:** Dario Amodei
+
+---
+
 *Source: Dario Amodei, "On DeepSeek and Export Controls" (darioamodei.com, January 2025)*
+
+## Summary
+
+Dario Amodei argues that DeepSeek-V3 is an expected point on the AI cost reduction curve (not a paradigm shift), but that its geopolitical significance — a Chinese lab reaching near-frontier performance first — makes chip export controls more important, not less. The essay lays out why the 2026–2027 period is critical and why only well-enforced export controls can prevent a bipolar AI world.
 
 ## Three Dynamics of AI Development
 
-- **Scaling laws**: more compute → smoothly better results across cognitive tasks; each 10x increase maps to a major capability jump (e.g., undergraduate → PhD level)
+- **Scaling laws**: more compute → smoothly better results across cognitive tasks; each 10x increase maps to a major capability jump (source: darioamodei.com)
 - **Shifting the curve**: algorithmic innovations and new hardware act as "compute multipliers" (CM) — estimated ~4x/year overall. Companies reinvest savings into training smarter models, not cheaper ones. AI cost per fixed quality drops, but frontier spend keeps rising.
 - **Shifting the paradigm**: reinforcement learning (RL) for chain-of-thought reasoning is a new second stage of training (post-2024). Still early on the scaling curve → large gains from small spend. This is why multiple companies can temporarily produce competitive reasoning models.
 
@@ -37,9 +46,9 @@
   - **Unipolar**: only US and allies have the chips → temporary lead that could become **durable** because AI systems help make even smarter AI systems (recursive advantage)
 - **Well-enforced export controls** are the single most important determinant of which world we get
 - DeepSeek doesn't show export controls failed — they had moderate chips, and the controls weren't designed to block $1B of activity. Blocking $10B–$100B is realistic.
-- DeepSeek's chip mix confirms controls are adapting: H100s likely smuggled, H800s shipped before ban, H20s still legal (but should be banned)
-- China's own chips (Huawei Ascend) **substantially lag** Nvidia; no significant clusters outside China
-- $1B can be hidden; $100B cannot. A million chips may be physically difficult to smuggle.
+- DeepSeek's chip mix confirms controls are adapting: H100s likely smuggled, H800s shipped before ban, H20s still legal (but should be banned) (source: darioamodei.com)
+- China's own chips (Huawei Ascend) **substantially lag** Nvidia; no significant clusters outside China (source: darioamodei.com)
+- $1B can be hidden; $100B cannot. A million chips may be physically difficult to smuggle. (source: darioamodei.com)
 
 ## Key Takeaways
 

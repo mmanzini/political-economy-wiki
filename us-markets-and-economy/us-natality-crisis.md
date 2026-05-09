@@ -1,10 +1,19 @@
 # US Natality Crisis
 
+**Source:** US CDC natality data; multiple press reports — compiled 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+2025 was the worst year for US births in 25 years, with fertility rates declining despite economic recovery — confirming a structural rather than cyclical trend. The shift to older first-time mothers, dramatically lower teen pregnancies, and rising IVF access barriers all point to long-term social change that is largely irreversible via policy. The Trump administration's pro-natalist rhetoric has produced no effective mechanism.
+
 ## Current Data (2025)
-- 2025: **worst year for US births in 25 years**
-- Births fell **1%** from 2024; fertility rate (births per 1,000 women of reproductive age) also declined
-- Natural increase (births minus deaths): just over **500,000** — historically low
-- Milestone: for the first time, **mothers over 35 outnumbered mothers under 25**
+- 2025: **worst year for US births in 25 years** (source: us-natality-crisis.md)
+- Births fell **1%** from 2024; fertility rate (births per 1,000 women of reproductive age) also declined (source: us-natality-crisis.md)
+- Natural increase (births minus deaths): just over **500,000** — historically low (source: us-natality-crisis.md)
+- Milestone: for the first time, **mothers over 35 outnumbered mothers under 25** (source: us-natality-crisis.md)
 
 ## Long-Term Trend
 - Birth rate declining since the **2007–08 Great Recession** — the original driver was economic instability

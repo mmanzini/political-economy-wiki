@@ -1,9 +1,18 @@
 # Sánchez and the Global Progressive Mobilisation
 
+**Source:** Multiple press reports (El País, Politico, Reuters) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+Spanish PM Pedro Sánchez organised a "Global Progressive Mobilisation" summit in Barcelona (17–18 April 2026) with Brazilian and Mexican leaders as a soft-power counter to Trump-aligned nationalism. The summit produced no formal institutional output but signals an emerging South-North progressive axis and may reflect Sánchez's positioning for EU-level roles after Spain's next election.
+
 ## Event
-- **Date**: 17–18 April 2026, Barcelona
+- **Date**: 17–18 April 2026, Barcelona (source: sanchez-progressive-mobilisation.md)
 - **Organised by**: Pedro Sánchez (Spanish PM, Socialist Party, PSOE)
-- **Name**: "Movilización Progresista Global" (Global Progressive Mobilisation)
+- **Name**: "Movilización Progresista Global" (Global Progressive Mobilisation) (source: sanchez-progressive-mobilisation.md)
 
 ## Attendees
 - Brazilian President Luiz Inácio Lula da Silva

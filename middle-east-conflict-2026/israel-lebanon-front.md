@@ -1,5 +1,10 @@
 # Israel-Lebanon Front
 
+**Source:** Multiple press reports (Reuters, Bloomberg, Al Jazeera) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
 *Stub — this front is the primary near-term threat to the ceasefire. Expand as source material becomes available.*
 
 ## Current Status (as of 2026-04-16)

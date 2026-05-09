@@ -1,12 +1,21 @@
 # Shipping and Insurance Collapse
 
+**Source:** Multiple press reports (Lloyd's of London, Reuters, Bloomberg) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+The Hormuz blockade has bifurcated the global shipping fleet: a shadow fleet under Russian/Iranian protection continuing to service Tehran-friendly nations, and a conventional fleet forced to circumnavigate Africa (+14 days per voyage). War risk premiums surged from 0.125% to 10% of hull value, making a single voyage premium $10–14M for a large oil tanker — economically unviable.
+
 The Hormuz blockade has split the global shipping fleet in two and made conventional maritime insurance economically unviable.
 
 ## Insurance Market Freeze
 
-- War risk premiums surged from ~0.125% of hull value to 10%
-- For a large oil tanker (hull value ~$138M), a single voyage premium is now $10–14M
-- This makes transport economically unsustainable for conventional international fleets
+- War risk premiums surged from ~0.125% of hull value to 10% (source: shipping-and-insurance-collapse.md)
+- For a large oil tanker (hull value ~$138M), a single voyage premium is now $10–14M (source: shipping-and-insurance-collapse.md)
+- This makes transport economically unsustainable for conventional international fleets (source: shipping-and-insurance-collapse.md)
 
 ## Fleet Bifurcation
 

@@ -1,11 +1,19 @@
 # US Equities — April 2026
 
+**Source:** Multiple market data sources (Bloomberg, JPMorgan, BlackRock, Morgan Stanley) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+US equities in April 2026 are pricing in optimism despite unresolved geopolitical variables — the S&P 500 has returned to positive YTD territory, VIX is below 20, and tech is leading with semiconductors up 20% YTD while software collapses 27%. Retail investors are turning cautious and defensive, diverging sharply from the equity trend.
+
 ## Market Snapshot (2026-04-11)
 
-- **S&P 500**: 7 consecutive sessions in the green (best streak since October 6); heading for best week since November 28
-- **Nasdaq**: turned positive for 2026 (+0.3%); outperforming
-- **Dow**: up >0.5%
-- **VIX**: 19 — below 20 despite ongoing geopolitical crisis; down 7%
+- **S&P 500**: 7 consecutive sessions in the green (best streak since October 6) (source: us-equities-april-2026.md)
+- **Nasdaq**: turned positive for 2026 (+0.3%); outperforming (source: us-equities-april-2026.md)
+- **VIX**: 19 — below 20 despite ongoing geopolitical crisis; down 7% (source: us-equities-april-2026.md)
 
 ## Sector Performance
 
@@ -84,6 +92,7 @@
 - [[markets-rally-april-2026]] — continuation: April 16 synthesis with Q1 earnings actuals, IMF forecasts, and Anthropic valuation update
 - [[ai-developments-april-2026]]
 - [[brent-oil-price-dynamics]]
+- [[other-asset-classes]] — same-day snapshot of gold, silver, and Bitcoin as safe-haven context for the equity rally
 
 ## Tags
 

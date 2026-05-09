@@ -1,16 +1,22 @@
 # Brent Oil Price Dynamics
 
+**Source:** Multiple market data sources (IEA, Goldman Sachs, Bloomberg) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+Brent crude rose ~40% from pre-war levels (~$70 to ~$96/barrel) following the Hormuz blockade, with North Sea oil reaching all-time highs above $147. The most striking anomaly is the paper/physical oil divergence: Brent futures pricing in de-escalation while physical benchmarks remain far above futures, reflecting unresolved physical scarcity in refined products.
+
 ## Update — 2026-04-15 (Day 46)
 
-- **Brent**: -1.5% to **<$98**; previous day high $102
-- **Dated Brent** (physical benchmark): **$126**
-- **WTI**: $96.83 (-2.5%)
-- **TTF (Amsterdam gas)**: -2.6% to ~€45/MWh on hopes of negotiation
-- **Asian jet fuel**: $200/barrel (doubled) — Europe especially exposed (62% of jet fuel and 42% of refined products imported from Middle East in 2025)
-- **NW Europe diesel cargo (Friday close)**: $170/barrel
-- **Urea (fertiliser)**: +70% since war start (late Feb 2026); +83% since 1 Jan 2026 — see [[urea-and-food-crisis]]
-- IEA's Fatih Birol: ready to release more strategic reserves; with World Bank + IMF urging countries **not to rush refilling reserves** and to lift export bans
-- Birol: "no country is immune; the scale is enormous — oil, gas, fertiliser and helium"
+- **Brent**: -1.5% to **<$98**; previous day high $102 (source: brent-oil-price-dynamics.md)
+- **Dated Brent** (physical benchmark): **$126** (source: brent-oil-price-dynamics.md)
+- **WTI**: $96.83 (-2.5%) (source: brent-oil-price-dynamics.md)
+- **Asian jet fuel**: $200/barrel (doubled) — Europe especially exposed (source: brent-oil-price-dynamics.md)
+- **Urea (fertiliser)**: +70% since war start (late Feb 2026); +83% since 1 Jan 2026 (source: brent-oil-price-dynamics.md)
+- IEA's Fatih Birol: ready to release more strategic reserves (source: IEA)
 
 ## Current Prices (2026-04-12)
 

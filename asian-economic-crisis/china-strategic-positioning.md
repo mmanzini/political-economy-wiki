@@ -1,5 +1,14 @@
 # China's Strategic Positioning
 
+**Source:** Multiple press reports (Financial Times, Bloomberg) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+China is leveraging the Hormuz crisis on multiple fronts simultaneously: mediating diplomatically between Iran and Pakistan, hoarding oil and fertiliser reserves, advancing yuan-denominated trade as a dollar alternative, and benefiting from an investment boom in its battery and clean-energy sector.
+
 China is leveraging the Hormuz crisis to strengthen its geopolitical and economic position, acting as both mediator and self-interested accumulator.
 
 ## Diplomatic Role
@@ -9,8 +18,8 @@ China is leveraging the Hormuz crisis to strengthen its geopolitical and economi
 
 ## Resource Hoarding
 
-- Accumulated oil reserves for 3–4 months
-- Blocked all fertiliser exports (~40M tons staying within Chinese borders)
+- Accumulated oil reserves for 3–4 months (source: china-strategic-positioning.md)
+- Blocked all fertiliser exports (~40M tons staying within Chinese borders) (source: china-strategic-positioning.md)
 - Protects domestic food security while tightening supply for the rest of Asia
 
 ## Yuan Leverage
@@ -21,10 +30,10 @@ China is leveraging the Hormuz crisis to strengthen its geopolitical and economi
 
 ## Battery and Clean Energy Boom
 
-- Market cap of major Chinese battery producers up $70B since the war began (Financial Times)
-- Investors anticipate the conflict will accelerate clean energy adoption
-- Chinese battery giants outperforming global oil majors since conflict start
-- BYD unveiled chargers providing ~600 km of range in 9 minutes (4x faster than typical US chargers); thousands installed in China and Europe
+- Market cap of major Chinese battery producers up $70B since the war began (source: Financial Times)
+- Investors anticipate the conflict will accelerate clean energy adoption (source: china-strategic-positioning.md)
+- Chinese battery giants outperforming global oil majors since conflict start (source: china-strategic-positioning.md)
+- BYD unveiled chargers providing ~600 km of range in 9 minutes (4x faster than typical US chargers) (source: china-strategic-positioning.md)
 
 ## Producer Price Signal
 

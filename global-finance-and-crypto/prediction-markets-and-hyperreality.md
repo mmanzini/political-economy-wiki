@@ -1,10 +1,19 @@
 # Prediction Markets and Hyperreality: Polymarket as Simulacrum
 
+**Source:** [Fuori da Qui podcast Ep.128 — "Vicarious"](https://coranews.it) (Simone Pirani, 2026-04-18)
+**Author:** Simone Pirani
+
+---
+
 *Source: "Fuori da Qui" podcast Ep.128 — "Vicarious" (Simone Pirani, Coranews), 2026-04-18. Drawing on investigations by The Guardian (Aisha Down, 11 Apr 2026), CNN (Marshall Cohen, 24 Mar 2026), PBS (12 Apr 2026), Associated Press / NPR (10 Apr 2026), and the academic paper "From Iran to Taylor Swift: Informed Trading in Prediction Markets" (Mitts & Feuer, 25 Mar 2026).*
+
+## Summary
+
+Polymarket prediction markets are examined through Baudrillard's hyperreality lens: the financial contract has become more real than the events it references. A rigorous empirical study by Mitts & Feuer documents $143M+ in insider trades with a 69.9% win rate (>60 standard deviations above chance), while US law creates a structural loophole — event contracts fall under commodities law rather than securities law, making trading on classified military intelligence effectively legal.
 
 ## Baudrillard Framing: The Precession of Simulacra
 
-- The episode opens with Baudrillard's *Simulacres et Simulation* (1981): today the **map precedes the territory** — the model generates the real
+- The episode opens with Baudrillard's *Simulacres et Simulation* (1981): today the **map precedes the territory** — the model generates the real (source: Fuori da Qui Ep.128)
 - Prediction markets are the "definitive tempio" of this hyperreality: human suffering and geopolitical events reduced to **binary "event contracts"** trading between $0 and $1
 - When capital flows depend on the exact definition of reality, **whoever defines reality holds the power** — and that power has been privatised
 - Baudrillard's "desert of the real": the physical city, the dying civilian, becomes irrelevant background to the digital contract that settles above it
@@ -28,9 +37,9 @@
 ## Systematic Insider Trading: Mitts & Feuer Study (25 Mar 2026)
 
 - First empirical study of insider trading on Polymarket, by Joshua Mitts (Columbia Law) and Morana Feuer (Haifa, Law and Finance)
-- Dataset: **Feb 2024 – Feb 2026**, 93,000+ markets, ~50,000 unique wallets
-- Identified **210,718 suspicious bettor-market pairs** with 69.9% win rate — **>60 standard deviations** above chance, i.e. mathematically impossible as luck
-- Conservative estimate of anomalous insider profit: **~$143 million** over two years (excludes bets under $500 and deliberately split positions)
+- Dataset: **Feb 2024 – Feb 2026**, 93,000+ markets, ~50,000 unique wallets (source: Mitts & Feuer, "From Iran to Taylor Swift", 25 Mar 2026)
+- Identified **210,718 suspicious bettor-market pairs** with 69.9% win rate — **>60 standard deviations** above chance (source: Mitts & Feuer, 25 Mar 2026)
+- Conservative estimate of anomalous insider profit: **~$143 million** over two years (source: Mitts & Feuer, 25 Mar 2026) (excludes bets under $500 and deliberately split positions)
 
 ### Signature insider cases
 - **Nicolás Maduro capture** (3 Jan 2026, see [[predatory-world-order]]): wallet "Barden Somix" placed ~$40,000 hours before arrest → netted ~$500,000

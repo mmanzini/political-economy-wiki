@@ -1,10 +1,19 @@
 # Underground Banking and Crypto Critique
 
+**Source:** [Fuori da Qui podcast Ep.127 — "Banche"](https://coranews.it) (Simone Pirani, Coranews)
+**Author:** Simone Pirani
+
+---
+
 *Source: "Fuori da Qui" podcast Ep.127 — Banche (Simone Pirani, Coranews)*
+
+## Summary
+
+Ancient informal banking networks (Hawala, Fei Qian) remain the only systems genuinely opaque to state surveillance — not cryptocurrency. Bitcoin's blockchain is inherently traceable and has been absorbed into the regulated financial system, while the cyber-libertarian ideology behind crypto serves deregulation and corporate power rather than citizen emancipation. Neither underground finance nor crypto offers a clean escape: both routes shift power to darker hands.
 
 ## Underground Banking Networks
 
-- **Fei Qian** ("flying money") in China, **Hawala** in the Islamic world — informal value-transfer systems dating back to the 7th–9th century (Silk Road origins)
+- **Fei Qian** ("flying money") in China, **Hawala** in the Islamic world — informal value-transfer systems dating back to the 7th–9th century (source: Fuori da Qui Ep.127)
 - Operate on **radical mutual trust**: betrayal means permanent expulsion from the network
 - No physical money crosses borders; settlement is via matched local disbursements and secret codes (often sent via WeChat)
 - Estimated global volume: **hundreds of billions of dollars/year**, mostly innocent immigrant remittances
@@ -52,9 +61,9 @@
 ## The Global Financial Surveillance Machine
 
 - The official financial system is a "colossal factory" — every digital payment is scanned, verified, monitored
-- Banks spend **~$200B/year** on compliance and financial crime prevention
-- **20% of banking workforce** dedicated to investigation and compliance
-- Miles Kellerman (Leiden University): this infrastructure makes money "legible to the state"
+- Banks spend **~$200B/year** on compliance and financial crime prevention (source: Fuori da Qui Ep.127)
+- **20% of banking workforce** dedicated to investigation and compliance (source: Fuori da Qui Ep.127)
+- Miles Kellerman (Leiden University): this infrastructure makes money "legible to the state" (source: Fuori da Qui Ep.127)
 
 ## The Double Bind
 

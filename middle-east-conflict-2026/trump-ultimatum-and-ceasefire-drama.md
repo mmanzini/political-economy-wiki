@@ -1,5 +1,14 @@
 # Trump's Ultimatum and the Ceasefire Drama
 
+**Source:** Multiple press reports (NYT, Reuters, Bloomberg, Il Post / Francesco Costa) — compiled April 2026
+**Author:** (source: needs-verification)
+
+---
+
+## Summary
+
+Trump's ultimatum cycle against Iran (threaten civilian infrastructure → Iran doesn't yield → back down) was resolved by Pakistan brokering a two-week ceasefire as a face-saving exit. Trump falsely claimed Hormuz would reopen and the US would take Iran's enriched uranium — neither happened. Iran emerged from the exchange in a stronger bargaining position.
+
 ## Context
 - War day 47 / ceasefire day 8 (as of 2026-04-16)
 - Netanyahu had proposed to Trump killing Khamenei and destroying Iran's military capabilities — arguing it would trigger a popular uprising and regime collapse
@@ -8,9 +17,9 @@
 
 ## The Ultimatum Cycle (Early April 2026)
 
-- Trump issued a new ultimatum: US would destroy Iranian civilian infrastructure if demands were not met — an explicit threat of war crimes
-- Iran's counter-demands: stop attacks; receive compensation for destruction; end sanctions; no interference on nuclear; Hormuz tolls of $1–2M per vessel
-- Iran called Trump's bluff; the ultimatum became a trap: anything short of "destroying a civilization" would look like retreat
+- Trump issued a new ultimatum: US would destroy Iranian civilian infrastructure if demands were not met (source: trump-ultimatum-and-ceasefire-drama.md)
+- Iran's counter-demands: stop attacks; receive compensation for destruction; end sanctions; no interference on nuclear; Hormuz tolls of $1–2M per vessel (source: trump-ultimatum-and-ceasefire-drama.md)
+- Iran called Trump's bluff; the ultimatum became a trap (source: trump-ultimatum-and-ceasefire-drama.md)
 - Trump escalated further, threatening to "destroy an entire civilization within one night"
 - Iran did not yield; Trump's deadline passed with no action
 
