@@ -7,6 +7,7 @@ Articles on the transformative potential, geopolitical implications, and civilis
 - [[ai-transformative-potential]] — How powerful AI could compress a century of progress in biology, neuroscience, economics, and governance into 5–10 years
 - [[ai-risks-and-safety]] — Autonomy risks, bioweapons, AI-enabled authoritarianism, economic disruption, and proposed defences
 - [[ai-nuclear-wargaming]] — King's College study: AI models choose nuclear escalation 95% of the time in crisis simulations; model-by-model analysis
+- [[palantir-technomilitarism-manifesti]] — Palantir's evolution to techno-militarist; Carp's 22-point manifesto (hard power, conscription, cultural hierarchy); Chatham House 4 macro trends: patriotic tech, dual-use boom, sovereign AI, $800B bubble risk (Fuori da Qui Ep.131, 2026)
 
 ## Related (cross-linked)
 

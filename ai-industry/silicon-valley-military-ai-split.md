@@ -69,6 +69,7 @@ Anthropic walked away from a $200M Pentagon contract over mass-surveillance and 
 - [[ai-risks-and-safety]] — broader risk framework
 - [[deepseek-and-export-controls]]
 - [[ai-developments-april-2026]]
+- [[palantir-technomilitarism-manifesti]] — the explicit ideological articulation of the military-AI position: Carp's 22-point manifesto, Chatham House macro analysis, sovereign AI fragmentation
 
 ## Tags
 

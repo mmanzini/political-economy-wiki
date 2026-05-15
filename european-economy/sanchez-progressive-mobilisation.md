@@ -48,6 +48,7 @@ Spanish PM Pedro Sánchez organised a "Global Progressive Mobilisation" summit i
 - [[eu-role-in-middle-east]] — EU searching for political relevance in a US-dominated crisis
 - [[european-stagflation-risk]] — domestic economic pressure Sánchez is navigating
 - [[eu-demographics-2100|EU Demographics 2100]]
+- [[eu-us-tariffs-may-2026|EU-US Tariffs Stalemate May 2026]] — Trump auto-tariff threat, US troops in Germany, Canada-EU alignment
 
 ## Tags
 

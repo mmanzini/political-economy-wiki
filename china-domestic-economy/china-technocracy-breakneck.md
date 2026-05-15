@@ -64,6 +64,7 @@ Per Lee Egin (Foreign Affairs), the new Party-private sector compact is not abou
 
 - [[china-rural-pensions-crisis]] — the internal inequality that the technocracy leaves unresolved
 - [[china-medical-tourism]] — another domain where China's engineer-state model outpaces Western systems
+- [[china-humanoid-robotics-2026]] — the robotics application of the breakneck model; Hangzhou regulation as standard-setting play
 
 ## Tags
 

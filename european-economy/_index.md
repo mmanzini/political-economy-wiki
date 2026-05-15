@@ -12,3 +12,5 @@ Articles on European economic developments during the 2026 crisis.
 - [[eu-demographics-2100]] — Eurostat projections: EU population −11.7% by 2100; ageing crisis; country-level variation
 - [[sanchez-progressive-mobilisation]] — Barcelona summit April 2026; Sánchez builds anti-Trump progressive international
 - [[nazi-membership-database]] — Die Zeit makes NSDAP records searchable; 8.5M members, mass public reckoning
+- [[eu-us-tariffs-may-2026]] — EU-US trade deal stalemate; Trump threatens 25% auto tariffs; US troops out of Germany; Canada-EU alignment; Starmer's local elections; Lithuania LRT reform
+- [[european-politics-digest-may-14-2026]] — Starmer Labour crisis; Hormuz aviation fuel guidance; Magyar government inaugurated; EU UCPM/RescEU; Andalusia elections; Norway-Russia fishing
