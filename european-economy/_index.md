@@ -14,3 +14,4 @@ Articles on European economic developments during the 2026 crisis.
 - [[nazi-membership-database]] — Die Zeit makes NSDAP records searchable; 8.5M members, mass public reckoning
 - [[eu-us-tariffs-may-2026]] — EU-US trade deal stalemate; Trump threatens 25% auto tariffs; US troops out of Germany; Canada-EU alignment; Starmer's local elections; Lithuania LRT reform
 - [[european-politics-digest-may-14-2026]] — Starmer Labour crisis; Hormuz aviation fuel guidance; Magyar government inaugurated; EU UCPM/RescEU; Andalusia elections; Norway-Russia fishing
+- [[european-politics-digest-may-21-2026]] — Trump-Greenland negotiations and US veto demands; EU-US trade deal compromise; Fidias's Democrazia Diretta in Cyprus; Eurostat employment (Italy lowest female rate); Gerard Hutch second run in Ireland

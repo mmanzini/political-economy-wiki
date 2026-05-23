@@ -66,3 +66,4 @@ The podcast's closing argument: Carp's manifesto is not just ideological — it 
 - [[ai-risks-and-safety|AI Risks and Safety]] — authoritarianism risks and proposed defences: Palantir's ICE deployment is a live instance of AI-enabled authoritarian enforcement
 - [[ai-nuclear-wargaming|AI Nuclear Wargaming]] — the Chatham House dual-use boom context amplifies the wargaming risk
 - [[silicon-valley-military-ai-split|Silicon Valley Military AI Split]] — this article is the Palantir counterpart: while Anthropic refused military contracts, Palantir leaned in; Carp's manifesto is the explicit ideological articulation of that position
+- [[malaysia-data-center-hub-2026|Malaysia data-center hub 2026]] — concrete sovereign-AI infrastructure case in Southeast Asia; illustrates the Chatham House "Sovereign AI" trend on the ground

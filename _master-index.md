@@ -15,6 +15,7 @@
 - [[global-finance-and-crypto/_index|Global Finance and Crypto]] — Underground banking (Hawala, Fei Qian), cryptocurrency critique, cyber-libertarianism; Polymarket hyperreality and insider trading
 - [[bhutan-refugee-crisis/_index|Bhutan Refugee Crisis]] — Ethnic cleansing of the Lhotshampa, statelessness, US deportation loop, state Bitcoin mining
 - [[china-domestic-economy/_index|China Domestic Economy]] — Rural pensions crisis, urban-rural inequality, "Common Prosperity" rhetoric vs. reality, medical tourism as global hospital
+- [[china-political-system/_index|China Political System]] — Socialist consultative democracy, the eight minor parties, United Front, hierarchical electoral system, whole-process democracy doctrine
 - [[digital-privacy-and-cybersecurity/_index|Digital Privacy and Cybersecurity]] — Vastaamo data breach, uberisation of healthcare, EU AI Act enforcement, data sovereignty gap, Trump offensive cyber strategy
 - [[trump-doctrine-and-geopolitics/_index|Trump Doctrine and Geopolitics]] — Predatory world order, Venezuela blitz, Machiavelli vs Sun Tzu, Xi Jinping's strategic patience; Trump-China trade war and rare earth retaliation; NATO 5% demand and European strategic autonomy
 - [[us-religion-and-politics/_index|US Religion and Politics]] — MAGA as new religious movement, Commission on Religious Freedom, Charlie Kirk funeral (grace vs sword), Castellio vs Calvin; USCIRF 2026 and Trump policy tensions; Meloni/Salvini European Christian nationalism

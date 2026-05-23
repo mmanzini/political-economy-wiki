@@ -67,3 +67,4 @@ The EU has expressed concern that Russia uses this access for espionage of sensi
 - [[hungary-post-election-priorities|Hungary post-election priorities]] — Magyar's cabinet formation and EU funds unblocked
 - [[eu-us-tariffs-may-2026|EU-US tariffs May 2026]] — Starmer local elections; EU-US trade stalemate
 - [[sanchez-progressive-mobilisation|Sánchez progressive mobilisation]] — April 2026 Barcelona summit; progressive international building
+- [[european-politics-digest-may-21-2026|European politics digest — 21 May 2026]] — follow-up weekly digest one week later; tracks how the Labour, Hungary and Andalusia threads evolved
