@@ -60,6 +60,7 @@ A snapshot of major AI industry developments in April 2026, dominated by Anthrop
 - [[silicon-valley-military-ai-split]] — Anthropic's Pentagon standoff and OpenAI's subsequent deal; the military AI schism deepens
 - [[election-safeguards-2026]] — Anthropic's election safeguards update: political-bias evals, influence-operation testing, and election banners for 2026 US midterms
 - [[anthropic-economic-index-march-2026]] — Anthropic's March 2026 economic index: learning curves, use-case diversification, and labour-market implications
+- [[magnifica-humanitas-encyclical-ai]] — Pope Leo XIV's May 2026 encyclical on AI as a political-economic force
 
 ## Tags
 

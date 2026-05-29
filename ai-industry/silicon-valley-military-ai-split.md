@@ -70,6 +70,7 @@ Anthropic walked away from a $200M Pentagon contract over mass-surveillance and 
 - [[deepseek-and-export-controls]]
 - [[ai-developments-april-2026]]
 - [[palantir-technomilitarism-manifesti]] — the explicit ideological articulation of the military-AI position: Carp's 22-point manifesto, Chatham House macro analysis, sovereign AI fragmentation
+- [[magnifica-humanitas-encyclical-ai]] — Pope Leo XIV's May 2026 encyclical condemns AI weapons and the "crisis of multilateralism"
 
 ## Tags
 

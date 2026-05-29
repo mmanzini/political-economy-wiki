@@ -9,6 +9,7 @@ Articles on AI industry developments and their market impact.
 - [[anthropic-economic-index-march-2026]] — AI usage patterns, learning curves, model selection, geographic inequality, and labour market implications (Anthropic report, March 2026)
 - [[silicon-valley-military-ai-split]] — Anthropic refuses $200M Pentagon contract; OpenAI's double-cross; Anduril's rise; employee revolts at OpenAI and Google
 - [[election-safeguards-2026]] — Anthropic's 2026 election safeguards: political-bias evals, usage-policy enforcement, influence-operation testing, election banners (Anthropic)
+- [[magnifica-humanitas-encyclical-ai]] — Pope Leo XIV's May 2026 encyclical on AI, robotics, and digital transformation; "technology is never neutral", data as common good, critique of corporate-led "AI alignment", rejection of transhumanism, demand for binding governance and slowed adoption
 
 ## Related (cross-linked)
 
