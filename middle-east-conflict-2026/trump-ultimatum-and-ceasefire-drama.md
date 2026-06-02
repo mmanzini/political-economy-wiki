@@ -36,7 +36,7 @@ Trump's ultimatum cycle against Iran (threaten civilian infrastructure → Iran 
 - White House confirmed a second round of talks is in discussion
 - Main sticking point: Iran's nuclear program
 - Iran evaluating a Hormuz vessel-blocking pause as a de-escalation signal
-- China presented a 4-point peace plan; FT: Iran used Chinese spy satellites to target US bases
+- China presented a 5-point initiative (ceasefire, early dialogue, civilian protection, restoration of Hormuz shipping, larger UN role); FT: Iran used Chinese spy satellites to target US bases (source: 5-point detail per en.wikipedia.org/wiki/2026_Iran_war_ceasefire)
 - Xi Jinping met Foreign Minister Lavrov in Beijing
 - Israel-Lebanon: agreement on direct negotiations toward a comprehensive peace deal; Mossad chief says Iran operation ends only with regime fall
 

@@ -79,3 +79,4 @@ Magnifica Humanitas is the most authoritative religious framing of AI yet issued
 - [[ai-developments-april-2026]] — industry context the encyclical responds to (Anthropic Mitos, Meta/OpenAI, DeepSeek)
 - [[silicon-valley-military-ai-split]] — the corporate-ethics debate the encyclical lands in the middle of
 - [[anthropic-economic-index-march-2026]] — empirical labour-market signal that informs the work-dignity arguments
+- [[samsung-chip-worker-strike]] — Samsung NS EU strike for 15% AI profit share; Shinjumbo case; South Korean AI citizen dividend debate — concrete instance of the labour-dignity and AI-profit redistribution arguments the encyclical advances

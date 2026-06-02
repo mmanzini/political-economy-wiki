@@ -39,11 +39,12 @@ As of Day 46 of the 2026 Middle East conflict, a fragile two-week ceasefire brok
 - Border talks with Lebanon to take place next week in Washington (following Trump-Netanyahu phone call)
 - Speaker of Iranian Parliament: "Lebanon and the entire axis of resistance are an inseparable part of the ceasefire"
 
-## Iran-Pakistan Ceasefire
+## Ceasefire (US/Israel–Iran, Pakistan-brokered)
 
-- **Two-week ceasefire** agreed between Iran and Pakistan
-- Mediated by China (last-minute intervention urging Tehran to show flexibility)
-- Announced by Trump; negotiations began in Pakistan
+- **Two-week ceasefire** agreed between the US/Israel and Iran (began 8 April 2026)
+- **Brokered by Pakistan** — PM Shehbaz Sharif and Field Marshal Asim Munir (source: aljazeera.com; en.wikipedia.org/wiki/2026_Iran_war_ceasefire)
+- China in a supporting role: a last-minute nudge urging Tehran to show flexibility, plus a 5-point initiative (not the primary mediator)
+- Announced by Trump; negotiations hosted in Pakistan
 - Also reportedly tested by Iran's new post-Khamenei leadership
 
 ## Trump and Diplomacy
@@ -68,7 +69,7 @@ As of Day 46 of the 2026 Middle East conflict, a fragile two-week ceasefire brok
 ## Key Takeaways
 
 - Ceasefire is fragile — Israeli actions in Lebanon are the primary risk
-- China's diplomatic role is growing (mediated Iran-Pakistan ceasefire)
+- China's diplomatic role is growing (supported the Pakistan-brokered US/Israel–Iran ceasefire)
 - Trump is both escalating rhetoric and claiming optimism about deals
 - The conflict is increasingly framed as a "Suez moment" for US credibility
 - European nations cautiously moving toward a Hormuz security role

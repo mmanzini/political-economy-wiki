@@ -7,13 +7,13 @@
 
 ## Summary
 
-Following Operation Epic Fury's closure of the Hormuz strait on March 4, 2026, Russia has moved rapidly to fill the energy vacuum in Southeast Asia. Through a combination of Pacific and Arctic routing, a shadow fleet, and turnkey nuclear contracts, Moscow is not merely substituting Middle Eastern oil — it is engineering decades-long structural dependencies across the Philippines, Indonesia, Vietnam, and Myanmar. The crisis has simultaneously fragmented ASEAN cohesion, turning the bloc into a fractured market where member states compete against each other — and against China — for Russian supply.
+Following the closure of the Hormuz strait on 4 March 2026 — Iran's response to Operation Epic Fury, the US-Israeli airstrikes launched 28 February 2026 — Russia has moved rapidly to fill the energy vacuum in Southeast Asia. Through a combination of Pacific and Arctic routing, a shadow fleet, and turnkey nuclear contracts, Moscow is not merely substituting Middle Eastern oil — it is engineering decades-long structural dependencies across the Philippines, Indonesia, Vietnam, and Myanmar. The crisis has simultaneously fragmented ASEAN cohesion, turning the bloc into a fractured market where member states compete against each other — and against China — for Russian supply.
 
 ![[51849c0f6ec25a56b3148b0c56b3def0_MD5.png]]
 
 ## The Hormuz Trigger and Russia's Opening
 
-Operation Epic Fury (March 4, 2026) sealed the Hormuz strait, cutting approximately 20% of world oil from Asian markets (source: 2026-05-02-AI Podcast Transcript & Summary - Il nuovo ordine energetico.md). ASEAN nations depend on Middle Eastern imports for over 56% of their energy needs, leaving them with little choice but to pivot sharply toward Russia (source: 2026-05-02-AI Podcast Transcript & Summary - Il nuovo ordine energetico.md).
+Operation Epic Fury (US-Israeli airstrikes, launched 28 February 2026) triggered Iran's closure of the Hormuz strait on 4 March 2026, cutting approximately 20% of world oil from Asian markets (source: 2026-05-02-AI Podcast Transcript & Summary - Il nuovo ordine energetico.md; dates corrected per public reporting, en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis). ASEAN nations depend on Middle Eastern imports for over 56% of their energy needs, leaving them with little choice but to pivot sharply toward Russia (source: 2026-05-02-AI Podcast Transcript & Summary - Il nuovo ordine energetico.md).
 
 The CSIS (Center for Strategic and International Studies) framed this as a structural mutation of global logistics, not a simple supplier change (source: 2026-05-02-AI Podcast Transcript & Summary - Il nuovo ordine energetico.md).
 
@@ -77,7 +77,7 @@ China's Russian oil imports rose 31% in Q1 2026, reaching approximately 32 milli
 
 ## Key Takeaways
 
-- The Hormuz blockade (Operation Epic Fury, March 4, 2026) exposed a 56%+ ASEAN dependence on Middle Eastern energy, creating a structural opening Russia moved to fill within weeks.
+- The Hormuz blockade (Iran's 4 March 2026 closure, following Operation Epic Fury launched 28 February 2026) exposed a 56%+ ASEAN dependence on Middle Eastern energy, creating a structural opening Russia moved to fill within weeks.
 - Russia is leveraging three parallel channels: the ESPO/Kozmino Pacific route (1M bbl/day at capacity), the Rosatom-operated Arctic route (35–40% shorter than Suez), and a 79+ tanker shadow fleet for sanction-evasion.
 - Nuclear contracts in Vietnam (Nin Thuan 1, Leningrad-2 reactors, Sustainable Fuel Cycle clause) and Myanmar (SMR roadmap, officer training) create 60-year technological lock-ins that transcend any individual energy crisis.
 - Indonesia's pivot to Russia after US energy leverage illustrates the geopolitical logic: sovereignty preservation is worth 19%+ gas price increases for the middle class and ~€4.6B/year in unsustainable subsidies.

@@ -13,7 +13,7 @@ China is leveraging the Hormuz crisis to strengthen its geopolitical and economi
 
 ## Diplomatic Role
 
-- Intervened to push Iran toward the two-week ceasefire with Pakistan
+- Intervened in a supporting role to push Iran toward the two-week ceasefire (brokered by Pakistan)
 - Urged Tehran to show flexibility and ease tensions
 
 ## Resource Hoarding

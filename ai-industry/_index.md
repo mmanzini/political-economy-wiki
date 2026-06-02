@@ -10,6 +10,7 @@ Articles on AI industry developments and their market impact.
 - [[silicon-valley-military-ai-split]] — Anthropic refuses $200M Pentagon contract; OpenAI's double-cross; Anduril's rise; employee revolts at OpenAI and Google
 - [[election-safeguards-2026]] — Anthropic's 2026 election safeguards: political-bias evals, usage-policy enforcement, influence-operation testing, election banners (Anthropic)
 - [[magnifica-humanitas-encyclical-ai]] — Pope Leo XIV's May 2026 encyclical on AI, robotics, and digital transformation; "technology is never neutral", data as common good, critique of corporate-led "AI alignment", rejection of transhumanism, demand for binding governance and slowed adoption
+- [[samsung-chip-worker-strike]] — Samsung NS EU 90,000-member strike for 15% AI profit share; Shinjumbo cleanroom leukemia case; South Korean AI citizen dividend debate; China labor suppression in semiconductors
 
 ## Related (cross-linked)
 
