@@ -68,6 +68,7 @@ Trump's tariff escalation against China — reaching 145 percentage points befor
 - [[trump-nato-european-realignment]] — parallel application of coercive pressure to NATO allies; same predatory logic, different target
 - [[cybersecurity-policy-2026]] — AI chip export controls as parallel coercive instrument; agentic hardware as the new contested sovereignty terrain
 - [[china-strategic-positioning]] — China's Sun Tzu patience in the energy crisis: the energy-crisis dimension of the same long game
+- [[japan-intelligence-reform-2026]] — Japan's 2026 intelligence centralisation; Section 301 tariff exposure pushes Japan toward autonomous security; China's alarm at Japanese rearmament and Taiwan framing
 
 ## Tags
 

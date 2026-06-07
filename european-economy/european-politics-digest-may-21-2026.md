@@ -72,4 +72,5 @@ Gerard Hutch, 63, considered by Irish justice authorities the head of a powerful
 
 - [[eu-us-tariffs-may-2026]] — earlier coverage of the same tariff dynamics
 - [[european-politics-digest-may-14-2026]] — previous week's Ventisette digest
+- [[european-politics-digest-june-04-2026]] — next Europa digest: Magyar's first obstacle, EU digital sovereignty, Armenia election
 - [[../trump-doctrine-and-geopolitics/_index|Trump Doctrine]] — the predatory framing behind Greenland and tariff pressure

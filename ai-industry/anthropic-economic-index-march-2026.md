@@ -99,7 +99,7 @@ The fifth edition of the Anthropic Economic Index (February 2026 sample) finds t
 - Experienced users are measurably better at using AI: higher success rates, more complex tasks, more collaborative patterns
 - Global AI adoption inequality is **widening** between countries even as it narrows within the US
 - The learning-by-doing effect suggests early AI investment by workers may compound over time
-- See also: [[ai-developments-april-2026]], [[deepseek-and-export-controls]], [[ai-transformative-potential]]
+- See also: [[ai-developments-april-2026]], [[deepseek-and-export-controls]], [[ai-transformative-potential]], [[enterprise-ai-adoption-gap-2026]]
 
 ## Tags
 
