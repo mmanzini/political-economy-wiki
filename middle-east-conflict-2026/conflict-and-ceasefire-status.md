@@ -1,3 +1,25 @@
+---
+type: analysis
+title: Conflict and Ceasefire Status
+description: As of Day 46 of the 2026 Middle East conflict, a fragile two-week ceasefire brokered by Pakistan is in its seventh day, with Israeli strikes in Lebanon representing the primary threat to its collapse.
+bucket: political-economy
+topic: middle-east-conflict-2026
+tags: []
+source: Multiple press reports (NYT, Bloomberg, Axios, Reuters) — compiled April 2026
+resource:
+timestamp: 2026-05-29T14:02:22Z
+status: active
+related:
+  - political-economy/middle-east-conflict-2026/trump-ultimatum-and-ceasefire-drama.md
+  - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+  - political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
+  - political-economy/asian-economic-crisis/asian-energy-crisis-overview.md
+  - political-economy/energy-markets-2026/energy-supply-disruption.md
+  - political-economy/european-economy/european-stagflation-risk.md
+  - political-economy/global-finance-and-crypto/prediction-markets-and-hyperreality.md
+  - political-economy/pakistan-security-state/pakistan-2026-mediator-role.md
+---
+
 # Conflict and Ceasefire Status
 
 **Source:** Multiple press reports (NYT, Bloomberg, Axios, Reuters) — compiled April 2026

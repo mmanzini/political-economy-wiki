@@ -1,3 +1,21 @@
+---
+type: analysis
+title: EU-US Tariffs Stalemate — May 2026
+description: A digest of five interconnected European political stories in May 2026: the EU-US trade deal stalemate threatening new tariffs, Keir Starmer's deepening unpopularity ahead of UK local/devolved elections, the planned US troop reduction in Germany, Lithuania's contested public broadcaster reform, and Canada's alignment with the EU as the "most European non-European country" — plus Eurovision/Israel protests.
+bucket: political-economy
+topic: european-economy
+tags: []
+source: ../../../Resources/web-clippings/2026-05-07-Inbox%20-%20manzini.m%40gmail.com.md
+resource:
+timestamp: 2026-05-14T22:40:59Z
+status: active
+related:
+  - political-economy/european-economy/european-stagflation-risk.md
+  - political-economy/european-economy/sanchez-progressive-mobilisation.md
+  - political-economy/trump-doctrine-and-geopolitics/trump-china-trade-war.md
+  - political-economy/european-economy/european-politics-digest-may-14-2026.md
+---
+
 # EU-US Tariffs Stalemate — May 2026
 
 **Source:** [2026-05-07-Inbox - manzini.m@gmail.com.md](../../../Resources/web-clippings/2026-05-07-Inbox%20-%20manzini.m%40gmail.com.md)

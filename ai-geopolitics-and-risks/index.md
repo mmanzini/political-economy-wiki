@@ -12,4 +12,4 @@ Articles on the transformative potential, geopolitical implications, and civilis
 
 ## Related (cross-linked)
 
-- [[ai-industry/_index]] — Anthropic, DeepSeek, military-AI split, Economic Index; the commercial and policy developments that track the strategic framing covered here
+- [[ai-industry/index]] — Anthropic, DeepSeek, military-AI split, Economic Index; the commercial and policy developments that track the strategic framing covered here

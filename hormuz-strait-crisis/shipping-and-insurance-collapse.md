@@ -1,3 +1,20 @@
+---
+type: analysis
+title: Shipping and Insurance Collapse
+description: The Hormuz blockade has bifurcated the global shipping fleet: a shadow fleet under Russian/Iranian protection continuing to service Tehran-friendly nations, and a conventional fleet forced to circumnavigate Africa (+14 days per voyage).
+bucket: political-economy
+topic: hormuz-strait-crisis
+tags: []
+source: Multiple press reports (Lloyd's of London, Reuters, Bloomberg) — compiled April 2026
+resource:
+timestamp: 2026-05-09T07:13:14Z
+status: active
+related:
+  - political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
+  - political-economy/energy-markets-2026/energy-supply-disruption.md
+  - political-economy/energy-markets-2026/brent-oil-price-dynamics.md
+---
+
 # Shipping and Insurance Collapse
 
 **Source:** Multiple press reports (Lloyd's of London, Reuters, Bloomberg) — compiled April 2026

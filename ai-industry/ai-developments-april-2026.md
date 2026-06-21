@@ -1,3 +1,26 @@
+---
+type: analysis
+title: AI Developments — April 2026
+description: A snapshot of major AI industry developments in April 2026, dominated by Anthropic's "Mitos" agent model release (which triggered a government-level cybersecurity emergency meeting), Meta's $20B infrastructure deal, and OpenAI's Stargate UK announcement.
+bucket: political-economy
+topic: ai-industry
+tags: []
+source: Multiple press reports (Reuters, Financial Times, Bloomberg) — compiled April 2026
+resource:
+timestamp: 2026-05-26T20:14:21Z
+status: active
+related:
+  - political-economy/us-markets-and-economy/us-equities-april-2026.md
+  - political-economy/asian-economic-crisis/china-strategic-positioning.md
+  - political-economy/ai-industry/deepseek-and-export-controls.md
+  - political-economy/ai-geopolitics-and-risks/ai-transformative-potential.md
+  - political-economy/ai-geopolitics-and-risks/ai-risks-and-safety.md
+  - political-economy/ai-industry/silicon-valley-military-ai-split.md
+  - political-economy/ai-industry/election-safeguards-2026.md
+  - political-economy/ai-industry/anthropic-economic-index-march-2026.md
+  - political-economy/ai-industry/magnifica-humanitas-encyclical-ai.md
+---
+
 # AI Developments — April 2026
 
 **Source:** Multiple press reports (Reuters, Financial Times, Bloomberg) — compiled April 2026

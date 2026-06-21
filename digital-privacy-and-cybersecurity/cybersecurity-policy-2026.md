@@ -1,3 +1,20 @@
+---
+type: analysis
+title: Cybersecurity Policy Landscape 2026
+description: The 2026 cybersecurity landscape is defined by two diverging governance paradigms: the EU's risk-classification approach (EU AI Act enforcement from August 2026) versus the Trump administration's offensive-cyber posture.
+bucket: political-economy
+topic: digital-privacy-and-cybersecurity
+tags: []
+source: Coalfire, Forcepoint, Perspective Labs, Detecon, AI Magicx, Just Security — compiled April 2026
+resource:
+timestamp: 2026-05-09T07:13:14Z
+status: active
+related:
+  - political-economy/digital-privacy-and-cybersecurity/vastaamo-data-breach.md
+  - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+  - political-economy/trump-doctrine-and-geopolitics/trump-china-trade-war.md
+---
+
 # Cybersecurity Policy Landscape 2026
 
 **Source:** Coalfire, Forcepoint, Perspective Labs, Detecon, AI Magicx, Just Security — compiled April 2026

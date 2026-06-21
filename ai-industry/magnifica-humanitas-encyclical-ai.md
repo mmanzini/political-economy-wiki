@@ -1,3 +1,21 @@
+---
+type: analysis
+title: Magnifica Humanitas — Pope Leo XIV's Encyclical on AI (May 2026)
+description: Magnifica Humanitas is Pope Leo XIV's first major social encyclical, framed as an explicit successor to Leo XIII's *Rerum Novarum* (1891) and applying the Church's social doctrine to artificial intelligence, robotics, and digital transformation.
+bucket: political-economy
+topic: ai-industry
+tags: []
+source: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
+resource: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
+timestamp: 2026-05-31T21:26:30Z
+status: active
+related:
+  - political-economy/ai-industry/ai-developments-april-2026.md
+  - political-economy/ai-industry/silicon-valley-military-ai-split.md
+  - political-economy/ai-industry/anthropic-economic-index-march-2026.md
+  - political-economy/ai-industry/samsung-chip-worker-strike.md
+---
+
 # Magnifica Humanitas — Pope Leo XIV's Encyclical on AI (May 2026)
 
 **Source:** [Vatican: Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
@@ -60,7 +78,7 @@ Magnifica Humanitas is the most authoritative religious framing of AI yet issued
 1. Reframes AI governance as a question of power distribution, not just safety — directly challenging the industry's preferred framing of "alignment" as a technical problem soluble by the labs themselves.
 2. Provides Catholic-aligned governments (Italy, Poland, Philippines, Latin America, parts of central Europe) with a doctrinal text they can cite when legislating AI rules, labour protections, or data sovereignty.
 3. Lands during the EU AI Act enforcement phase and US federal-preemption debates — gives non-tech-industry stakeholders a high-status counter-narrative.
-4. Stands in deliberate tension with the US religious right's pro-acceleration stance (see [[../us-religion-and-politics/_index|US Religion and Politics]]). Catholic social doctrine in this document is structurally closer to European centre-left and global-south concerns than to MAGA's tech alignment.
+4. Stands in deliberate tension with the US religious right's pro-acceleration stance (see [[../us-religion-and-politics/index|US Religion and Politics]]). Catholic social doctrine in this document is structurally closer to European centre-left and global-south concerns than to MAGA's tech alignment.
 5. Frames data as a shared good — a doctrinal warrant for data-cooperative and data-commons movements pushing back on the lab-owned-corpus default.
 
 ## Key Takeaways

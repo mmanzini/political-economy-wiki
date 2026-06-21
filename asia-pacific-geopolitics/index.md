@@ -8,5 +8,5 @@ Japan, Taiwan, the Korean Peninsula, and ASEAN-region security dynamics — geop
 
 ## Related Topics
 
-- [[../china-political-system/_index|China Political System]] — Beijing's consultative democracy and United Front — domestic side of the power exercised regionally
-- [[../trump-doctrine-and-geopolitics/_index|Trump Doctrine and Geopolitics]] — the US strategic framework shaping security pressures on Japan, Taiwan, and the broader Indo-Pacific
+- [[../china-political-system/index|China Political System]] — Beijing's consultative democracy and United Front — domestic side of the power exercised regionally
+- [[../trump-doctrine-and-geopolitics/index|Trump Doctrine and Geopolitics]] — the US strategic framework shaping security pressures on Japan, Taiwan, and the broader Indo-Pacific

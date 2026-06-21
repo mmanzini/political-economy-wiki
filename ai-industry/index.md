@@ -15,4 +15,4 @@ Articles on AI industry developments and their market impact.
 
 ## Related (cross-linked)
 
-- [[ai-geopolitics-and-risks/_index]] — transformative potential, civilisational risks, export-control rationale, AI nuclear wargaming; the strategic framing behind the commercial and policy developments covered here
+- [[ai-geopolitics-and-risks/index]] — transformative potential, civilisational risks, export-control rationale, AI nuclear wargaming; the strategic framing behind the commercial and policy developments covered here

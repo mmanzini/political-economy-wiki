@@ -1,3 +1,20 @@
+---
+type: analysis
+title: US Macro Data — April 2026
+description: US macro data for March/April 2026 shows the largest monthly CPI increase since 2022 (+3.3%, energy-driven), collapsing rate-cut expectations (from 56% to 30% probability by year-end), and a Q4 GDP slowdown (0.5% vs Q3's 4.4%) exacerbated by the longest government shutdown in US history.
+bucket: political-economy
+topic: us-markets-and-economy
+tags: []
+source: Multiple sources (BLS, Fed, University of Michigan, IMF) — compiled April 2026
+resource:
+timestamp: 2026-05-09T07:18:11Z
+status: active
+related:
+  - political-economy/us-markets-and-economy/us-equities-april-2026.md
+  - political-economy/european-economy/european-stagflation-risk.md
+  - political-economy/energy-markets-2026/energy-supply-disruption.md
+---
+
 # US Macro Data — April 2026
 
 **Source:** Multiple sources (BLS, Fed, University of Michigan, IMF) — compiled April 2026

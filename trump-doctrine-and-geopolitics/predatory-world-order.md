@@ -1,3 +1,22 @@
+---
+type: analysis
+title: Predatory World Order: Machiavelli vs Sun Tzu
+description: Trump has operationalised Machiavelli's predatory doctrine — "men must either be caressed or annihilated" — beginning with the Venezuela blitz (3 January 2026).
+bucket: political-economy
+topic: trump-doctrine-and-geopolitics
+tags: []
+source: Fuori da Qui podcast (Coranews) — compiled 2026
+resource:
+timestamp: 2026-05-09T07:18:11Z
+status: active
+related:
+  - political-economy/middle-east-conflict-2026/trump-ultimatum-and-ceasefire-drama.md
+  - political-economy/european-economy/eu-role-in-middle-east.md
+  - political-economy/asian-economic-crisis/china-strategic-positioning.md
+  - political-economy/us-religion-and-politics/maga-new-religious-movement.md
+  - political-economy/pakistan-security-state/pakistan-2026-mediator-role.md
+---
+
 # Predatory World Order: Machiavelli vs Sun Tzu
 
 **Source:** Fuori da Qui podcast (Coranews) — compiled 2026

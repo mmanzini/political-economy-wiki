@@ -1,3 +1,21 @@
+---
+type: analysis
+title: Iran's Nuclear Program
+description: Iran's nuclear program is the central, structurally irreducible obstacle in the 2026 Middle East conflict negotiations.
+bucket: political-economy
+topic: middle-east-conflict-2026
+tags: []
+source: Multiple press reports (NYT, Reuters, Bloomberg) — compiled April 2026
+resource:
+timestamp: 2026-05-09T07:13:14Z
+status: active
+related:
+  - political-economy/middle-east-conflict-2026/conflict-and-ceasefire-status.md
+  - political-economy/middle-east-conflict-2026/trump-ultimatum-and-ceasefire-drama.md
+  - political-economy/middle-east-conflict-2026/israel-lebanon-front.md
+  - political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
+---
+
 # Iran's Nuclear Program
 
 **Source:** Multiple press reports (NYT, Reuters, Bloomberg) — compiled April 2026

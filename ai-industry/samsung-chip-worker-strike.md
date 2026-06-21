@@ -1,3 +1,20 @@
+---
+type: analysis
+title: Samsung Chip Worker Strike — AI Profits, Labor Rights, and Semiconductor Politics
+description: A detailed account of the May 2026 strike by the National Samsung Electronics Union (NS EU) — 90,000 members demanding a contractualised 15% share of Samsung's AI operating profits.
+bucket: political-economy
+topic: ai-industry
+tags: []
+source: ../../../Resources/web-clippings/2026-05-31-AI%20Podcast%20Transcript%20%26%20Summary%20-%20Chip%2C%20lavoro%20e%20sciopero.md
+resource:
+timestamp: 2026-05-31T21:26:30Z
+status: active
+related:
+  - political-economy/ai-industry/ai-developments-april-2026.md
+  - political-economy/ai-industry/deepseek-and-export-controls.md
+  - political-economy/ai-industry/magnifica-humanitas-encyclical-ai.md
+---
+
 # Samsung Chip Worker Strike — AI Profits, Labor Rights, and Semiconductor Politics
 
 **Source:** [2026-05-31-AI Podcast Transcript & Summary - Chip, lavoro e sciopero.md](../../../Resources/web-clippings/2026-05-31-AI%20Podcast%20Transcript%20%26%20Summary%20-%20Chip%2C%20lavoro%20e%20sciopero.md)

@@ -1,3 +1,20 @@
+---
+type: analysis
+title: Nazi Membership Database: Memory Politics in Germany and Austria
+description: In March 2026, the US National Archives released digitised NSDAP membership records, which *Die Zeit* organised into a public searchable database.
+bucket: political-economy
+topic: european-economy
+tags: []
+source: Die Zeit searchable database (March 2026); US National Archives
+resource:
+timestamp: 2026-05-09T07:13:14Z
+status: active
+related:
+  - political-economy/european-economy/european-stagflation-risk.md
+  - political-economy/european-economy/sanchez-progressive-mobilisation.md
+  - political-economy/colonial-history-and-memory/africa-wwii-antifascist-resistance.md
+---
+
 # Nazi Membership Database: Memory Politics in Germany and Austria
 
 **Source:** Die Zeit searchable database (March 2026); US National Archives

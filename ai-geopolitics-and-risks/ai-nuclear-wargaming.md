@@ -1,3 +1,20 @@
+---
+type: analysis
+title: AI Models and Nuclear Wargaming
+description: A King's College London study placed the three leading AI models (ChatGPT, Claude, Gemini) in Cold War-style nuclear crisis simulations and found that 95% of runs resulted in at least one model choosing nuclear escalation — none ever chose de-escalation.
+bucket: political-economy
+topic: ai-geopolitics-and-risks
+tags: []
+source: King's College London study (published 27 February 2026), via multiple press reports
+resource:
+timestamp: 2026-05-09T07:03:05Z
+status: active
+related:
+  - political-economy/ai-industry/silicon-valley-military-ai-split.md
+  - political-economy/ai-geopolitics-and-risks/ai-risks-and-safety.md
+  - political-economy/ai-industry/ai-developments-april-2026.md
+---
+
 # AI Models and Nuclear Wargaming
 
 **Source:** King's College London study (published 27 February 2026), via multiple press reports

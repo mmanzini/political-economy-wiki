@@ -1,3 +1,21 @@
+---
+type: analysis
+title: Palantir and the Technomilitarist Manifesto — Ep.131 "Manifesti"
+description: The podcast "Fuori da Qui" traces Palantir's transformation from a post-9/11 civil-liberties-guardian narrative to an openly technomilitarist actor.
+bucket: political-economy
+topic: ai-geopolitics-and-risks
+tags: []
+source: https://podcasttranscript.ai/library/ep-131-manifesti
+resource: https://podcasttranscript.ai/library/ep-131-manifesti
+timestamp: 2026-05-21T20:03:13Z
+status: active
+related:
+  - political-economy/ai-geopolitics-and-risks/ai-risks-and-safety.md
+  - political-economy/ai-geopolitics-and-risks/ai-nuclear-wargaming.md
+  - political-economy/ai-industry/silicon-valley-military-ai-split.md
+  - political-economy/ai-geopolitics-and-risks/malaysia-data-center-hub-2026.md
+---
+
 # Palantir and the Technomilitarist Manifesto — Ep.131 "Manifesti"
 
 **Source:** [Ep.131 — Manifesti (Fuori da Qui)](https://podcasttranscript.ai/library/ep-131-manifesti)

@@ -1,3 +1,24 @@
+---
+type: analysis
+title: AI Risks and Safety
+description: Dario Amodei's essay frames AI development as humanity's "technological adolescence" — a civilisational test with five risk categories (autonomy, mass destruction, power seizure, economic disruption, and indirect effects), each paired with proposed defences.
+bucket: political-economy
+topic: ai-geopolitics-and-risks
+tags: []
+source: https://darioamodei.com
+resource: https://darioamodei.com
+timestamp: 2026-05-09T07:13:14Z
+status: active
+related:
+  - political-economy/ai-geopolitics-and-risks/ai-transformative-potential.md
+  - political-economy/ai-industry/deepseek-and-export-controls.md
+  - political-economy/ai-industry/ai-developments-april-2026.md
+  - political-economy/ai-industry/silicon-valley-military-ai-split.md
+  - political-economy/ai-geopolitics-and-risks/ai-nuclear-wargaming.md
+  - political-economy/european-economy/hungary-elections-2026.md
+  - political-economy/us-markets-and-economy/us-macro-data-april-2026.md
+---
+
 # AI Risks and Safety
 
 **Source:** [Dario Amodei, "The Adolescence of Technology"](https://darioamodei.com)

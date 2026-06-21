@@ -1,3 +1,19 @@
+---
+type: analysis
+title: Bhutan: State Bitcoin Mining and Crypto Facade
+description: Bhutan has quietly become a state-level Bitcoin mining power, leveraging cheap hydroelectric energy to accumulate $1.4 billion in BTC reserves by early 2024 — the largest state "green" crypto reserve in the world.
+bucket: political-economy
+topic: bhutan-refugee-crisis
+tags: []
+source: Multiple press reports (Bloomberg, Financial Times) — compiled 2026
+resource:
+timestamp: 2026-05-09T07:13:14Z
+status: active
+related:
+  - political-economy/bhutan-refugee-crisis/bhutan-ethnic-cleansing-and-statelessness.md
+  - political-economy/global-finance-and-crypto/underground-banking-and-crypto-critique.md
+---
+
 # Bhutan: State Bitcoin Mining and Crypto Facade
 
 **Source:** Multiple press reports (Bloomberg, Financial Times) — compiled 2026

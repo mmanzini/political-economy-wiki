@@ -1,3 +1,19 @@
+---
+type: analysis
+title: Africa and the Global Anti-Fascist War: Decolonising WWII Memory
+description: Revisionist scholarship argues that Africa was not WWII's periphery but its material engine — providing soldiers, food, and uranium — and that the Ethiopian resistance (1935–41) was the first organised global anti-fascist struggle.
+bucket: political-economy
+topic: colonial-history-and-memory
+tags: []
+source: https://coranews.it
+resource: https://coranews.it
+timestamp: 2026-05-09T07:13:14Z
+status: active
+related:
+  - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+  - political-economy/bhutan-refugee-crisis/bhutan-ethnic-cleansing-and-statelessness.md
+---
+
 # Africa and the Global Anti-Fascist War: Decolonising WWII Memory
 
 **Source:** [Fuori da Qui podcast Ep. "Precisione"](https://coranews.it) (Simone Pirani, 2026-04-25)

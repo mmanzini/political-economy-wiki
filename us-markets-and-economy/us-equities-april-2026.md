@@ -1,3 +1,22 @@
+---
+type: analysis
+title: US Equities — April 2026
+description: US equities in April 2026 are pricing in optimism despite unresolved geopolitical variables — the S&P 500 has returned to positive YTD territory, VIX is below 20, and tech is leading with semiconductors up 20% YTD while software collapses 27%.
+bucket: political-economy
+topic: us-markets-and-economy
+tags: []
+source: Multiple market data sources (Bloomberg, JPMorgan, BlackRock, Morgan Stanley) — compiled April 2026
+resource:
+timestamp: 2026-05-09T07:18:11Z
+status: active
+related:
+  - political-economy/us-markets-and-economy/us-macro-data-april-2026.md
+  - political-economy/us-markets-and-economy/markets-rally-april-2026.md
+  - political-economy/ai-industry/ai-developments-april-2026.md
+  - political-economy/energy-markets-2026/brent-oil-price-dynamics.md
+  - political-economy/us-markets-and-economy/other-asset-classes.md
+---
+
 # US Equities — April 2026
 
 **Source:** Multiple market data sources (Bloomberg, JPMorgan, BlackRock, Morgan Stanley) — compiled April 2026

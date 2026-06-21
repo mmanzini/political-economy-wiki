@@ -1,3 +1,23 @@
+---
+type: analysis
+title: Silicon Valley Civil War Over Military AI
+description: Anthropic walked away from a $200M Pentagon contract over mass-surveillance and autonomous-weapons red lines, while OpenAI immediately signed a competing deal using a technically flimsy justification.
+bucket: political-economy
+topic: ai-industry
+tags: []
+source: Multiple press reports (CBS News, Financial Times, Reuters) — compiled March–April 2026
+resource:
+timestamp: 2026-05-26T20:14:21Z
+status: active
+related:
+  - political-economy/ai-geopolitics-and-risks/ai-nuclear-wargaming.md
+  - political-economy/ai-geopolitics-and-risks/ai-risks-and-safety.md
+  - political-economy/ai-industry/deepseek-and-export-controls.md
+  - political-economy/ai-industry/ai-developments-april-2026.md
+  - political-economy/ai-geopolitics-and-risks/palantir-technomilitarism-manifesti.md
+  - political-economy/ai-industry/magnifica-humanitas-encyclical-ai.md
+---
+
 # Silicon Valley Civil War Over Military AI
 
 **Source:** Multiple press reports (CBS News, Financial Times, Reuters) — compiled March–April 2026

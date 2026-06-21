@@ -8,5 +8,5 @@ Articles on the institutional architecture of the People's Republic of China —
 
 ## Related Topics
 
-- [[../china-domestic-economy/_index|China Domestic Economy]] — Common Prosperity, inequality, the economic program the political system is built to deliver
-- [[../trump-doctrine-and-geopolitics/_index|Trump Doctrine and Geopolitics]] — Xi's strategic patience and the China-US framing
+- [[../china-domestic-economy/index|China Domestic Economy]] — Common Prosperity, inequality, the economic program the political system is built to deliver
+- [[../trump-doctrine-and-geopolitics/index|Trump Doctrine and Geopolitics]] — Xi's strategic patience and the China-US framing

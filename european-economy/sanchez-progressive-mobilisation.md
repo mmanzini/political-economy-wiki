@@ -1,3 +1,22 @@
+---
+type: analysis
+title: Sánchez and the Global Progressive Mobilisation
+description: Spanish PM Pedro Sánchez organised a "Global Progressive Mobilisation" summit in Barcelona (17–18 April 2026) with Brazilian and Mexican leaders as a soft-power counter to Trump-aligned nationalism.
+bucket: political-economy
+topic: european-economy
+tags: []
+source: Multiple press reports (El País, Politico, Reuters) — compiled April 2026
+resource:
+timestamp: 2026-05-09T09:03:44Z
+status: active
+related:
+  - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+  - political-economy/european-economy/eu-role-in-middle-east.md
+  - political-economy/european-economy/european-stagflation-risk.md
+  - political-economy/european-economy/eu-demographics-2100.md
+  - political-economy/european-economy/eu-us-tariffs-may-2026.md
+---
+
 # Sánchez and the Global Progressive Mobilisation
 
 **Source:** Multiple press reports (El País, Politico, Reuters) — compiled April 2026

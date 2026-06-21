@@ -1,3 +1,20 @@
+---
+type: analysis
+title: European politics digest — 4 June 2026
+description: A Il Post Europa newsletter digest of early-June European political developments: Hungary's new Magyar/Tisza government hitting its first obstacle in a holdover Orbán-loyalist president; EU institutions tightening AI and digital-sovereignty posture; Armenia's pivotal pro-Western election under Russian pressure; a far-right "remigration" summit in Portugal; the quiet fading of Article 42.7 mutual-defence talk; and a Commission request to cull protected cormorants.
+bucket: political-economy
+topic: european-economy
+tags: []
+source: ../../../Resources/web-clippings/2026-06-04-Inbox%20(1
+resource:
+timestamp: 2026-06-05T05:02:31Z
+status: active
+related:
+  - political-economy/european-economy/hungary-post-election-priorities.md
+  - political-economy/european-economy/hungary-elections-2026.md
+  - political-economy/european-economy/european-politics-digest-may-21-2026.md
+---
+
 # European politics digest — 4 June 2026
 
 **Source:** [2026-06-04-Inbox (1) - manzini.m@gmail.com.md](../../../Resources/web-clippings/2026-06-04-Inbox%20(1)%20-%20manzini.m%40gmail.com.md)
@@ -42,4 +59,4 @@ Gregory Bovino — former US Border Patrol head, known for brutal anti-immigrati
 - [[hungary-post-election-priorities]] — Magyar's cabinet, the €90B Ukraine loan, and earlier EU-funds context
 - [[hungary-elections-2026]] — how the Magyar/Tisza supermajority was won
 - [[european-politics-digest-may-21-2026]] — previous Europa digest
-- [[../digital-privacy-and-cybersecurity/_index|Digital Privacy and Cybersecurity]] — EU data sovereignty and AI Act enforcement, the regulatory backdrop to the EP GenAI Hub
+- [[../digital-privacy-and-cybersecurity/index|Digital Privacy and Cybersecurity]] — EU data sovereignty and AI Act enforcement, the regulatory backdrop to the EP GenAI Hub

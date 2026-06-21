@@ -1,3 +1,24 @@
+---
+type: analysis
+title: EU Marginalized in the Middle East Crisis
+description: After 48 days of the 2026 Middle East conflict, the EU has had no meaningful role in war outcomes — a reality acknowledged by EU officials themselves.
+bucket: political-economy
+topic: european-economy
+tags: []
+source: Multiple press reports (Reuters, Bloomberg, Politico) — compiled April 2026
+resource:
+timestamp: 2026-05-09T07:13:14Z
+status: active
+related:
+  - political-economy/middle-east-conflict-2026/conflict-and-ceasefire-status.md
+  - political-economy/european-economy/european-stagflation-risk.md
+  - political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
+  - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+  - political-economy/european-economy/hungary-post-election-priorities.md
+  - political-economy/european-economy/bulgaria-elections-2026.md
+  - political-economy/energy-markets-2026/energy-outlook-april-2026.md
+---
+
 # EU Marginalized in the Middle East Crisis
 
 **Source:** Multiple press reports (Reuters, Bloomberg, Politico) — compiled April 2026
