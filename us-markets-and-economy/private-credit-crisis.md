@@ -1,10 +1,10 @@
 ---
 type: analysis
 title: Private Credit Crisis
-description: Q1 2026 was the worst quarter in private credit history: redemption requests exceeded $20 billion, but Apollo, Ares, Blackstone, Blue Owl, and KKR could return only about half.
+description: "Q1 2026 was the worst quarter in private credit history: redemption requests exceeded $20 billion, but Apollo, Ares, Blackstone, Blue Owl, and KKR could return only about half."
 bucket: political-economy
 topic: us-markets-and-economy
-tags: []
+tags: [financial-markets, us-politics, energy-markets, commodity-shock, private-credit]
 source: Multiple press reports (Bloomberg, Reuters) — compiled April 2026
 resource:
 timestamp: 2026-05-09T07:18:11Z

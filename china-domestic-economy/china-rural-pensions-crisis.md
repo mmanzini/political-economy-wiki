@@ -1,10 +1,10 @@
 ---
 type: analysis
-title: China: Rural Pensions Crisis
+title: "China: Rural Pensions Crisis"
 description: In 2026 China raised rural minimum pensions by just 20 yuan/month (~€2.50) to 163 yuan total — less than $1/day — provoking a rare public revolt from legislative delegates.
 bucket: political-economy
 topic: china-domestic-economy
-tags: []
+tags: [china, labour, demographics]
 source: Chinese legislative reports; Zichen Wang analysis; commentary by Su Hainan and David Daokui — compiled 2026
 resource:
 timestamp: 2026-05-09T07:13:14Z

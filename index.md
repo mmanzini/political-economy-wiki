@@ -22,3 +22,26 @@
 - [[pakistan-security-state/index|Pakistan Security State]] — Kamran's framework; military-rule history (Ayub → Zia → Musharraf → Imran Khan); Munir-Trump axis and Pakistan's 2026 mediator role
 - [[colonial-history-and-memory/index|Colonial History and Memory]] — Africa's central role in the global anti-fascist war; Thiaroye massacre; Ethiopian Arbegnoch resistance and women's shadow networks; Congolese uranium; survival of colonial logic past 1945; decolonising historical memory
 - [[asia-pacific-geopolitics/index|Asia-Pacific Geopolitics]] — Japan, Taiwan, Korean Peninsula, ASEAN-region security dynamics; Japan's 2026 intelligence reform (National Intelligence Bureau + NIC), Tokkō historical stigma, rearmament trajectory, and China's Taiwan calculus
+
+## Tag vocabulary
+
+- `geopolitics` — interstate power, strategy, alignment
+- `middle-east` — Iran, Israel, Gulf, regional war
+- `energy-markets` — oil, gas, LNG pricing dynamics
+- `commodity-shock` — supply disruption, food, fertiliser
+- `financial-markets` — equities, macro data, credit
+- `crypto` — cryptocurrency, informal finance, stablecoins
+- `ai-industry` — AI firms, products, market impact
+- `ai-safety-risk` — autonomy, misuse, civilisational risk
+- `china` — Chinese economy, politics, strategy
+- `europe` — EU economy, politics, elections
+- `us-politics` — US domestic policy and movements
+- `trump-doctrine` — Trump foreign policy, predatory order
+- `trade-policy` — tariffs, export controls, trade war
+- `religion-and-politics` — faith mobilised politically
+- `authoritarianism` — security states, repression, surveillance
+- `demographics` — birth rates, ageing, population
+- `digital-privacy` — data breaches, sovereignty, cyber policy
+- `colonial-legacy` — extraction, decolonisation, historical memory
+- `refugees-statelessness` — forced displacement, ethnic cleansing
+- `labour` — workers, strikes, redistribution

@@ -4,7 +4,7 @@ title: Trump-China Trade War and Tariff Strategy (2025–2026)
 description: Trump's tariff escalation against China — reaching 145 percentage points before being partially struck down by SCOTUS — has been partially effective in extracting concessions but fundamentally constrained by China's scale.
 bucket: political-economy
 topic: trump-doctrine-and-geopolitics
-tags: []
+tags: [trump-doctrine, trade-policy, china, geopolitics, us-politics, commodity-shock]
 source: PIIE, CNBC, Yale Insights, CS Monitor — compiled April 2026
 resource:
 timestamp: 2026-06-06T06:50:19Z

@@ -1,10 +1,10 @@
 ---
 type: analysis
 title: European Politics Digest — 21 May 2026
-description: A digest of European political stories from the 21 May 2026 issue of Ventisette: Trump's Greenland negotiations advancing with US military and veto demands; EU institutions reaching a compromise to ratify the controversial July 2025 US-EU trade deal under threat of new 25% auto tariffs; the rise of a digital-populist party in Cyprus (Fidias Panayiotou's Democrazia Diretta); Eurostat employment data showing Italy at the EU's lowest female-employment rate; an Irish gangster running again for parliament.
+description: "A digest of European political stories from the 21 May 2026 issue of Ventisette: Trump's Greenland negotiations advancing with US military and veto demands; EU institutions reaching a compromise to ratify the controversial July 2025 US-EU trade deal under threat of new 25% auto tariffs; the rise of a digital-populist party in Cyprus (Fidias Panayiotou's Democrazia Diretta); Eurostat employment data showing Italy at the EU's lowest female-employment rate; an Irish gangster running again for parliament."
 bucket: political-economy
 topic: european-economy
-tags: []
+tags: [europe, trump-doctrine, trade-policy, colonial-legacy, labour, us-politics]
 source: https://mail.google.com/mail/u/0/#inbox
 resource: https://mail.google.com/mail/u/0/#inbox
 timestamp: 2026-06-05T05:02:31Z

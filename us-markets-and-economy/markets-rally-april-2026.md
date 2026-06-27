@@ -1,10 +1,10 @@
 ---
 type: analysis
-title: Markets Rally: April 2026
+title: "Markets Rally: April 2026"
 description: US equity markets rallied strongly in mid-April 2026 (Nasdaq +14% in 10 sessions) on ceasefire optimism, while the real economy remained constrained by unresolved energy supply disruption.
 bucket: political-economy
 topic: us-markets-and-economy
-tags: []
+tags: [financial-markets, ai-industry, energy-markets, us-politics, commodity-shock]
 source: Multiple market sources (Goldman Sachs, Bloomberg, IMF Spring Meetings) — compiled April 2026
 resource:
 timestamp: 2026-05-09T07:18:11Z

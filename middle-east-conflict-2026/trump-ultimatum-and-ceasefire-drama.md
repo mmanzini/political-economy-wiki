@@ -4,7 +4,7 @@ title: Trump's Ultimatum and the Ceasefire Drama
 description: Trump's ultimatum cycle against Iran (threaten civilian infrastructure → Iran doesn't yield → back down) was resolved by Pakistan brokering a two-week ceasefire as a face-saving exit.
 bucket: political-economy
 topic: middle-east-conflict-2026
-tags: []
+tags: [middle-east, trump-doctrine, geopolitics, energy-markets, us-politics]
 source: Multiple press reports (NYT, Reuters, Bloomberg, Il Post / Francesco Costa) — compiled April 2026
 resource:
 timestamp: 2026-05-29T14:02:22Z

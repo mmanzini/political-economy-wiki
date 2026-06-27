@@ -4,7 +4,7 @@ title: Hormuz Blockade Overview
 description: The Strait of Hormuz — 167 km handling 20% of global oil supply — was effectively shut down from late February 2026 following the US Operation *Epic Fury*.
 bucket: political-economy
 topic: hormuz-strait-crisis
-tags: []
+tags: [energy-markets, commodity-shock, middle-east, geopolitics, china]
 source: Multiple press reports (Reuters, Bloomberg, CENTCOM, TankerTrackers) — compiled April 2026
 resource:
 timestamp: 2026-05-09T07:13:14Z

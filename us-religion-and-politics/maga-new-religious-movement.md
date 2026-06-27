@@ -1,10 +1,10 @@
 ---
 type: analysis
-title: MAGA as New Religious Movement: Grace vs Sword
-description: MAGA represents a structural rupture with the old Christian right: rather than "state conforms to church," the MAGA model bends the church to the nation.
+title: "MAGA as New Religious Movement: Grace vs Sword"
+description: "MAGA represents a structural rupture with the old Christian right: rather than \"state conforms to church,\" the MAGA model bends the church to the nation."
 bucket: political-economy
 topic: us-religion-and-politics
-tags: []
+tags: [religion-and-politics, us-politics, trump-doctrine, authoritarianism, europe]
 source: https://coranews.it
 resource: https://coranews.it
 timestamp: 2026-05-09T07:18:11Z

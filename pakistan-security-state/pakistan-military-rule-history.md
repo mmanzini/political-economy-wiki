@@ -4,7 +4,7 @@ title: Pakistan Military Rule — A History
 description: A chronological survey of Pakistan's military regimes — from Ayub Khan's "democracy with restricted entry" (1958) to the Imran Khan "hybrid regime" experiment (2018–2022) — shows that every civilian government has either been ousted by the army or survived only by subordinating itself to military control.
 bucket: political-economy
 topic: pakistan-security-state
-tags: []
+tags: [authoritarianism, geopolitics, religion-and-politics, colonial-legacy, pakistan]
 source: https://choramedia.com
 resource: https://choramedia.com
 timestamp: 2026-05-09T07:18:11Z

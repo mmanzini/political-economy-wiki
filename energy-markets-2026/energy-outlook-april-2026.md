@@ -1,10 +1,10 @@
 ---
 type: analysis
-title: Energy Markets: Mid-April 2026
-description: The defining feature of mid-April 2026 energy markets is the paper/physical oil split: Brent futures at ~$95 (pricing in de-escalation) versus physical Brent above $130 (unresolved scarcity).
+title: "Energy Markets: Mid-April 2026"
+description: "The defining feature of mid-April 2026 energy markets is the paper/physical oil split: Brent futures at ~$95 (pricing in de-escalation) versus physical Brent above $130 (unresolved scarcity)."
 bucket: political-economy
 topic: energy-markets-2026
-tags: []
+tags: [energy-markets, commodity-shock, middle-east, geopolitics, financial-markets]
 source: Multiple market sources (IEA, analyst reports, Bloomberg) — compiled April 2026
 resource:
 timestamp: 2026-05-09T07:13:14Z

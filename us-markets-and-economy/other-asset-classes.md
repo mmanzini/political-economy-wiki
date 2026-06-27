@@ -4,7 +4,7 @@ title: Other Asset Classes — April 2026
 description: As of April 2026, gold is in its third consecutive positive week despite daily dips, reflecting sustained safe-haven demand during the energy crisis.
 bucket: political-economy
 topic: us-markets-and-economy
-tags: []
+tags: [financial-markets, crypto, commodity-shock, energy-markets, safe-haven]
 source: Market data (Bloomberg) — compiled April 2026
 resource:
 timestamp: 2026-05-09T07:18:11Z

@@ -1,10 +1,10 @@
 ---
 type: analysis
-title: Bhutan: Ethnic Cleansing and Statelessness
+title: "Bhutan: Ethnic Cleansing and Statelessness"
 description: Bhutan expelled 100,000–120,000 people of Nepali origin (Lhotshampa) in the late 1980s–90s through discriminatory citizenship laws, forced migration forms, and cultural suppression — roughly one-sixth of its population.
 bucket: political-economy
 topic: bhutan-refugee-crisis
-tags: []
+tags: [refugees-statelessness, authoritarianism, us-politics, demographics, ethnic-cleansing]
 source: Multiple press reports and Bhutan Watch 2025 Human Rights Report — compiled 2026
 resource:
 timestamp: 2026-05-09T07:13:14Z

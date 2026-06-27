@@ -4,7 +4,7 @@ title: Anthropic's 2026 Election Safeguards Update
 description: Anthropic published an update on its election safeguards ahead of the 2026 US midterms and other major global elections, detailing how Claude is trained for political neutrality, what election-related uses are prohibited, how defensive testing is conducted, and how election banners and web search help route users to reliable, up-to-date civic information.
 bucket: political-economy
 topic: ai-industry
-tags: []
+tags: [ai-industry, ai-safety-risk, us-politics, digital-privacy]
 source: https://www.anthropic.com/news/election-safeguards-update
 resource: https://www.anthropic.com/news/election-safeguards-update
 timestamp: 2026-04-29T21:54:50Z

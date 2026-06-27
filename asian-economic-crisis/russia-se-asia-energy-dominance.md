@@ -4,7 +4,7 @@ title: Russia's Structural Energy Dominance in Southeast Asia
 description: Following the closure of the Hormuz strait on 4 March 2026 — Iran's response to Operation Epic Fury, the US-Israeli airstrikes launched 28 February 2026 — Russia has moved rapidly to fill the energy vacuum in Southeast Asia.
 bucket: political-economy
 topic: asian-economic-crisis
-tags: []
+tags: [energy-markets, geopolitics, commodity-shock, china, middle-east, trade-policy]
 source: https://podcasttranscript.ai/library/ep-168-il-nuovo-ordine-energetico
 resource: https://podcasttranscript.ai/library/ep-168-il-nuovo-ordine-energetico
 timestamp: 2026-05-29T14:02:22Z

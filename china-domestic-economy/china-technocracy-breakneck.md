@@ -1,10 +1,10 @@
 ---
 type: analysis
 title: China as Technocracy — The Breakneck Model
-description: The re-emergence of Jack Ma beside Xi Jinping in February 2025 signalled a new social contract between the Chinese Communist Party and private capital: entrepreneurs are welcomed back, but only to serve national technological priorities.
+description: "The re-emergence of Jack Ma beside Xi Jinping in February 2025 signalled a new social contract between the Chinese Communist Party and private capital: entrepreneurs are welcomed back, but only to serve national technological priorities."
 bucket: political-economy
 topic: china-domestic-economy
-tags: []
+tags: [china, ai-industry, authoritarianism, geopolitics, trade-policy]
 source: https://podcasttranscript.ai/library/ep-62-la-cina-e-una-tecnocrazia-imprese-private
 resource: https://podcasttranscript.ai/library/ep-62-la-cina-e-una-tecnocrazia-imprese-private
 timestamp: 2026-05-09T09:03:44Z

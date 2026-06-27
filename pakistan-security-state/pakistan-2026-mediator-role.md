@@ -4,7 +4,7 @@ title: Pakistan's 2026 Mediator Role — Munir, Trump, and "Active Opportunism"
 description: Pakistan's Field Marshal Asim Munir leveraged a personal relationship with Trump to position Islamabad as the key US-Iran mediator in April 2026, extracting a $500M critical-minerals deal and integration of the Trump family's World Liberty Financial stablecoin into Pakistan's national payments system.
 bucket: political-economy
 topic: pakistan-security-state
-tags: []
+tags: [geopolitics, trump-doctrine, middle-east, china, crypto, authoritarianism]
 source: https://choramedia.com
 resource: https://choramedia.com
 timestamp: 2026-05-09T07:18:11Z

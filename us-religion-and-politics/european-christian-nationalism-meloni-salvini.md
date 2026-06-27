@@ -1,10 +1,10 @@
 ---
 type: analysis
-title: European Christian Nationalism: Meloni, Salvini, and the Italian Template
+title: "European Christian Nationalism: Meloni, Salvini, and the Italian Template"
 description: Meloni and Salvini are applying a pre-existing Italian tradition of religiously inflected identity politics to the 2020s global right-wing wave.
 bucket: political-economy
 topic: us-religion-and-politics
-tags: []
+tags: [religion-and-politics, europe, authoritarianism, us-politics]
 source: Canopy Forum (2024); Springer (2025, Fratelli d'Italia); USCIRF source material — compiled 2026
 resource:
 timestamp: 2026-05-09T07:18:11Z

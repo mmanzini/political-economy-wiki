@@ -4,7 +4,7 @@ title: Country-by-Country Impact
 description: A country-by-country snapshot of Asia's response to the Hormuz energy crisis as of early April 2026.
 bucket: political-economy
 topic: asian-economic-crisis
-tags: []
+tags: [energy-markets, commodity-shock, china, geopolitics, financial-markets]
 source: Multiple press reports (Reuters, Bloomberg, regional media) — compiled April 2026
 resource:
 timestamp: 2026-05-09T07:13:14Z

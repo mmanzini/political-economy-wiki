@@ -4,7 +4,7 @@ title: AI Transformative Potential
 description: Dario Amodei's "Machines of Loving Grace" sketches what the world could look like 5–10 years after powerful AI arrives, predicting a "compressed 21st century" of biological and medical progress — near-elimination of most disease, doubled human lifespan, cured mental illness — alongside accelerated poverty reduction and strengthened democracy, contingent on managing the associated risks.
 bucket: political-economy
 topic: ai-geopolitics-and-risks
-tags: []
+tags: [ai-industry, ai-safety-risk, geopolitics, demographics, china]
 source: https://darioamodei.com
 resource: https://darioamodei.com
 timestamp: 2026-05-09T07:13:14Z

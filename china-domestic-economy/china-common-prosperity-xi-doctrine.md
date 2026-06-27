@@ -4,7 +4,7 @@ title: Xi Jinping and Common Prosperity — From Maoist Roots to the 15th Five-Y
 description: Xi Jinping's August 2021 speech to the Central Financial and Economic Affairs Commission elevated "common prosperity" (Gongtong Fuyu) from long-term aspiration to organising principle of the 15th Five-Year Plan, integrating it across 16 policy domains with welfare indicators displacing GDP as the primary metric — backed by the doctrine of "new quality productive forces" (innovation in AI, robotics, biotech) generating wealth to redistribute through market, fiscal, and philanthropic channels; implementation is constrained by a 2025 fiscal squeeze and global trade tensions over China Shock 2.0.
 bucket: political-economy
 topic: china-domestic-economy
-tags: []
+tags: [china, labour, demographics, ai-industry, trade-policy]
 source: https://podcasttranscript.ai/library/ep-65-xi-jinping-vuole-una-cina-meno-diseguale
 resource: https://podcasttranscript.ai/library/ep-65-xi-jinping-vuole-una-cina-meno-diseguale
 timestamp: 2026-05-21T19:46:43Z

@@ -4,7 +4,7 @@ title: Israel-Lebanon Front
 description: The Israel-Lebanon front is the primary near-term threat to the 2026 Iran-US ceasefire.
 bucket: political-economy
 topic: middle-east-conflict-2026
-tags: []
+tags: [middle-east, geopolitics, trump-doctrine, us-politics]
 source: Multiple press reports (Reuters, Bloomberg, Al Jazeera) — compiled April 2026
 resource:
 timestamp: 2026-05-09T07:13:14Z

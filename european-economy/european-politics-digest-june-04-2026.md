@@ -1,10 +1,10 @@
 ---
 type: analysis
 title: European politics digest — 4 June 2026
-description: A Il Post Europa newsletter digest of early-June European political developments: Hungary's new Magyar/Tisza government hitting its first obstacle in a holdover Orbán-loyalist president; EU institutions tightening AI and digital-sovereignty posture; Armenia's pivotal pro-Western election under Russian pressure; a far-right "remigration" summit in Portugal; the quiet fading of Article 42.7 mutual-defence talk; and a Commission request to cull protected cormorants.
+description: "A Il Post Europa newsletter digest of early-June European political developments: Hungary's new Magyar/Tisza government hitting its first obstacle in a holdover Orbán-loyalist president; EU institutions tightening AI and digital-sovereignty posture; Armenia's pivotal pro-Western election under Russian pressure; a far-right \"remigration\" summit in Portugal; the quiet fading of Article 42.7 mutual-defence talk; and a Commission request to cull protected cormorants."
 bucket: political-economy
 topic: european-economy
-tags: []
+tags: [europe, authoritarianism, ai-industry, digital-privacy, refugees-statelessness, geopolitics]
 source: ../../../Resources/web-clippings/2026-06-04-Inbox%20(1
 resource:
 timestamp: 2026-06-05T05:02:31Z
