@@ -79,6 +79,7 @@ Dario Amodei argues that DeepSeek-V3 is an expected point on the AI cost reducti
 - [[ai-transformative-potential]] — Amodei's vision of what "countries of geniuses in a datacenter" could achieve
 - [[ai-risks-and-safety]] — the risks of powerful AI, including misuse by authoritarian states
 - [[ai-developments-april-2026]] — current AI industry developments
+- [[china-ai-cosmotechnics]] — the cultural/philosophical reading of how China conceives AI, with DeepSeek as its starting case
 
 ## Tags
 

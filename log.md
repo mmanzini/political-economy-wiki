@@ -1,5 +1,9 @@
 # Change log — political-economy
 
+## 2026-06-27
+- consolidate european-economy/ — new european-politics-digest-june-25-2026 (summary, no images copied); source+images deleted
+- consolidate ai-industry/ — new china-ai-cosmotechnics; source+image deleted
+
 ## 2026-06-06
 - consolidate asia-pacific-geopolitics/ — new topic asia-pacific-geopolitics; new article japan-intelligence-reform-2026.md; Al Tre Orienti Ep.173 (Simone Piranni); DFS/Dempabu SIGINT history, Tokkō stigma, Levchenko spy-paradise 1982, PM Takaiichi May 2026 NIB+NIC reform, civil liberties risks, China Taiwan alarm; podcast thumbnail not copied (not embedded); source+image deleted
 

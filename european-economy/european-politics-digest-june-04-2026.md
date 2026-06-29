@@ -59,4 +59,5 @@ Gregory Bovino — former US Border Patrol head, known for brutal anti-immigrati
 - [[hungary-post-election-priorities]] — Magyar's cabinet, the €90B Ukraine loan, and earlier EU-funds context
 - [[hungary-elections-2026]] — how the Magyar/Tisza supermajority was won
 - [[european-politics-digest-may-21-2026]] — previous Europa digest
+- [[european-politics-digest-june-25-2026]] — next Europa digest (Ventisette, 25 June)
 - [[../digital-privacy-and-cybersecurity/index|Digital Privacy and Cybersecurity]] — EU data sovereignty and AI Act enforcement, the regulatory backdrop to the EP GenAI Hub
