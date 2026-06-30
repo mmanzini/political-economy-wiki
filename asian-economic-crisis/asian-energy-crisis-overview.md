@@ -2,7 +2,7 @@
 type: analysis
 title: Asian Energy Crisis Overview
 description: The Hormuz blockade has hit Asia disproportionately — 80% of oil and 90% of LNG transiting the strait is destined for Asian markets.
-bucket: political-economy
+bundle: political-economy
 topic: asian-economic-crisis
 tags: [energy-markets, commodity-shock, middle-east, geopolitics, china]
 source: Multiple press reports (IEA, IMF, Reuters) — compiled April 2026

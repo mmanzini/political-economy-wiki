@@ -2,7 +2,7 @@
 type: analysis
 title: DeepSeek and Export Controls
 description: Dario Amodei argues that DeepSeek-V3 is an expected point on the AI cost reduction curve (not a paradigm shift), but that its geopolitical significance — a Chinese lab reaching near-frontier performance first — makes chip export controls more important, not less.
-bucket: political-economy
+bundle: political-economy
 topic: ai-industry
 tags: [ai-industry, china, trade-policy, geopolitics, ai-safety-risk, export-controls]
 source: https://darioamodei.com

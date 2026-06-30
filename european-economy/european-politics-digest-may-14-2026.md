@@ -2,7 +2,7 @@
 type: analysis
 title: European politics digest — 14 May 2026
 description: "Il Post's Italian-language newsletter of 14 May 2026 covers six interlinked European stories: the Labour Party crisis under Keir Starmer after local-election disaster; EU aviation guidance as the Strait of Hormuz enters its third month of closure; the inauguration of Hungary's new Péter Magyar government; the EU's emergency civil-protection mechanism (UCPM/RescEU); the Andalusia regional elections; and Norway's ongoing fishing cooperation with Russia despite EU concerns."
-bucket: political-economy
+bundle: political-economy
 topic: european-economy
 tags: [europe, geopolitics, authoritarianism, energy-markets]
 source: ../../../Resources/web-clippings/2026-05-14-Inbox%20-%20manzini.m@gmail.com.md

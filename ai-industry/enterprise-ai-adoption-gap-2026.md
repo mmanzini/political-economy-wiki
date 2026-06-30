@@ -2,7 +2,7 @@
 type: analysis
 title: Enterprise AI adoption gap — reading the Xebia/Data Expo Monitor 2025/26
 description: A critical read of Xebia and Data Expo's Data & AI Monitor 2025/26, a 500+ respondent survey of (mostly Central-European, US, MEA) data professionals.
-bucket: political-economy
+bundle: political-economy
 topic: ai-industry
 tags: [ai-industry, europe, financial-markets, labour]
 source: ../../../Resources/documents/xebia/data-ai-monitor-2025-26-critical-assessment.md

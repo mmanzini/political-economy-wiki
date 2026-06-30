@@ -2,7 +2,7 @@
 type: analysis
 title: China's Strategic Positioning
 description: "China is leveraging the Hormuz crisis on multiple fronts simultaneously: mediating diplomatically between Iran and Pakistan, hoarding oil and fertiliser reserves, advancing yuan-denominated trade as a dollar alternative, and benefiting from an investment boom in its battery and clean-energy sector."
-bucket: political-economy
+bundle: political-economy
 topic: asian-economic-crisis
 tags: [china, geopolitics, energy-markets, commodity-shock, crypto, financial-markets]
 source: Multiple press reports (Financial Times, Bloomberg) — compiled April 2026

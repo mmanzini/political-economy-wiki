@@ -2,7 +2,7 @@
 type: analysis
 title: Magnifica Humanitas — Pope Leo XIV's Encyclical on AI (May 2026)
 description: Magnifica Humanitas is Pope Leo XIV's first major social encyclical, framed as an explicit successor to Leo XIII's *Rerum Novarum* (1891) and applying the Church's social doctrine to artificial intelligence, robotics, and digital transformation.
-bucket: political-economy
+bundle: political-economy
 topic: ai-industry
 tags: [ai-industry, ai-safety-risk, religion-and-politics, labour, europe]
 source: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html

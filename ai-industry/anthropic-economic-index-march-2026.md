@@ -2,7 +2,7 @@
 type: analysis
 title: "Anthropic Economic Index: Learning Curves (March 2026)"
 description: "The fifth edition of the Anthropic Economic Index (February 2026 sample) finds two trends: AI use cases are diversifying on Claude.ai while coding consolidates on the API, and experienced users measurably outperform newcomers — a learning-by-doing effect that may deepen inequality between early and late AI adopters."
-bucket: political-economy
+bundle: political-economy
 topic: ai-industry
 tags: [ai-industry, labour, demographics]
 source: https://www.anthropic.com/research/economic-index

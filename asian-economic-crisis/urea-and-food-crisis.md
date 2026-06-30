@@ -2,7 +2,7 @@
 type: analysis
 title: Urea and Food Crisis
 description: The Hormuz energy crisis has cascaded into a food crisis through the gas → urea → fertiliser → harvest chain.
-bucket: political-economy
+bundle: political-economy
 topic: asian-economic-crisis
 tags: [commodity-shock, energy-markets, china, geopolitics, food-security]
 source: Multiple press reports (FAO, Reuters, regional media) — compiled April 2026

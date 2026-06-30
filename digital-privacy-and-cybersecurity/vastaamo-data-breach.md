@@ -2,7 +2,7 @@
 type: analysis
 title: "Vastaamo Data Breach: The Uberisation of Mental Health"
 description: Finland's largest private psychotherapy network (Vastaamo) was hacked in 2020, exposing 33,000 patient therapy records through catastrophic negligence — no firewall, empty password.
-bucket: political-economy
+bundle: political-economy
 topic: digital-privacy-and-cybersecurity
 tags: [digital-privacy, europe, crypto, labour, data-breach]
 source: Fuori da Qui podcast (Coranews) — compiled 2026

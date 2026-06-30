@@ -2,7 +2,7 @@
 type: analysis
 title: LNG Crisis and Gas Markets
 description: Qatar's Ras Laffan LNG facility — producing 93% of Qatar's LNG output — was attacked and partially shut down from 2026-03-02, sending Asian LNG prices up 127% in 30 days.
-bucket: political-economy
+bundle: political-economy
 topic: energy-markets-2026
 tags: [energy-markets, commodity-shock, middle-east, china, geopolitics]
 source: Multiple press reports (Reuters, Bloomberg, IEA) — compiled April 2026

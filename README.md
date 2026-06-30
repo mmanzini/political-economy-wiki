@@ -2,7 +2,7 @@
 
 Macro-level commentary, analysis, and reporting on the political and economic forces shaping the world in 2026 — geopolitics (Middle East, Trump doctrine, Pakistan, China, Europe), energy and commodity markets, financial systems (US equities, global crypto, underground banking), the AI industry as a *market and political force* (not as a building practice), and the social/historical/religious threads woven through them (US religion-and-politics, colonial history and memory, refugee crises, digital privacy as a regulatory question). Belongs here: anything where the unit of analysis is a country, a market, an industry, a political movement, or a historical force. Does **not** belong here: how-to material on *building with* AI (that goes to `ai-engineering`) or repo-level writeups of trending AI tooling (that goes to `github-trends`). The AI-industry topic here covers the macro/geopolitical view; the agent-tooling view lives elsewhere.
 
-This repository is a public mirror of one bucket from a personal Obsidian RAG vault (Atlas). Articles are distilled from primary sources — talks, papers, reporting, essays, podcasts, original analysis — into concise, cross-linked notes with inline source citations. It currently holds **71 articles across 18 topics**.
+This repository is a public mirror of one bundle from a personal Obsidian RAG vault (Atlas). Articles are distilled from primary sources — talks, papers, reporting, essays, podcasts, original analysis — into concise, cross-linked notes with inline source citations. It currently holds **71 articles across 18 topics**.
 
 ## Topics
 
@@ -29,7 +29,7 @@ This repository is a public mirror of one bucket from a personal Obsidian RAG va
 
 This repository is a conformant [**Open Knowledge Format (OKF) v0.1**](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) bundle. OKF is Google Cloud's vendor-neutral standard for agent-readable knowledge: a directory of markdown files, one concept per file, with YAML frontmatter and cross-links. No SDK, no database, no proprietary account — if you can `cat` a file you can read it; if you can `git clone` the repo you can ship it.
 
-A bucket of the parent vault *is* an OKF bundle in place — there is no separate export step. What that means here:
+Each bundle of the parent vault is OKF-conformant in place — there is no separate export step. What that means here:
 
 - **`index.md` routers** — `index.md` at the bundle root and in every topic folder is a directory listing for progressive disclosure: scan it to see what exists before opening articles.
 - **`<concept>.md` articles** — every other `.md` file is a concept document. Each opens with YAML frontmatter whose only required field is `type` (Atlas uses a small vocabulary: `synthesis`, `reference`, `analysis`, `digest`, …), followed by `title`, `description`, `tags`, `source`, `timestamp`, and a `related:` cross-link graph.
@@ -48,4 +48,4 @@ This repository syncs from the parent vault on a schedule; content is added or r
 
 ---
 
-<sub>README generated from Atlas (`okf_tools.py --readme political-economy`) — do not edit by hand; edit the bucket's `index.md` or the shared OKF section in the generator.</sub>
+<sub>README generated from Atlas (`okf_tools.py --readme political-economy`) — do not edit by hand; edit the bundle's `index.md` or the shared OKF section in the generator.</sub>

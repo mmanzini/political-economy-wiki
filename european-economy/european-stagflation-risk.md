@@ -2,7 +2,7 @@
 type: analysis
 title: European Stagflation Risk
 description: EU Commissioner Gentiloni warned of a coming stagflationary shock driven by the Hormuz energy crisis, with EU forecasts due to be downgraded in May 2026.
-bucket: political-economy
+bundle: political-economy
 topic: european-economy
 tags: [europe, financial-markets, energy-markets, commodity-shock]
 source: Multiple press reports (EU Commission statements, Bloomberg, Il Post) — compiled April 2026

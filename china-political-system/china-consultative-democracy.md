@@ -2,7 +2,7 @@
 type: analysis
 title: China's Consultative Socialist Democracy
 description: China's political system is doctrinally framed as "socialist consultative democracy" (Shehuizhuyi Xieshang Minzhu), prioritising permanent consultation guided by the CCP over electoral alternation; legitimacy is performance-based rather than procedural, with eight minor parties operating as institutionalised consultative partners and a hierarchical electoral system that combines direct local votes with indirect provincial and national selection — all filtered through ideological vetting.
-bucket: political-economy
+bundle: political-economy
 topic: china-political-system
 tags: [china, authoritarianism, geopolitics]
 source: https://podcasttranscript.ai/library/ep-64-in-cina-esistono-elezioni-ecco-come

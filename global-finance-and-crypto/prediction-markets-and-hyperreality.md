@@ -2,7 +2,7 @@
 type: analysis
 title: "Prediction Markets and Hyperreality: Polymarket as Simulacrum"
 description: "Polymarket prediction markets are examined through Baudrillard's hyperreality lens: the financial contract has become more real than the events it references."
-bucket: political-economy
+bundle: political-economy
 topic: global-finance-and-crypto
 tags: [crypto, financial-markets, us-politics, trump-doctrine, prediction-markets]
 source: https://coranews.it

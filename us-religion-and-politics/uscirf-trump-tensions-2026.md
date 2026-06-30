@@ -2,7 +2,7 @@
 type: analysis
 title: USCIRF and the Hollowing of Religious Freedom Foreign Policy (2026)
 description: USCIRF's 2026 annual report reveals over two years of zero Country of Particular Concern (CPC) designations — the Trump administration has systematically decoupled its religious freedom rhetoric from any enforcement mechanism.
-bucket: political-economy
+bundle: political-economy
 topic: us-religion-and-politics
 tags: [religion-and-politics, us-politics, trump-doctrine, refugees-statelessness, geopolitics]
 source: https://www.uscirf.gov

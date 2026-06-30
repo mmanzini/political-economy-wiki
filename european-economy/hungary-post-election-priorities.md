@@ -2,7 +2,7 @@
 type: analysis
 title: "Hungary Post-Election: Magyar's Priorities"
 description: Péter Magyar's post-election priorities centre on dismantling Orbán's institutional grip (retroactive two-term limit, loyalist removal, court reform), unlocking ~€35B in EU frozen funds, and pivoting Hungary toward EU and NATO alignment.
-bucket: political-economy
+bundle: political-economy
 topic: european-economy
 tags: [europe, authoritarianism, geopolitics, energy-markets]
 source: https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally

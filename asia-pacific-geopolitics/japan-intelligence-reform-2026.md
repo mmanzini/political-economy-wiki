@@ -2,7 +2,7 @@
 type: analysis
 title: Japan's 2026 Intelligence Reform — From Spy Paradise to National Intelligence Bureau
 description: "Japan's post-WWII deliberate intelligence vacuum — born from fear of replicating the pre-war Tokkō police state — left the country chronically dependent on the US and vulnerably nicknamed a \"spy paradise.\" On 27 May 2026, PM Sanai Takaiichi passed Japan's most radical intelligence reform since 1945: a National Intelligence Bureau replacing the toothless Cabinet Research Office, and a National Intelligence Council chaired by the PM, centralising fragmented agencies and ending US intelligence dependency."
-bucket: political-economy
+bundle: political-economy
 topic: asia-pacific-geopolitics
 tags: [geopolitics, china, digital-privacy, authoritarianism, japan]
 source: https://podcasttranscript.ai/library/ep-173-spie-giapponesi

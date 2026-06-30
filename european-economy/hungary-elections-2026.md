@@ -2,7 +2,7 @@
 type: analysis
 title: Hungary Elections 2026
 description: Péter Magyar's Tisza party won Hungary's April 2026 election with a historic supermajority (141/199 seats), ending Viktor Orbán's 16-year grip on power in the highest-turnout election in post-communist Hungarian history (>78%).
-bucket: political-economy
+bundle: political-economy
 topic: european-economy
 tags: [europe, authoritarianism, geopolitics]
 source: https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally

@@ -2,7 +2,7 @@
 type: analysis
 title: Trump, NATO, and European Defence Realignment (2026)
 description: Trump's 5% GDP defence spending demand has dramatically increased European NATO contributions (>$450B/year, nearly double 2022 levels), but the coercive method has accelerated European strategic autonomy — Europe is building independent capacity that reduces future US leverage.
-bucket: political-economy
+bundle: political-economy
 topic: trump-doctrine-and-geopolitics
 tags: [trump-doctrine, europe, geopolitics, us-politics, trade-policy, defence-spending]
 source: Stars and Stripes, German Marshall Fund, Northeastern University — compiled April 2026
