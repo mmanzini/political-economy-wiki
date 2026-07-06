@@ -13,6 +13,7 @@ Articles on AI industry developments and their market impact.
 - [[samsung-chip-worker-strike]] — Samsung NS EU 90,000-member strike for 15% AI profit share; Shinjumbo cleanroom leukemia case; South Korean AI citizen dividend debate; China labor suppression in semiconductors
 - [[enterprise-ai-adoption-gap-2026]] — critical read of the Xebia/Data Expo Monitor 2025/26: adoption-vs-governance gap and European Big-Tech unease corroborated, but positive percentages soft (perception not measurement; MIT/McKinsey/BCG/Gartner land far lower)
 - [[china-ai-cosmotechnics]] — how China conceives AI differently from the West: DeepSeek's three moves, Yuk Hui's cosmotechnics, "human-made intelligence", Buddhism/Legalism, and the state narrative (Altri Orienti podcast)
+- [[ai-sycophancy-and-distributed-hallucination]] — sycophancy as a tuning choice: OpenAI's 2025 withdrawal-and-reinstatement arc, clinical/legal cases, Osler's distributed hallucination, ChatGPT ads and the Stanford 49% result (Fuori da qui podcast)
 
 ## Related (cross-linked)
 

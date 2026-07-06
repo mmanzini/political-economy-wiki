@@ -1,5 +1,8 @@
 # Change log — political-economy
 
+## 2026-07-05
+- consolidate ai-industry/ — new ai-sycophancy-and-distributed-hallucination; cover image not copied; source+image deleted
+
 ## 2026-06-27
 - consolidate european-economy/ — new european-politics-digest-june-25-2026 (summary, no images copied); source+images deleted
 - consolidate ai-industry/ — new china-ai-cosmotechnics; source+image deleted

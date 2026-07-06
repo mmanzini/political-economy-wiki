@@ -12,6 +12,7 @@ status: active
 related:
   - political-economy/ai-industry/deepseek-and-export-controls.md
   - political-economy/china-political-system/index.md
+  - political-economy/ai-industry/ai-sycophancy-and-distributed-hallucination.md
 ---
 
 # What China means by "artificial intelligence" — cosmotechnics, shanzhai and the state
@@ -66,3 +67,4 @@ The episode's answer: China means by AI "a machine that is not an alien but an e
 
 - [[deepseek-and-export-controls]] · [DeepSeek and export controls](deepseek-and-export-controls.md) — the chip-export and scaling-law argument this cultural reading sits against
 - [[../china-political-system/index]] · [China Political System](../china-political-system/index.md) — the Legalist/bureaucratic governing tradition the analysis invokes
+- [[ai-sycophancy-and-distributed-hallucination]] · [AI sycophancy and distributed hallucination](ai-sycophancy-and-distributed-hallucination.md) — companion podcast analysis of the Western industry's engagement incentives
