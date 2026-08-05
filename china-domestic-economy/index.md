@@ -9,3 +9,4 @@ Articles on China's internal economic policies, inequality, and the gap between 
 - [[china-technocracy-breakneck]] — China as engineer-state technocracy: the Jack Ma new compact, intelligent authoritarianism, and the breakneck model (engineers vs. lawyers) with military-industrial implications
 - [[china-humanoid-robotics-2026]] — China's 90% global humanoid robot share, Hangzhou embodied-intelligence regulation, teleoperator paradox, Nvidia dependency, and the Hangzhou labour ruling
 - [[china-common-prosperity-xi-doctrine]] — Xi's August 2021 speech, 15th Five-Year Plan integration, new quality productive forces, three-tier redistribution, 2025 fiscal squeeze and China Shock 2.0
+- [[china-food-self-sufficiency]] — the solar/EV playbook applied to protein: $124.5B agricultural deficit, 15th-plan synthetic biology push, net-protein-exporter scenarios by 2040-2050 (Zumcina podcast)

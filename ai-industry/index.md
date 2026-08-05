@@ -14,6 +14,11 @@ Articles on AI industry developments and their market impact.
 - [[enterprise-ai-adoption-gap-2026]] — critical read of the Xebia/Data Expo Monitor 2025/26: adoption-vs-governance gap and European Big-Tech unease corroborated, but positive percentages soft (perception not measurement; MIT/McKinsey/BCG/Gartner land far lower)
 - [[china-ai-cosmotechnics]] — how China conceives AI differently from the West: DeepSeek's three moves, Yuk Hui's cosmotechnics, "human-made intelligence", Buddhism/Legalism, and the state narrative (Altri Orienti podcast)
 - [[ai-sycophancy-and-distributed-hallucination]] — sycophancy as a tuning choice: OpenAI's 2025 withdrawal-and-reinstatement arc, clinical/legal cases, Osler's distributed hallucination, ChatGPT ads and the Stanford 49% result (Fuori da qui podcast)
+- [[arrakis-industrial-ai]] — London/Paris startup out of stealth with $38M: agentic-AI "operating system" for industry, Palantir-alumni team, model-agnostic "fat harness", performance-contingent pricing
+- [[anthropic-institute-research-agenda]] — TAI's four-pillar research agenda: economic diffusion, threats and resilience, AI systems in the wild, AI-driven R&D; frontier-lab vantage feeding the Long-Term Benefit Trust
+- [[anthropic-81k-interviews]] — 80,508 users in 159 countries interviewed by Anthropic Interviewer: nine hope clusters, thirteen concern categories, five "light and shade" tensions
+- [[openai-presence-enterprise-agents]] — OpenAI productises forward-deployed enterprise agents: policies/guardrails/Codex improvement loop, 75% autonomous phone-support resolution, BBVA/SoftBank/IAG partners
+- [[openai-health-chatgpt]] — Health in ChatGPT for US users: connected medical records and Apple Health, GPT-5.6 Sol beating physician-written responses on physician rubrics, no-training/no-ads carve-out
 
 ## Related (cross-linked)
 

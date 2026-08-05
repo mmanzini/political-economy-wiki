@@ -14,6 +14,7 @@ related:
   - political-economy/china-domestic-economy/china-technocracy-breakneck.md
   - political-economy/china-domestic-economy/china-humanoid-robotics-2026.md
   - political-economy/china-political-system/china-consultative-democracy.md
+  - political-economy/china-domestic-economy/china-food-self-sufficiency.md
 ---
 
 # Xi Jinping and Common Prosperity — From Maoist Roots to the 15th Five-Year Plan
@@ -85,3 +86,4 @@ Common prosperity is not just domestic policy — it is a refoundation of the id
 - [[china-technocracy-breakneck]] — the engineer-state mechanism delivering "new quality productive forces"
 - [[china-humanoid-robotics-2026]] — robotics as concrete application of the doctrine
 - [[../china-political-system/china-consultative-democracy]] — the political architecture that legitimises performance-based redistribution
+- [[china-food-self-sufficiency]] · [China's food self-sufficiency drive](china-food-self-sufficiency.md) — the 15th plan's synthetic-biology/protein push: the solar playbook applied to food security

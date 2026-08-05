@@ -11,6 +11,8 @@ timestamp: 2026-05-09T07:13:14Z
 status: active
 related:
   - political-economy/digital-privacy-and-cybersecurity/vastaamo-data-breach.md
+  - political-economy/digital-privacy-and-cybersecurity/palantir-european-sovereignty-challengers.md
+  - political-economy/digital-privacy-and-cybersecurity/venticinque-2001-surveillance-capitalism.md
   - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
   - political-economy/trump-doctrine-and-geopolitics/trump-china-trade-war.md
 ---
@@ -87,6 +89,8 @@ The 2026 cybersecurity landscape is defined by two diverging governance paradigm
 - [[vastaamo-data-breach]] — case study in platform-economy logic applied to sensitive health data without adequate security
 - [[predatory-world-order]] — offensive cyber doctrine connects to the broader Machiavellian predatory order
 - [[trump-china-trade-war]] — AI chip export controls as coercive instrument; agentic hardware as sovereignty lever
+- [[palantir-european-sovereignty-challengers]] · [Palantir's European backlash](../digital-privacy-and-cybersecurity/palantir-european-sovereignty-challengers.md) — the sovereignty gap turning into procurement action: ChapsVision and the challenger wave
+- [[venticinque-2001-surveillance-capitalism]] · [2001 and surveillance capitalism](../digital-privacy-and-cybersecurity/venticinque-2001-surveillance-capitalism.md) — the 2001 origin story of the surveillance-governance regimes diverging here
 
 ## Tags
 

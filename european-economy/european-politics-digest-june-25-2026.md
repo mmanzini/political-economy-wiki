@@ -12,6 +12,7 @@ status: active
 related:
   - political-economy/european-economy/european-politics-digest-june-04-2026.md
   - political-economy/european-economy/eu-demographics-2100.md
+  - political-economy/european-economy/european-politics-digest-july-16-2026.md
 ---
 
 # European politics digest — 25 June 2026 (Ventisette)
@@ -60,3 +61,4 @@ Parliament president Roberta Metsola must decide whether to sanction two far-rig
 
 - [[european-politics-digest-june-04-2026]] · [European politics digest — 4 June 2026](european-politics-digest-june-04-2026.md) — the prior digest in this European-politics series
 - [[eu-demographics-2100]] · [EU demographics 2100](eu-demographics-2100.md) — the demographic backdrop to EU migration and labour debates
+- [[european-politics-digest-july-16-2026]] · [European politics digest — 16 July 2026](european-politics-digest-july-16-2026.md) — the next digest in this series: Sulyok removal vote, Team Gaza fund, Gibraltar

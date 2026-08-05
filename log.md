@@ -1,5 +1,23 @@
 # Change log — political-economy
 
+## 2026-08-05
+- consolidate digital-privacy-and-cybersecurity/ — merged pair -> palantir-european-sovereignty-challengers.md; source deleted
+- consolidate digital-privacy-and-cybersecurity/ — merged into palantir-european-sovereignty-challengers.md; source deleted
+- consolidate european-economy/ — european-politics-digest-july-16-2026.md; source deleted
+- consolidate trump-doctrine-and-geopolitics/ — trump-tariffs-forced-labour-loophole.md (US-dominant content); source deleted
+- consolidate european-economy/ — european-politics-digest-july-25-2026.md; source deleted
+- consolidate global-finance-and-crypto/ — julie-meyer-dotcom-fraud.md; new tag financial-fraud; source deleted
+- consolidate global-finance-and-crypto/ — ghost-cattle-ponzi.md; source deleted
+- consolidate digital-privacy-and-cybersecurity/ — venticinque-2001-surveillance-capitalism.md; source deleted
+- consolidate china-domestic-economy/ — china-food-self-sufficiency.md; source deleted
+- consolidate ai-industry/ — arrakis-industrial-ai.md; source deleted
+- consolidate ai-industry/ — anthropic-institute-research-agenda.md; source deleted
+- consolidate ai-industry/ — anthropic-81k-interviews.md; source deleted
+- consolidate ai-industry/ — openai-presence-enterprise-agents.md dual-cites both re-clips; source deleted
+- consolidate ai-industry/ — duplicate re-clip; deduped into openai-presence-enterprise-agents.md; source deleted
+- consolidate ai-industry/ — openai-health-chatgpt.md; source deleted
+- consolidate european-economy/ — dutch-pension-reform-wtp.md (type reference); 1 needs-verification claim; source deleted
+
 ## 2026-07-05
 - consolidate ai-industry/ — new ai-sycophancy-and-distributed-hallucination; cover image not copied; source+image deleted
 

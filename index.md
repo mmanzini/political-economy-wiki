@@ -42,6 +42,7 @@
 - `authoritarianism` — security states, repression, surveillance
 - `demographics` — birth rates, ageing, population
 - `digital-privacy` — data breaches, sovereignty, cyber policy
+- `financial-fraud` — Ponzi schemes, fund diversion, investment fraud
 - `colonial-legacy` — extraction, decolonisation, historical memory
 - `refugees-statelessness` — forced displacement, ethnic cleansing
 - `labour` — workers, strikes, redistribution

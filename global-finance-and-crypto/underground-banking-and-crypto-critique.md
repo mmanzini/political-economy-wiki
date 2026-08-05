@@ -12,6 +12,8 @@ status: active
 related:
   - political-economy/asian-economic-crisis/china-strategic-positioning.md
   - political-economy/european-economy/european-stagflation-risk.md
+  - political-economy/global-finance-and-crypto/julie-meyer-dotcom-fraud.md
+  - political-economy/global-finance-and-crypto/ghost-cattle-ponzi.md
 ---
 
 # Underground Banking and Crypto Critique
@@ -98,6 +100,8 @@ Ancient informal banking networks (Hawala, Fei Qian) remain the only systems gen
 
 - [[china-strategic-positioning]] — China's capital controls and broader financial and strategic manoeuvring
 - [[european-stagflation-risk]] — global financial regulation context
+- [[julie-meyer-dotcom-fraud]] · [Julie Meyer and the dot-com afterlife](../global-finance-and-crypto/julie-meyer-dotcom-fraud.md) — venture-finance fraud enabled by the same frictionless-capital ideology critiqued here
+- [[ghost-cattle-ponzi]] · [The ghost-cattle Ponzi](../global-finance-and-crypto/ghost-cattle-ponzi.md) — trust-based agricultural credit as fraud surface: the McLean/Rabo case
 
 ## Tags
 

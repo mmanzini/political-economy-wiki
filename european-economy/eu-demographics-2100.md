@@ -14,6 +14,7 @@ related:
   - political-economy/european-economy/hungary-post-election-priorities.md
   - political-economy/european-economy/eu-role-in-middle-east.md
   - political-economy/us-markets-and-economy/us-natality-crisis.md
+  - political-economy/european-economy/dutch-pension-reform-wtp.md
 ---
 
 # EU Demographics: Projections to 2100
@@ -66,6 +67,7 @@ Eurostat's 2026 projections forecast an 11.7% population decline by 2100, driven
 - [[hungary-post-election-priorities]] — natalist policy legacy under Orbán; Magyar government faces demographic headwinds
 - [[eu-role-in-middle-east]] — fiscal exposure compounds demographic pressure
 - [[us-natality-crisis|US Natality Crisis]]
+- [[dutch-pension-reform-wtp]] · [Dutch pension reform (Wtp)](dutch-pension-reform-wtp.md) — the Netherlands' systemic pension answer to the ageing pressure projected here
 
 ## Tags
 

@@ -11,6 +11,7 @@ timestamp: 2026-06-06T06:50:19Z
 status: active
 related:
   - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+  - political-economy/trump-doctrine-and-geopolitics/trump-tariffs-forced-labour-loophole.md
   - political-economy/trump-doctrine-and-geopolitics/trump-nato-european-realignment.md
   - political-economy/digital-privacy-and-cybersecurity/cybersecurity-policy-2026.md
   - political-economy/asian-economic-crisis/china-strategic-positioning.md
@@ -88,6 +89,7 @@ Trump's tariff escalation against China — reaching 145 percentage points befor
 - [[cybersecurity-policy-2026]] — AI chip export controls as parallel coercive instrument; agentic hardware as the new contested sovereignty terrain
 - [[china-strategic-positioning]] — China's Sun Tzu patience in the energy crisis: the energy-crisis dimension of the same long game
 - [[japan-intelligence-reform-2026]] — Japan's 2026 intelligence centralisation; Section 301 tariff exposure pushes Japan toward autonomous security; China's alarm at Japanese rearmament and Taiwan framing
+- [[trump-tariffs-forced-labour-loophole]] · [Trump's tariff return via the forced-labour loophole](../trump-doctrine-and-geopolitics/trump-tariffs-forced-labour-loophole.md) — the July 2026 sequel: tariffs on 80+ countries through a verification-free statute after the SCOTUS defeat
 
 ## Tags
 

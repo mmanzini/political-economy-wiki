@@ -9,7 +9,9 @@ source: https://www.anthropic.com/research/economic-index
 resource: https://www.anthropic.com/research/economic-index
 timestamp: 2026-06-05T05:02:31Z
 status: active
-related: []
+related:
+  - political-economy/ai-industry/anthropic-institute-research-agenda.md
+  - political-economy/ai-industry/anthropic-81k-interviews.md
 ---
 
 # Anthropic Economic Index: Learning Curves (March 2026)
@@ -114,6 +116,8 @@ The fifth edition of the Anthropic Economic Index (February 2026 sample) finds t
 - Global AI adoption inequality is **widening** between countries even as it narrows within the US
 - The learning-by-doing effect suggests early AI investment by workers may compound over time
 - See also: [[ai-developments-april-2026]], [[deepseek-and-export-controls]], [[ai-transformative-potential]], [[enterprise-ai-adoption-gap-2026]]
+- [[anthropic-institute-research-agenda]] · [The Anthropic Institute agenda](../ai-industry/anthropic-institute-research-agenda.md) — the institute that commits to deepening this index's data at higher cadence
+- [[anthropic-81k-interviews]] · [What 81,000 people want from AI](../ai-industry/anthropic-81k-interviews.md) — the qualitative counterpart: user hopes and fears behind these usage patterns
 
 ## Tags
 
