@@ -2,7 +2,7 @@
 
 Macro-level commentary, analysis, and reporting on the political and economic forces shaping the world in 2026 — geopolitics (Middle East, Trump doctrine, Pakistan, China, Europe), energy and commodity markets, financial systems (US equities, global crypto, underground banking), the AI industry as a *market and political force* (not as a building practice), and the social/historical/religious threads woven through them (US religion-and-politics, colonial history and memory, refugee crises, digital privacy as a regulatory question). Belongs here: anything where the unit of analysis is a country, a market, an industry, a political movement, or a historical force. Does **not** belong here: how-to material on *building with* AI (that goes to `ai-engineering`) or repo-level writeups of trending AI tooling (that goes to `github-trends`). The AI-industry topic here covers the macro/geopolitical view; the agent-tooling view lives elsewhere.
 
-This repository is a public mirror of one bundle from a personal Obsidian RAG vault (Atlas). Articles are distilled from primary sources — talks, papers, reporting, essays, podcasts, original analysis — into concise, cross-linked notes with inline source citations. It currently holds **72 articles across 18 topics**.
+This repository is a public mirror of one bundle from a personal Obsidian RAG vault (Atlas). Articles are distilled from primary sources — talks, papers, reporting, essays, podcasts, original analysis — into concise, cross-linked notes with inline source citations. It currently holds **86 articles across 18 topics**.
 
 ## Topics
 
