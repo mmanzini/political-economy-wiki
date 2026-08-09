@@ -1,20 +1,28 @@
 ---
 type: analysis
-title: "EU Demographics: Projections to 2100"
+title: 'EU Demographics: Projections to 2100'
 description: Eurostat's 2026 projections forecast an 11.7% population decline by 2100, driven by low birth rates.
 bundle: political-economy
 topic: european-economy
-tags: [europe, demographics, labour, refugees-statelessness]
-source: https://ec.europa.eu/eurostat
+tags:
+- europe
+- demographics
+- labour
+- refugees-statelessness
 resource: https://ec.europa.eu/eurostat
-timestamp: 2026-05-09T07:13:14Z
-status: active
+sources:
+- id: eurostat
+  resource: https://ec.europa.eu/eurostat
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:13:14Z'
+status: stable
 related:
-  - political-economy/european-economy/european-stagflation-risk.md
-  - political-economy/european-economy/hungary-post-election-priorities.md
-  - political-economy/european-economy/eu-role-in-middle-east.md
-  - political-economy/us-markets-and-economy/us-natality-crisis.md
-  - political-economy/european-economy/dutch-pension-reform-wtp.md
+- political-economy/european-economy/european-stagflation-risk.md
+- political-economy/european-economy/hungary-post-election-priorities.md
+- political-economy/european-economy/eu-role-in-middle-east.md
+- political-economy/us-markets-and-economy/us-natality-crisis.md
+- political-economy/european-economy/dutch-pension-reform-wtp.md
 ---
 
 # EU Demographics: Projections to 2100

@@ -1,19 +1,26 @@
 ---
 type: analysis
 title: European politics digest — 14 May 2026
-description: "Il Post's Italian-language newsletter of 14 May 2026 covers six interlinked European stories: the Labour Party crisis under Keir Starmer after local-election disaster; EU aviation guidance as the Strait of Hormuz enters its third month of closure; the inauguration of Hungary's new Péter Magyar government; the EU's emergency civil-protection mechanism (UCPM/RescEU); the Andalusia regional elections; and Norway's ongoing fishing cooperation with Russia despite EU concerns."
+description: 'Il Post''s Italian-language newsletter of 14 May 2026 covers six interlinked European stories: the Labour Party crisis under Keir Starmer after local-election disaster; EU aviation guidance as the Strait of Hormuz enters its third month of closure; the inauguration of Hungary''s new Péter Magyar government; the EU''s emergency civil-protection mechanism (UCPM/RescEU); the Andalusia regional elections; and Norway''s ongoing fishing cooperation with Russia despite EU concerns.'
 bundle: political-economy
 topic: european-economy
-tags: [europe, geopolitics, authoritarianism, energy-markets]
-source: ../../../Resources/web-clippings/2026-05-14-Inbox%20-%20manzini.m@gmail.com.md
-resource:
-timestamp: 2026-05-21T20:03:13Z
-status: active
+tags:
+- europe
+- geopolitics
+- authoritarianism
+- energy-markets
+sources:
+- id: 2026-05-14-inbox-20-20manzini-m-gmail-com
+  resource: ../../../Resources/web-clippings/2026-05-14-Inbox%20-%20manzini.m@gmail.com.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-21T20:03:13Z'
+status: stable
 related:
-  - political-economy/european-economy/hungary-post-election-priorities.md
-  - political-economy/european-economy/eu-us-tariffs-may-2026.md
-  - political-economy/european-economy/sanchez-progressive-mobilisation.md
-  - political-economy/european-economy/european-politics-digest-may-21-2026.md
+- political-economy/european-economy/hungary-post-election-priorities.md
+- political-economy/european-economy/eu-us-tariffs-may-2026.md
+- political-economy/european-economy/sanchez-progressive-mobilisation.md
+- political-economy/european-economy/european-politics-digest-may-21-2026.md
 ---
 
 # European politics digest — 14 May 2026

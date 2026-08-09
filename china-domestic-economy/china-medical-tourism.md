@@ -4,15 +4,22 @@ title: China Medical Tourism — The Hospital of the World
 description: China is rapidly becoming the world's third major export industry after manufacturing and technology — this time in healthcare.
 bundle: political-economy
 topic: china-domestic-economy
-tags: [china, ai-industry, digital-privacy, demographics]
-source: The Economist / Six Don data; Guangzhou Daily (state media) — compiled 2026
-resource:
-timestamp: 2026-05-09T07:13:14Z
-status: active
+tags:
+- china
+- ai-industry
+- digital-privacy
+- demographics
+sources:
+- id: six-don-data-guangzhou-daily-state-media-compiled-2026
+  resource: The Economist / Six Don data; Guangzhou Daily (state media) — compiled 2026
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:13:14Z'
+status: stable
 related:
-  - political-economy/china-domestic-economy/china-rural-pensions-crisis.md
-  - political-economy/digital-privacy-and-cybersecurity/vastaamo-data-breach.md
-  - political-economy/ai-geopolitics-and-risks/ai-transformative-potential.md
+- political-economy/china-domestic-economy/china-rural-pensions-crisis.md
+- political-economy/digital-privacy-and-cybersecurity/vastaamo-data-breach.md
+- political-economy/ai-geopolitics-and-risks/ai-transformative-potential.md
 ---
 
 # China Medical Tourism — The Hospital of the World

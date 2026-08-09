@@ -4,15 +4,23 @@ title: 2001 and the rise of surveillance capitalism (Venticinque)
 description: Fuori da qui traces three 2001 threads — Genoa G8/Indymedia, 9/11 and the Patriot Act/TIA, and China's WTO entry with the Golden Shield — into one story, the birth of surveillance capitalism from Palantir to Hikvision.
 bundle: political-economy
 topic: digital-privacy-and-cybersecurity
-tags: [digital-privacy, authoritarianism, china, geopolitics]
-source: Resources/web-clippings/2026-07-25-AI Podcast Transcript & Summary - Venticinque.md
+tags:
+- digital-privacy
+- authoritarianism
+- china
+- geopolitics
 resource: https://podcasttranscript.ai/library/ep-141-venticinque
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-25-ai-podcast-transcript-summary-venticinque
+  resource: Resources/web-clippings/2026-07-25-AI Podcast Transcript & Summary - Venticinque.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/digital-privacy-and-cybersecurity/palantir-european-sovereignty-challengers.md
-  - political-economy/digital-privacy-and-cybersecurity/cybersecurity-policy-2026.md
-  - political-economy/global-finance-and-crypto/julie-meyer-dotcom-fraud.md
+- political-economy/digital-privacy-and-cybersecurity/palantir-european-sovereignty-challengers.md
+- political-economy/digital-privacy-and-cybersecurity/cybersecurity-policy-2026.md
+- political-economy/global-finance-and-crypto/julie-meyer-dotcom-fraud.md
 ---
 
 # 2001 and the rise of surveillance capitalism (Venticinque)

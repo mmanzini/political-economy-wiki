@@ -4,16 +4,23 @@ title: Energy Supply Disruption
 description: The Hormuz blockade caused the largest energy supply disruption in modern history by physical volume — ~11 million barrels/day of global oil and petroleum products.
 bundle: political-economy
 topic: energy-markets-2026
-tags: [energy-markets, commodity-shock, middle-east, geopolitics]
-source: Multiple press reports (IEA, Reuters, Bloomberg) — compiled April 2026
-resource:
-timestamp: 2026-05-09T07:13:14Z
-status: active
+tags:
+- energy-markets
+- commodity-shock
+- middle-east
+- geopolitics
+sources:
+- id: multiple-press-reports-iea-reuters-bloomberg-compiled-april-2026
+  resource: Multiple press reports (IEA, Reuters, Bloomberg) — compiled April 2026
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:13:14Z'
+status: stable
 related:
-  - political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
-  - political-economy/energy-markets-2026/brent-oil-price-dynamics.md
-  - political-economy/asian-economic-crisis/asian-energy-crisis-overview.md
-  - political-economy/asian-economic-crisis/country-impacts.md
+- political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
+- political-economy/energy-markets-2026/brent-oil-price-dynamics.md
+- political-economy/asian-economic-crisis/asian-energy-crisis-overview.md
+- political-economy/asian-economic-crisis/country-impacts.md
 ---
 
 # Energy Supply Disruption

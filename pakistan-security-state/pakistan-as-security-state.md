@@ -4,14 +4,23 @@ title: Pakistan as a Security State
 description: Pakistan is a "security state" — a polity in which border defence and the permanent manufacture of an external-threat perception have subordinated every other institution to the military.
 bundle: political-economy
 topic: pakistan-security-state
-tags: [authoritarianism, colonial-legacy, religion-and-politics, geopolitics, refugees-statelessness]
-source: https://choramedia.com
+tags:
+- authoritarianism
+- colonial-legacy
+- religion-and-politics
+- geopolitics
+- refugees-statelessness
 resource: https://choramedia.com
-timestamp: 2026-05-09T07:18:11Z
-status: active
+sources:
+- id: choramedia
+  resource: https://choramedia.com
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:18:11Z'
+status: stable
 related:
-  - political-economy/pakistan-security-state/pakistan-military-rule-history.md
-  - political-economy/pakistan-security-state/pakistan-2026-mediator-role.md
+- political-economy/pakistan-security-state/pakistan-military-rule-history.md
+- political-economy/pakistan-security-state/pakistan-2026-mediator-role.md
 ---
 
 # Pakistan as a Security State

@@ -4,19 +4,27 @@ title: EU Marginalized in the Middle East Crisis
 description: After 48 days of the 2026 Middle East conflict, the EU has had no meaningful role in war outcomes — a reality acknowledged by EU officials themselves.
 bundle: political-economy
 topic: european-economy
-tags: [europe, middle-east, geopolitics, energy-markets, trump-doctrine]
-source: Multiple press reports (Reuters, Bloomberg, Politico) — compiled April 2026
-resource:
-timestamp: 2026-05-09T07:13:14Z
-status: active
+tags:
+- europe
+- middle-east
+- geopolitics
+- energy-markets
+- trump-doctrine
+sources:
+- id: multiple-press-reports-reuters-bloomberg-politico-compiled-april-2026
+  resource: Multiple press reports (Reuters, Bloomberg, Politico) — compiled April 2026
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:13:14Z'
+status: stable
 related:
-  - political-economy/middle-east-conflict-2026/conflict-and-ceasefire-status.md
-  - political-economy/european-economy/european-stagflation-risk.md
-  - political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
-  - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
-  - political-economy/european-economy/hungary-post-election-priorities.md
-  - political-economy/european-economy/bulgaria-elections-2026.md
-  - political-economy/energy-markets-2026/energy-outlook-april-2026.md
+- political-economy/middle-east-conflict-2026/conflict-and-ceasefire-status.md
+- political-economy/european-economy/european-stagflation-risk.md
+- political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
+- political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+- political-economy/european-economy/hungary-post-election-priorities.md
+- political-economy/european-economy/bulgaria-elections-2026.md
+- political-economy/energy-markets-2026/energy-outlook-april-2026.md
 ---
 
 # EU Marginalized in the Middle East Crisis

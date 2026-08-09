@@ -4,15 +4,22 @@ title: Julie Meyer — from dot-com queen to serial fraud allegations (Dotcom)
 description: Fuori da qui traces Julie Meyer's arc from First Tuesday, the networking club at the heart of London's dot-com bubble, through Ariadne Capital's collapse and fund-diversion findings, to a fugitive trail across Malta, Zurich and Greece.
 bundle: political-economy
 topic: global-finance-and-crypto
-tags: [financial-fraud, financial-markets, europe]
-source: Resources/web-clippings/2026-07-25-AI Podcast Transcript & Summary - Dotcom.md
+tags:
+- financial-fraud
+- financial-markets
+- europe
 resource: https://podcasttranscript.ai/library/ep-140-dotcom
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-25-ai-podcast-transcript-summary-dotcom
+  resource: Resources/web-clippings/2026-07-25-AI Podcast Transcript & Summary - Dotcom.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/global-finance-and-crypto/ghost-cattle-ponzi.md
-  - political-economy/global-finance-and-crypto/underground-banking-and-crypto-critique.md
-  - political-economy/digital-privacy-and-cybersecurity/venticinque-2001-surveillance-capitalism.md
+- political-economy/global-finance-and-crypto/ghost-cattle-ponzi.md
+- political-economy/global-finance-and-crypto/underground-banking-and-crypto-critique.md
+- political-economy/digital-privacy-and-cybersecurity/venticinque-2001-surveillance-capitalism.md
 ---
 
 # Julie Meyer — from dot-com queen to serial fraud allegations (Dotcom)

@@ -4,14 +4,21 @@ title: The ghost-cattle Ponzi — Brian McLean and Rabo Agri Finance (Schemi)
 description: Fuori da qui reconstructs Kentucky rancher Brian McLean's cattle Ponzi — 50,000+ non-existent cows as loan collateral, a bank that documented its own doubts while raising credit to $45M, and $170M that vanished without a trace.
 bundle: political-economy
 topic: global-finance-and-crypto
-tags: [financial-fraud, financial-markets, commodity-shock]
-source: Resources/web-clippings/2026-07-25-AI Podcast Transcript & Summary - Schemi.md
+tags:
+- financial-fraud
+- financial-markets
+- commodity-shock
 resource: https://podcasttranscript.ai/library/ep-139-schemi
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-25-ai-podcast-transcript-summary-schemi
+  resource: Resources/web-clippings/2026-07-25-AI Podcast Transcript & Summary - Schemi.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/global-finance-and-crypto/julie-meyer-dotcom-fraud.md
-  - political-economy/global-finance-and-crypto/underground-banking-and-crypto-critique.md
+- political-economy/global-finance-and-crypto/julie-meyer-dotcom-fraud.md
+- political-economy/global-finance-and-crypto/underground-banking-and-crypto-critique.md
 ---
 
 # The ghost-cattle Ponzi — Brian McLean and Rabo Agri Finance (Schemi)

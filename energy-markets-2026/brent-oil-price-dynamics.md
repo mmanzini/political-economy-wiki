@@ -4,16 +4,24 @@ title: Brent Oil Price Dynamics
 description: Brent crude rose ~40% from pre-war levels (~$70 to ~$96/barrel) following the Hormuz blockade, with North Sea oil reaching all-time highs above $147.
 bundle: political-economy
 topic: energy-markets-2026
-tags: [energy-markets, commodity-shock, middle-east, financial-markets, geopolitics]
-source: Multiple market data sources (IEA, Goldman Sachs, Bloomberg) — compiled April 2026
-resource:
-timestamp: 2026-05-09T07:13:14Z
-status: active
+tags:
+- energy-markets
+- commodity-shock
+- middle-east
+- financial-markets
+- geopolitics
+sources:
+- id: multiple-market-data-sources-iea-goldman-sachs-bloomberg-compiled-april-2026
+  resource: Multiple market data sources (IEA, Goldman Sachs, Bloomberg) — compiled April 2026
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:13:14Z'
+status: stable
 related:
-  - political-economy/energy-markets-2026/energy-supply-disruption.md
-  - political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
-  - political-economy/asian-economic-crisis/asian-energy-crisis-overview.md
-  - political-economy/energy-markets-2026/energy-outlook-april-2026.md
+- political-economy/energy-markets-2026/energy-supply-disruption.md
+- political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
+- political-economy/asian-economic-crisis/asian-energy-crisis-overview.md
+- political-economy/energy-markets-2026/energy-outlook-april-2026.md
 ---
 
 # Brent Oil Price Dynamics

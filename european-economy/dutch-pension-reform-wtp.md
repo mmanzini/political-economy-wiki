@@ -4,14 +4,22 @@ title: Dutch pension reform — the Wet toekomst pensioenen (Wtp)
 description: Explainer of the Netherlands' new pension rules — the Wtp in force since 1 July 2023, mandatory compliance for all employer schemes by 1 January 2028, what changes and what stays the same for workers.
 bundle: political-economy
 topic: european-economy
-tags: [europe, demographics, labour, financial-markets]
-source: Resources/web-clippings/2026-08-05-Nieuwe regels voor pensioen.md
+tags:
+- europe
+- demographics
+- labour
+- financial-markets
 resource: https://www.asr.nl/pensioen/nieuwe-regels-voor-pensioen
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-08-05-nieuwe-regels-voor-pensioen
+  resource: Resources/web-clippings/2026-08-05-Nieuwe regels voor pensioen.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/european-economy/eu-demographics-2100.md
-  - political-economy/china-domestic-economy/china-rural-pensions-crisis.md
+- political-economy/european-economy/eu-demographics-2100.md
+- political-economy/china-domestic-economy/china-rural-pensions-crisis.md
 ---
 
 # Dutch pension reform — the Wet toekomst pensioenen (Wtp)

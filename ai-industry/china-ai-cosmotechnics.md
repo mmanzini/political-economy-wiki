@@ -4,15 +4,23 @@ title: What China means by "artificial intelligence" — cosmotechnics, shanzhai
 description: An Italian-podcast reading of how China conceives AI differently from the West, via DeepSeek, Yuk Hui's cosmotechnics, the language of "human-made intelligence", and the state narrative behind Chinese AI optimism.
 bundle: political-economy
 topic: ai-industry
-tags: [ai-industry, china, geopolitics, authoritarianism]
-source: Resources/web-clippings/2026-06-27-AI Podcast Transcript & Summary - Cosa intende la Cina per "intelligenza artificiale".md
+tags:
+- ai-industry
+- china
+- geopolitics
+- authoritarianism
 resource: https://podcasttranscript.ai/library/ep-176-cosa-intende-la-cina-per-intelligenza
-timestamp: 2026-06-27T20:00:00Z
-status: active
+sources:
+- id: 2026-06-27-ai-podcast-transcript-summary-cosa-intende-la-cina-per-intelligenza-artificiale
+  resource: Resources/web-clippings/2026-06-27-AI Podcast Transcript & Summary - Cosa intende la Cina per "intelligenza artificiale".md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-27T20:00:00Z'
+status: stable
 related:
-  - political-economy/ai-industry/deepseek-and-export-controls.md
-  - political-economy/china-political-system/index.md
-  - political-economy/ai-industry/ai-sycophancy-and-distributed-hallucination.md
+- political-economy/ai-industry/deepseek-and-export-controls.md
+- political-economy/china-political-system/index.md
+- political-economy/ai-industry/ai-sycophancy-and-distributed-hallucination.md
 ---
 
 # What China means by "artificial intelligence" — cosmotechnics, shanzhai and the state

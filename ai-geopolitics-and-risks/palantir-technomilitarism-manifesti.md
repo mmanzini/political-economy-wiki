@@ -4,16 +4,26 @@ title: Palantir and the Technomilitarist Manifesto — Ep.131 "Manifesti"
 description: The podcast "Fuori da Qui" traces Palantir's transformation from a post-9/11 civil-liberties-guardian narrative to an openly technomilitarist actor.
 bundle: political-economy
 topic: ai-geopolitics-and-risks
-tags: [ai-industry, ai-safety-risk, authoritarianism, geopolitics, china, digital-privacy]
-source: https://podcasttranscript.ai/library/ep-131-manifesti
+tags:
+- ai-industry
+- ai-safety-risk
+- authoritarianism
+- geopolitics
+- china
+- digital-privacy
 resource: https://podcasttranscript.ai/library/ep-131-manifesti
-timestamp: 2026-05-21T20:03:13Z
-status: active
+sources:
+- id: ep-131-manifesti
+  resource: https://podcasttranscript.ai/library/ep-131-manifesti
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-21T20:03:13Z'
+status: stable
 related:
-  - political-economy/ai-geopolitics-and-risks/ai-risks-and-safety.md
-  - political-economy/ai-geopolitics-and-risks/ai-nuclear-wargaming.md
-  - political-economy/ai-industry/silicon-valley-military-ai-split.md
-  - political-economy/ai-geopolitics-and-risks/malaysia-data-center-hub-2026.md
+- political-economy/ai-geopolitics-and-risks/ai-risks-and-safety.md
+- political-economy/ai-geopolitics-and-risks/ai-nuclear-wargaming.md
+- political-economy/ai-industry/silicon-valley-military-ai-split.md
+- political-economy/ai-geopolitics-and-risks/malaysia-data-center-hub-2026.md
 ---
 
 # Palantir and the Technomilitarist Manifesto — Ep.131 "Manifesti"

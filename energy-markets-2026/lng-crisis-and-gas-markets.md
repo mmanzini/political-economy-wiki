@@ -4,17 +4,25 @@ title: LNG Crisis and Gas Markets
 description: Qatar's Ras Laffan LNG facility — producing 93% of Qatar's LNG output — was attacked and partially shut down from 2026-03-02, sending Asian LNG prices up 127% in 30 days.
 bundle: political-economy
 topic: energy-markets-2026
-tags: [energy-markets, commodity-shock, middle-east, china, geopolitics]
-source: Multiple press reports (Reuters, Bloomberg, IEA) — compiled April 2026
-resource:
-timestamp: 2026-05-09T07:13:14Z
-status: active
+tags:
+- energy-markets
+- commodity-shock
+- middle-east
+- china
+- geopolitics
+sources:
+- id: multiple-press-reports-reuters-bloomberg-iea-compiled-april-2026
+  resource: Multiple press reports (Reuters, Bloomberg, IEA) — compiled April 2026
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:13:14Z'
+status: stable
 related:
-  - political-economy/energy-markets-2026/energy-supply-disruption.md
-  - political-economy/asian-economic-crisis/urea-and-food-crisis.md
-  - political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
-  - political-economy/asian-economic-crisis/asian-energy-crisis-overview.md
-  - political-economy/asian-economic-crisis/country-impacts.md
+- political-economy/energy-markets-2026/energy-supply-disruption.md
+- political-economy/asian-economic-crisis/urea-and-food-crisis.md
+- political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
+- political-economy/asian-economic-crisis/asian-energy-crisis-overview.md
+- political-economy/asian-economic-crisis/country-impacts.md
 ---
 
 # LNG Crisis and Gas Markets

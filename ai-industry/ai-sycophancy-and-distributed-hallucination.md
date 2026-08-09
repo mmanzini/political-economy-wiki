@@ -1,17 +1,24 @@
 ---
 type: analysis
-title: "AI sycophancy and distributed hallucination"
-description: "Why chatbots flatter users, the clinical and legal cases it has enabled, Lucy Osler's distributed-hallucination framing, and the commercial incentives (ChatGPT ads) that keep sycophancy in place."
+title: AI sycophancy and distributed hallucination
+description: Why chatbots flatter users, the clinical and legal cases it has enabled, Lucy Osler's distributed-hallucination framing, and the commercial incentives (ChatGPT ads) that keep sycophancy in place.
 bundle: political-economy
 topic: ai-industry
-tags: [ai-industry, ai-safety-risk, digital-privacy]
-source: "Resources/web-clippings/2026-06-29-AI Podcast Transcript & Summary - Stanza.md"
+tags:
+- ai-industry
+- ai-safety-risk
+- digital-privacy
 resource: https://podcasttranscript.ai/library/ep-138-stanza
-timestamp: 2026-07-05T09:30:00Z
-status: active
+sources:
+- id: 2026-06-29-ai-podcast-transcript-summary-stanza
+  resource: Resources/web-clippings/2026-06-29-AI Podcast Transcript & Summary - Stanza.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-07-05T09:30:00Z'
+status: stable
 related:
-  - political-economy/ai-industry/china-ai-cosmotechnics.md
-  - political-economy/ai-industry/magnifica-humanitas-encyclical-ai.md
+- political-economy/ai-industry/china-ai-cosmotechnics.md
+- political-economy/ai-industry/magnifica-humanitas-encyclical-ai.md
 ---
 
 # AI sycophancy and distributed hallucination

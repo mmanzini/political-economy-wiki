@@ -4,15 +4,23 @@ title: Trump's tariff return via the forced-labour loophole
 description: After the Supreme Court struck down his tariff powers, Trump reimposes duties on 80+ countries (99.4% of US imports) via a forced-labour trade statute requiring no external verification — plus the EU's €890M Google fine, permanent-DST politics, and the Iran war's re-escalation (Il Post US newsletter, 25 July 2026).
 bundle: political-economy
 topic: trump-doctrine-and-geopolitics
-tags: [trump-doctrine, trade-policy, us-politics, geopolitics]
-source: Resources/web-clippings/2026-07-25-Inbox - manzini.m@gmail.com.md
+tags:
+- trump-doctrine
+- trade-policy
+- us-politics
+- geopolitics
 resource: https://www.ilpost.it/
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-25-inbox-manzini-m-gmail-com
+  resource: Resources/web-clippings/2026-07-25-Inbox - manzini.m@gmail.com.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/trump-doctrine-and-geopolitics/trump-china-trade-war.md
-  - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
-  - political-economy/european-economy/european-politics-digest-july-25-2026.md
+- political-economy/trump-doctrine-and-geopolitics/trump-china-trade-war.md
+- political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+- political-economy/european-economy/european-politics-digest-july-25-2026.md
 ---
 
 # Trump's tariff return via the forced-labour loophole

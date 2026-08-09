@@ -1,19 +1,27 @@
 ---
 type: analysis
 title: EU-US Tariffs Stalemate — May 2026
-description: "A digest of five interconnected European political stories in May 2026: the EU-US trade deal stalemate threatening new tariffs, Keir Starmer's deepening unpopularity ahead of UK local/devolved elections, the planned US troop reduction in Germany, Lithuania's contested public broadcaster reform, and Canada's alignment with the EU as the \"most European non-European country\" — plus Eurovision/Israel protests."
+description: 'A digest of five interconnected European political stories in May 2026: the EU-US trade deal stalemate threatening new tariffs, Keir Starmer''s deepening unpopularity ahead of UK local/devolved elections, the planned US troop reduction in Germany, Lithuania''s contested public broadcaster reform, and Canada''s alignment with the EU as the "most European non-European country" — plus Eurovision/Israel protests.'
 bundle: political-economy
 topic: european-economy
-tags: [europe, trade-policy, trump-doctrine, us-politics, geopolitics]
-source: ../../../Resources/web-clippings/2026-05-07-Inbox%20-%20manzini.m%40gmail.com.md
-resource:
-timestamp: 2026-05-14T22:40:59Z
-status: active
+tags:
+- europe
+- trade-policy
+- trump-doctrine
+- us-politics
+- geopolitics
+sources:
+- id: 2026-05-07-inbox-20-20manzini-m-40gmail-com
+  resource: ../../../Resources/web-clippings/2026-05-07-Inbox%20-%20manzini.m%40gmail.com.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-14T22:40:59Z'
+status: stable
 related:
-  - political-economy/european-economy/european-stagflation-risk.md
-  - political-economy/european-economy/sanchez-progressive-mobilisation.md
-  - political-economy/trump-doctrine-and-geopolitics/trump-china-trade-war.md
-  - political-economy/european-economy/european-politics-digest-may-14-2026.md
+- political-economy/european-economy/european-stagflation-risk.md
+- political-economy/european-economy/sanchez-progressive-mobilisation.md
+- political-economy/trump-doctrine-and-geopolitics/trump-china-trade-war.md
+- political-economy/european-economy/european-politics-digest-may-14-2026.md
 ---
 
 # EU-US Tariffs Stalemate — May 2026

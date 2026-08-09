@@ -4,17 +4,25 @@ title: US Equities — April 2026
 description: US equities in April 2026 are pricing in optimism despite unresolved geopolitical variables — the S&P 500 has returned to positive YTD territory, VIX is below 20, and tech is leading with semiconductors up 20% YTD while software collapses 27%.
 bundle: political-economy
 topic: us-markets-and-economy
-tags: [financial-markets, us-politics, ai-industry, geopolitics, energy-markets]
-source: Multiple market data sources (Bloomberg, JPMorgan, BlackRock, Morgan Stanley) — compiled April 2026
-resource:
-timestamp: 2026-05-09T07:18:11Z
-status: active
+tags:
+- financial-markets
+- us-politics
+- ai-industry
+- geopolitics
+- energy-markets
+sources:
+- id: multiple-market-data-sources-bloomberg-jpmorgan-blackrock-morgan-stanley-compiled-april-2026
+  resource: Multiple market data sources (Bloomberg, JPMorgan, BlackRock, Morgan Stanley) — compiled April 2026
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:18:11Z'
+status: stable
 related:
-  - political-economy/us-markets-and-economy/us-macro-data-april-2026.md
-  - political-economy/us-markets-and-economy/markets-rally-april-2026.md
-  - political-economy/ai-industry/ai-developments-april-2026.md
-  - political-economy/energy-markets-2026/brent-oil-price-dynamics.md
-  - political-economy/us-markets-and-economy/other-asset-classes.md
+- political-economy/us-markets-and-economy/us-macro-data-april-2026.md
+- political-economy/us-markets-and-economy/markets-rally-april-2026.md
+- political-economy/ai-industry/ai-developments-april-2026.md
+- political-economy/energy-markets-2026/brent-oil-price-dynamics.md
+- political-economy/us-markets-and-economy/other-asset-classes.md
 ---
 
 # US Equities — April 2026

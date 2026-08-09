@@ -1,17 +1,24 @@
 ---
 type: analysis
-title: "Bulgaria Elections 2026: Toward a Pro-Russia Government?"
+title: 'Bulgaria Elections 2026: Toward a Pro-Russia Government?'
 description: Bulgaria's pro-Russia populist Rumen Radev won the April 2026 elections after the country's eighth parliamentary vote since 2021.
 bundle: political-economy
 topic: european-economy
-tags: [europe, geopolitics, authoritarianism, financial-markets]
-source: Multiple press reports (Bloomberg, Al Jazeera) — compiled April 2026
-resource:
-timestamp: 2026-05-09T07:13:14Z
-status: active
+tags:
+- europe
+- geopolitics
+- authoritarianism
+- financial-markets
+sources:
+- id: multiple-press-reports-bloomberg-al-jazeera-compiled-april-2026
+  resource: Multiple press reports (Bloomberg, Al Jazeera) — compiled April 2026
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:13:14Z'
+status: stable
 related:
-  - political-economy/european-economy/hungary-post-election-priorities.md
-  - political-economy/european-economy/european-stagflation-risk.md
+- political-economy/european-economy/hungary-post-election-priorities.md
+- political-economy/european-economy/european-stagflation-risk.md
 ---
 
 # Bulgaria Elections 2026: Toward a Pro-Russia Government?

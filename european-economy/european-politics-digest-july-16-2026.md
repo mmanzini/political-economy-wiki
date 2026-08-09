@@ -4,15 +4,22 @@ title: European politics digest — 16 July 2026
 description: Il Post EU newsletter — Hungary's parliament votes to remove president Sulyok, Bardella readjusts to being Le Pen's number two, the EU's Team Gaza reconstruction fund, the Spain-Gibraltar border removed after 118 years, and Berlin mayor Wegner bows out.
 bundle: political-economy
 topic: european-economy
-tags: [europe, geopolitics, middle-east]
-source: Resources/web-clippings/2026-07-16-Inbox - manzini.m@gmail.com.md
+tags:
+- europe
+- geopolitics
+- middle-east
 resource: https://www.ilpost.it/
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-16-inbox-manzini-m-gmail-com
+  resource: Resources/web-clippings/2026-07-16-Inbox - manzini.m@gmail.com.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/european-economy/european-politics-digest-june-25-2026.md
-  - political-economy/european-economy/european-politics-digest-july-25-2026.md
-  - political-economy/european-economy/hungary-post-election-priorities.md
+- political-economy/european-economy/european-politics-digest-june-25-2026.md
+- political-economy/european-economy/european-politics-digest-july-25-2026.md
+- political-economy/european-economy/hungary-post-election-priorities.md
 ---
 
 # European politics digest — 16 July 2026

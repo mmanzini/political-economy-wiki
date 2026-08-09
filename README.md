@@ -27,14 +27,14 @@ This repository is a public mirror of one bundle from a personal Obsidian RAG va
 
 ## How this repository is structured (Open Knowledge Format)
 
-This repository is a conformant [**Open Knowledge Format (OKF) v0.1**](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) bundle. OKF is Google Cloud's vendor-neutral standard for agent-readable knowledge: a directory of markdown files, one concept per file, with YAML frontmatter and cross-links. No SDK, no database, no proprietary account — if you can `cat` a file you can read it; if you can `git clone` the repo you can ship it.
+This repository is a conformant [**Open Knowledge Format (OKF) v0.2**](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) bundle. OKF is Google Cloud's vendor-neutral standard for agent-readable knowledge: a directory of markdown files, one concept per file, with YAML frontmatter and cross-links. No SDK, no database, no proprietary account — if you can `cat` a file you can read it; if you can `git clone` the repo you can ship it.
 
 Each bundle of the parent vault is OKF-conformant in place — there is no separate export step. What that means here:
 
-- **`index.md` routers** — `index.md` at the bundle root and in every topic folder is a directory listing for progressive disclosure: scan it to see what exists before opening articles.
-- **`<concept>.md` articles** — every other `.md` file is a concept document. Each opens with YAML frontmatter whose only required field is `type` (Atlas uses a small vocabulary: `synthesis`, `reference`, `analysis`, `digest`, …), followed by `title`, `description`, `tags`, `source`, `timestamp`, and a `related:` cross-link graph.
+- **`index.md` routers** — `index.md` at the bundle root and in every topic folder is a directory listing for progressive disclosure: scan it to see what exists before opening articles. The bundle-root `index.md` declares `okf_version: "0.2"`.
+- **`<concept>.md` articles** — every other `.md` file is a concept document. Each opens with YAML frontmatter whose only required field is `type` (Atlas uses a small vocabulary: `synthesis`, `reference`, `analysis`, `digest`, …), followed by `title`, `description`, `tags`, a `sources:` provenance list, `generated:`/`verified:` trust metadata (OKF v0.2 actor convention), `status`, and a `related:` cross-link graph.
 - **`log.md`** — a derived, date-grouped changelog of what changed at this level.
-- **Conformance** — every non-reserved `.md` file carries parseable frontmatter with a non-empty `type`; `index.md` / `log.md` are the only reserved filenames. Consumers tolerate unknown types and broken links by design, so the bundle stays useful as it grows.
+- **Conformance** — every non-reserved `.md` file carries strictly parseable frontmatter with a non-empty `type`; `index.md` / `log.md` are the only reserved filenames. Consumers tolerate unknown types and broken links by design, so the bundle stays useful as it grows.
 
 Because the format is just files, this repo is readable in any editor, renderable on GitHub, parseable by any agent, and portable across tools with no translation layer.
 

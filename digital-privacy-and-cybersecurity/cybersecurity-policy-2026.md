@@ -1,20 +1,29 @@
 ---
 type: analysis
 title: Cybersecurity Policy Landscape 2026
-description: "The 2026 cybersecurity landscape is defined by two diverging governance paradigms: the EU's risk-classification approach (EU AI Act enforcement from August 2026) versus the Trump administration's offensive-cyber posture."
+description: 'The 2026 cybersecurity landscape is defined by two diverging governance paradigms: the EU''s risk-classification approach (EU AI Act enforcement from August 2026) versus the Trump administration''s offensive-cyber posture.'
 bundle: political-economy
 topic: digital-privacy-and-cybersecurity
-tags: [digital-privacy, ai-industry, europe, trump-doctrine, trade-policy, data-sovereignty]
-source: Coalfire, Forcepoint, Perspective Labs, Detecon, AI Magicx, Just Security — compiled April 2026
-resource:
-timestamp: 2026-05-09T07:13:14Z
-status: active
+tags:
+- digital-privacy
+- ai-industry
+- europe
+- trump-doctrine
+- trade-policy
+- data-sovereignty
+sources:
+- id: coalfire-forcepoint-perspective-labs-detecon-ai-magicx-just-security-compiled-april-2026
+  resource: Coalfire, Forcepoint, Perspective Labs, Detecon, AI Magicx, Just Security — compiled April 2026
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:13:14Z'
+status: stable
 related:
-  - political-economy/digital-privacy-and-cybersecurity/vastaamo-data-breach.md
-  - political-economy/digital-privacy-and-cybersecurity/palantir-european-sovereignty-challengers.md
-  - political-economy/digital-privacy-and-cybersecurity/venticinque-2001-surveillance-capitalism.md
-  - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
-  - political-economy/trump-doctrine-and-geopolitics/trump-china-trade-war.md
+- political-economy/digital-privacy-and-cybersecurity/vastaamo-data-breach.md
+- political-economy/digital-privacy-and-cybersecurity/palantir-european-sovereignty-challengers.md
+- political-economy/digital-privacy-and-cybersecurity/venticinque-2001-surveillance-capitalism.md
+- political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+- political-economy/trump-doctrine-and-geopolitics/trump-china-trade-war.md
 ---
 
 # Cybersecurity Policy Landscape 2026

@@ -1,17 +1,27 @@
 ---
 type: analysis
-title: "Malaysia: The Data Center Hub Paradox (2026)"
+title: 'Malaysia: The Data Center Hub Paradox (2026)'
 description: Malaysia has become the fastest-growing data center market in Southeast Asia and the only commercial-scale heavy-rare-earth refiner outside China, attracting >$30B in 2024 investment but locking the country into a precarious balance between US AI capital, Chinese magnet technology, and unstable Trump-era tariff regimes.
 bundle: political-economy
 topic: ai-geopolitics-and-risks
-tags: [ai-industry, geopolitics, china, trade-policy, trump-doctrine, colonial-legacy]
-source: https://podcasttranscript.ai/library/ep-170-il-paese-dei-data-center
+tags:
+- ai-industry
+- geopolitics
+- china
+- trade-policy
+- trump-doctrine
+- colonial-legacy
 resource: https://podcasttranscript.ai/library/ep-170-il-paese-dei-data-center
-timestamp: 2026-05-21T19:46:43Z
-status: active
+sources:
+- id: ep-170-il-paese-dei-data-center
+  resource: https://podcasttranscript.ai/library/ep-170-il-paese-dei-data-center
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-21T19:46:43Z'
+status: stable
 related:
-  - political-economy/ai-industry/deepseek-and-export-controls.md
-  - political-economy/ai-geopolitics-and-risks/palantir-technomilitarism-manifesti.md
+- political-economy/ai-industry/deepseek-and-export-controls.md
+- political-economy/ai-geopolitics-and-risks/palantir-technomilitarism-manifesti.md
 ---
 
 # Malaysia: The Data Center Hub Paradox (2026)

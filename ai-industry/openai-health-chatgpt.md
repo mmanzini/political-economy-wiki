@@ -4,14 +4,21 @@ title: Health in ChatGPT — OpenAI connects medical records and Apple Health
 description: OpenAI launches Health in ChatGPT for US users — opt-in connection of medical records and Apple Health so conversations can draw on labs, medications and activity data; 300M+ weekly health queries, physician-built evals, and explicit no-training/no-ads commitments.
 bundle: political-economy
 topic: ai-industry
-tags: [ai-industry, digital-privacy, us-politics]
-source: Resources/web-clippings/2026-08-04-Launching Health in ChatGPT.md
+tags:
+- ai-industry
+- digital-privacy
+- us-politics
 resource: https://openai.com/index/health-in-chatgpt/
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-08-04-launching-health-in-chatgpt
+  resource: Resources/web-clippings/2026-08-04-Launching Health in ChatGPT.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/ai-industry/openai-presence-enterprise-agents.md
-  - political-economy/china-domestic-economy/china-medical-tourism.md
+- political-economy/ai-industry/openai-presence-enterprise-agents.md
+- political-economy/china-domestic-economy/china-medical-tourism.md
 ---
 
 # Health in ChatGPT — OpenAI connects medical records and Apple Health

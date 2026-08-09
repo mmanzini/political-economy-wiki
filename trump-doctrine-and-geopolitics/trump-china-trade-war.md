@@ -4,18 +4,27 @@ title: Trump-China Trade War and Tariff Strategy (2025–2026)
 description: Trump's tariff escalation against China — reaching 145 percentage points before being partially struck down by SCOTUS — has been partially effective in extracting concessions but fundamentally constrained by China's scale.
 bundle: political-economy
 topic: trump-doctrine-and-geopolitics
-tags: [trump-doctrine, trade-policy, china, geopolitics, us-politics, commodity-shock]
-source: PIIE, CNBC, Yale Insights, CS Monitor — compiled April 2026
-resource:
-timestamp: 2026-06-06T06:50:19Z
-status: active
+tags:
+- trump-doctrine
+- trade-policy
+- china
+- geopolitics
+- us-politics
+- commodity-shock
+sources:
+- id: piie-cnbc-yale-insights-cs-monitor-compiled-april-2026
+  resource: PIIE, CNBC, Yale Insights, CS Monitor — compiled April 2026
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-06T06:50:19Z'
+status: stable
 related:
-  - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
-  - political-economy/trump-doctrine-and-geopolitics/trump-tariffs-forced-labour-loophole.md
-  - political-economy/trump-doctrine-and-geopolitics/trump-nato-european-realignment.md
-  - political-economy/digital-privacy-and-cybersecurity/cybersecurity-policy-2026.md
-  - political-economy/asian-economic-crisis/china-strategic-positioning.md
-  - political-economy/asia-pacific-geopolitics/japan-intelligence-reform-2026.md
+- political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+- political-economy/trump-doctrine-and-geopolitics/trump-tariffs-forced-labour-loophole.md
+- political-economy/trump-doctrine-and-geopolitics/trump-nato-european-realignment.md
+- political-economy/digital-privacy-and-cybersecurity/cybersecurity-policy-2026.md
+- political-economy/asian-economic-crisis/china-strategic-positioning.md
+- political-economy/asia-pacific-geopolitics/japan-intelligence-reform-2026.md
 ---
 
 # Trump-China Trade War and Tariff Strategy (2025–2026)

@@ -4,15 +4,23 @@ title: European politics digest — 25 June 2026 (Ventisette)
 description: Il Post's Ventisette newsletter for 25 June 2026 — the slow UK-EU reset and "Bregret", the digital euro's first approval, France's record heatwave, the German Linke's rise, the Taliban in Brussels, and EU Parliament discipline.
 bundle: political-economy
 topic: european-economy
-tags: [europe, financial-markets, geopolitics, refugees-statelessness]
-source: Resources/web-clippings/2026-06-25-Gmail - Bregret.md
+tags:
+- europe
+- financial-markets
+- geopolitics
+- refugees-statelessness
 resource: https://www.ilpost.it/
-timestamp: 2026-06-27T20:00:00Z
-status: active
+sources:
+- id: 2026-06-25-gmail-bregret
+  resource: Resources/web-clippings/2026-06-25-Gmail - Bregret.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-27T20:00:00Z'
+status: stable
 related:
-  - political-economy/european-economy/european-politics-digest-june-04-2026.md
-  - political-economy/european-economy/eu-demographics-2100.md
-  - political-economy/european-economy/european-politics-digest-july-16-2026.md
+- political-economy/european-economy/european-politics-digest-june-04-2026.md
+- political-economy/european-economy/eu-demographics-2100.md
+- political-economy/european-economy/european-politics-digest-july-16-2026.md
 ---
 
 # European politics digest — 25 June 2026 (Ventisette)

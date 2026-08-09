@@ -4,14 +4,21 @@ title: OpenAI Presence — enterprise agents as a deployed product
 description: OpenAI productises its forward-deployed enterprise work as Presence — voice and chat agents with policies, guardrails, simulations and a Codex-powered improvement loop; it already runs OpenAI's own phone support (75% autonomous resolution), with BBVA, SoftBank and IAG as design partners.
 bundle: political-economy
 topic: ai-industry
-tags: [ai-industry, labour, financial-markets]
-source: Resources/web-clippings/2026-07-29-Introducing OpenAI Presence.md
+tags:
+- ai-industry
+- labour
+- financial-markets
 resource: https://openai.com/index/introducing-openai-presence/
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-29-introducing-openai-presence
+  resource: Resources/web-clippings/2026-07-29-Introducing OpenAI Presence.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/ai-industry/openai-health-chatgpt.md
-  - political-economy/ai-industry/arrakis-industrial-ai.md
+- political-economy/ai-industry/openai-health-chatgpt.md
+- political-economy/ai-industry/arrakis-industrial-ai.md
 ---
 
 # OpenAI Presence — enterprise agents as a deployed product

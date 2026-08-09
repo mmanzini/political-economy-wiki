@@ -4,14 +4,21 @@ title: China's Humanoid Robotics Dominance — Hangzhou Regulation 2026
 description: China produced 90% of global humanoid robots in 2025 and on May 1, 2026, Hangzhou enacted the world's first regulation for "embodied intelligence" robots — defining the legal category, imposing safety standards, and establishing a new social contract around AI-driven labour displacement.
 bundle: political-economy
 topic: china-domestic-economy
-tags: [china, ai-industry, labour, trade-policy]
-source: ../../../Resources/web-clippings/2026-05-08-AI%20Podcast%20Transcript%20%26%20Summary%20-%20Isaac%20Asimov%20a%20Hangzhou.md
-resource:
-timestamp: 2026-05-09T09:03:44Z
-status: active
+tags:
+- china
+- ai-industry
+- labour
+- trade-policy
+sources:
+- id: 2026-05-08-ai-20podcast-20transcript-20-26-20summary-20-20isaac-20asimov-20a-20hangzhou
+  resource: ../../../Resources/web-clippings/2026-05-08-AI%20Podcast%20Transcript%20%26%20Summary%20-%20Isaac%20Asimov%20a%20Hangzhou.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T09:03:44Z'
+status: stable
 related:
-  - political-economy/china-domestic-economy/china-technocracy-breakneck.md
-  - political-economy/china-domestic-economy/china-medical-tourism.md
+- political-economy/china-domestic-economy/china-technocracy-breakneck.md
+- political-economy/china-domestic-economy/china-medical-tourism.md
 ---
 
 # China's Humanoid Robotics Dominance — Hangzhou Regulation 2026

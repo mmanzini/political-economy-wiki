@@ -4,14 +4,22 @@ title: China's food self-sufficiency drive — the solar playbook applied to pro
 description: Zumcina reads a Systemiq/Moore Foundation report — China, the world's largest food importer ($124.5B agricultural deficit), is applying its solar/EV industrial method to alternative proteins, targeting net protein exporter status by 2040 and global leadership by 2050.
 bundle: political-economy
 topic: china-domestic-economy
-tags: [china, commodity-shock, trade-policy, geopolitics]
-source: Resources/web-clippings/2026-08-02-AI Podcast Transcript & Summary - La Cina vuole smettere di comprare cibo fuori dalla Cina.md
+tags:
+- china
+- commodity-shock
+- trade-policy
+- geopolitics
 resource: https://podcasttranscript.ai/library/ep-74-la-cina-vuole-smettere-di-comprare-cibo
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-08-02-ai-podcast-transcript-summary-la-cina-vuole-smettere-di-comprare-cibo-fuori-dalla-cina
+  resource: Resources/web-clippings/2026-08-02-AI Podcast Transcript & Summary - La Cina vuole smettere di comprare cibo fuori dalla Cina.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/china-domestic-economy/china-common-prosperity-xi-doctrine.md
-  - political-economy/china-domestic-economy/china-technocracy-breakneck.md
+- political-economy/china-domestic-economy/china-common-prosperity-xi-doctrine.md
+- political-economy/china-domestic-economy/china-technocracy-breakneck.md
 ---
 
 # China's food self-sufficiency drive — the solar playbook applied to protein

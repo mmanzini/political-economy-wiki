@@ -4,15 +4,23 @@ title: European politics digest — 25 July 2026
 description: Il Post EU newsletter — new UK PM Andy Burnham's money problem, the Commission weakens the ETS, an anti-subsidy probe into Chinese Peking-duck meat, US State Department funds for a "civilisational bond" with Europe, Fitto named Cyprus envoy, and Vienna tilts the Lueger statue.
 bundle: political-economy
 topic: european-economy
-tags: [europe, geopolitics, trade-policy, china]
-source: Resources/web-clippings/2026-07-25-Inbox - manzini.m@gmail.com 1.md
+tags:
+- europe
+- geopolitics
+- trade-policy
+- china
 resource: https://www.ilpost.it/
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-25-inbox-manzini-m-gmail-com-1
+  resource: Resources/web-clippings/2026-07-25-Inbox - manzini.m@gmail.com 1.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/european-economy/european-politics-digest-july-16-2026.md
-  - political-economy/european-economy/eu-us-tariffs-may-2026.md
-  - political-economy/trump-doctrine-and-geopolitics/trump-tariffs-forced-labour-loophole.md
+- political-economy/european-economy/european-politics-digest-july-16-2026.md
+- political-economy/european-economy/eu-us-tariffs-may-2026.md
+- political-economy/trump-doctrine-and-geopolitics/trump-tariffs-forced-labour-loophole.md
 ---
 
 # European politics digest — 25 July 2026

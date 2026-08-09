@@ -4,14 +4,21 @@ title: Arrakis — industrial AI out of stealth with $38M
 description: London/Paris startup Arrakis emerges from stealth with $38M ($30M Series A led by Blossom Capital) to build an agentic-AI "operating system" for aerospace, energy, logistics and manufacturing — betting AI's biggest ROI is in the 70% of workers running industrial operations, not office work.
 bundle: political-economy
 topic: ai-industry
-tags: [ai-industry, europe, financial-markets]
-source: Resources/web-clippings/2026-07-29-Exclusive Startup Arrakis emerges from stealth with $38 million in funding to bring AI to industry.md
+tags:
+- ai-industry
+- europe
+- financial-markets
 resource: https://fortune.com/2026/07/22/arrakis-a-startup-betting-ais-biggest-payoff-is-in-industrial-sectors-not-office-work-emerges-from-stealth-with-38-million-in-venture-funding/
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-29-exclusive-startup-arrakis-emerges-from-stealth-with-38-million-in-funding-to-bring-ai-to-industry
+  resource: Resources/web-clippings/2026-07-29-Exclusive Startup Arrakis emerges from stealth with $38 million in funding to bring AI to industry.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/ai-industry/openai-presence-enterprise-agents.md
-  - political-economy/digital-privacy-and-cybersecurity/palantir-european-sovereignty-challengers.md
+- political-economy/ai-industry/openai-presence-enterprise-agents.md
+- political-economy/digital-privacy-and-cybersecurity/palantir-european-sovereignty-challengers.md
 ---
 
 # Arrakis — industrial AI out of stealth with $38M

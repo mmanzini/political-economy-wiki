@@ -4,16 +4,24 @@ title: Underground Banking and Crypto Critique
 description: Ancient informal banking networks (Hawala, Fei Qian) remain the only systems genuinely opaque to state surveillance — not cryptocurrency.
 bundle: political-economy
 topic: global-finance-and-crypto
-tags: [crypto, financial-markets, digital-privacy, china]
-source: https://coranews.it
+tags:
+- crypto
+- financial-markets
+- digital-privacy
+- china
 resource: https://coranews.it
-timestamp: 2026-05-09T07:13:14Z
-status: active
+sources:
+- id: coranews
+  resource: https://coranews.it
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:13:14Z'
+status: stable
 related:
-  - political-economy/asian-economic-crisis/china-strategic-positioning.md
-  - political-economy/european-economy/european-stagflation-risk.md
-  - political-economy/global-finance-and-crypto/julie-meyer-dotcom-fraud.md
-  - political-economy/global-finance-and-crypto/ghost-cattle-ponzi.md
+- political-economy/asian-economic-crisis/china-strategic-positioning.md
+- political-economy/european-economy/european-stagflation-risk.md
+- political-economy/global-finance-and-crypto/julie-meyer-dotcom-fraud.md
+- political-economy/global-finance-and-crypto/ghost-cattle-ponzi.md
 ---
 
 # Underground Banking and Crypto Critique

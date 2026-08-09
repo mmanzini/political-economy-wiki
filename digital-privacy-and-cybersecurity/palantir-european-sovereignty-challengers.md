@@ -4,16 +4,24 @@ title: Palantir's European backlash and the sovereignty challengers
 description: Europe's digital-sovereignty push turns against Palantir — France's ChapsVision wins the DGSI contract, Germany's BfV follows, and a wave of startups (Arrakis, Valarian, Comand AI, Mistral) tries to replace the most Trump-aligned US tech firm.
 bundle: political-economy
 topic: digital-privacy-and-cybersecurity
-tags: [digital-privacy, geopolitics, europe, ai-industry]
-source: Resources/web-clippings/2026-07-29-Palantir’s Infamy Opens Doors for French Challenger.md
+tags:
+- digital-privacy
+- geopolitics
+- europe
+- ai-industry
 resource: https://www.bloomberg.com/news/features/2026-07-27/palantir-rival-chapsvision-wins-french-spy-agency-contract-as-trump-ties-fray
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-29-palantir-s-infamy-opens-doors-for-french-challenger
+  resource: Resources/web-clippings/2026-07-29-Palantir’s Infamy Opens Doors for French Challenger.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/digital-privacy-and-cybersecurity/venticinque-2001-surveillance-capitalism.md
-  - political-economy/digital-privacy-and-cybersecurity/cybersecurity-policy-2026.md
-  - political-economy/ai-industry/arrakis-industrial-ai.md
-  - political-economy/trump-doctrine-and-geopolitics/trump-nato-european-realignment.md
+- political-economy/digital-privacy-and-cybersecurity/venticinque-2001-surveillance-capitalism.md
+- political-economy/digital-privacy-and-cybersecurity/cybersecurity-policy-2026.md
+- political-economy/ai-industry/arrakis-industrial-ai.md
+- political-economy/trump-doctrine-and-geopolitics/trump-nato-european-realignment.md
 ---
 
 # Palantir's European backlash and the sovereignty challengers

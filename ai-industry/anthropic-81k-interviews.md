@@ -4,15 +4,22 @@ title: What 81,000 people want from AI — Anthropic's interview study
 description: Anthropic Interviewer talked to 80,508 Claude users across 159 countries and 70 languages — the largest multilingual qualitative study yet — mapping nine hope clusters, thirteen concern categories, and five "light and shade" tensions where AI's benefits and harms entangle in the same person.
 bundle: political-economy
 topic: ai-industry
-tags: [ai-industry, labour, ai-safety-risk]
-source: Resources/web-clippings/2026-07-16-What 81,000 people want from AI.md
+tags:
+- ai-industry
+- labour
+- ai-safety-risk
 resource: https://www.anthropic.com/features/81k-interviews
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-16-what-81-000-people-want-from-ai
+  resource: Resources/web-clippings/2026-07-16-What 81,000 people want from AI.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/ai-industry/anthropic-institute-research-agenda.md
-  - political-economy/ai-industry/anthropic-economic-index-march-2026.md
-  - political-economy/ai-industry/ai-sycophancy-and-distributed-hallucination.md
+- political-economy/ai-industry/anthropic-institute-research-agenda.md
+- political-economy/ai-industry/anthropic-economic-index-march-2026.md
+- political-economy/ai-industry/ai-sycophancy-and-distributed-hallucination.md
 ---
 
 # What 81,000 people want from AI — Anthropic's interview study

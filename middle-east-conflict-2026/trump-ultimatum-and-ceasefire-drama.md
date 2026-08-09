@@ -4,17 +4,25 @@ title: Trump's Ultimatum and the Ceasefire Drama
 description: Trump's ultimatum cycle against Iran (threaten civilian infrastructure → Iran doesn't yield → back down) was resolved by Pakistan brokering a two-week ceasefire as a face-saving exit.
 bundle: political-economy
 topic: middle-east-conflict-2026
-tags: [middle-east, trump-doctrine, geopolitics, energy-markets, us-politics]
-source: Multiple press reports (NYT, Reuters, Bloomberg, Il Post / Francesco Costa) — compiled April 2026
-resource:
-timestamp: 2026-05-29T14:02:22Z
-status: active
+tags:
+- middle-east
+- trump-doctrine
+- geopolitics
+- energy-markets
+- us-politics
+sources:
+- id: francesco-costa-compiled-april-2026
+  resource: Multiple press reports (NYT, Reuters, Bloomberg, Il Post / Francesco Costa) — compiled April 2026
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-29T14:02:22Z'
+status: stable
 related:
-  - political-economy/middle-east-conflict-2026/conflict-and-ceasefire-status.md
-  - political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
-  - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
-  - political-economy/global-finance-and-crypto/prediction-markets-and-hyperreality.md
-  - political-economy/pakistan-security-state/pakistan-2026-mediator-role.md
+- political-economy/middle-east-conflict-2026/conflict-and-ceasefire-status.md
+- political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
+- political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+- political-economy/global-finance-and-crypto/prediction-markets-and-hyperreality.md
+- political-economy/pakistan-security-state/pakistan-2026-mediator-role.md
 ---
 
 # Trump's Ultimatum and the Ceasefire Drama

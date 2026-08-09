@@ -4,17 +4,27 @@ title: Pakistan's 2026 Mediator Role — Munir, Trump, and "Active Opportunism"
 description: Pakistan's Field Marshal Asim Munir leveraged a personal relationship with Trump to position Islamabad as the key US-Iran mediator in April 2026, extracting a $500M critical-minerals deal and integration of the Trump family's World Liberty Financial stablecoin into Pakistan's national payments system.
 bundle: political-economy
 topic: pakistan-security-state
-tags: [geopolitics, trump-doctrine, middle-east, china, crypto, authoritarianism]
-source: https://choramedia.com
+tags:
+- geopolitics
+- trump-doctrine
+- middle-east
+- china
+- crypto
+- authoritarianism
 resource: https://choramedia.com
-timestamp: 2026-05-09T07:18:11Z
-status: active
+sources:
+- id: choramedia
+  resource: https://choramedia.com
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:18:11Z'
+status: stable
 related:
-  - political-economy/pakistan-security-state/pakistan-as-security-state.md
-  - political-economy/pakistan-security-state/pakistan-military-rule-history.md
-  - political-economy/middle-east-conflict-2026/trump-ultimatum-and-ceasefire-drama.md
-  - political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
-  - political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
+- political-economy/pakistan-security-state/pakistan-as-security-state.md
+- political-economy/pakistan-security-state/pakistan-military-rule-history.md
+- political-economy/middle-east-conflict-2026/trump-ultimatum-and-ceasefire-drama.md
+- political-economy/trump-doctrine-and-geopolitics/predatory-world-order.md
+- political-economy/hormuz-strait-crisis/hormuz-blockade-overview.md
 ---
 
 # Pakistan's 2026 Mediator Role — Munir, Trump, and "Active Opportunism"

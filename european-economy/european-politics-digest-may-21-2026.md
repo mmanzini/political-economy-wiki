@@ -1,18 +1,28 @@
 ---
 type: analysis
 title: European Politics Digest — 21 May 2026
-description: "A digest of European political stories from the 21 May 2026 issue of Ventisette: Trump's Greenland negotiations advancing with US military and veto demands; EU institutions reaching a compromise to ratify the controversial July 2025 US-EU trade deal under threat of new 25% auto tariffs; the rise of a digital-populist party in Cyprus (Fidias Panayiotou's Democrazia Diretta); Eurostat employment data showing Italy at the EU's lowest female-employment rate; an Irish gangster running again for parliament."
+description: 'A digest of European political stories from the 21 May 2026 issue of Ventisette: Trump''s Greenland negotiations advancing with US military and veto demands; EU institutions reaching a compromise to ratify the controversial July 2025 US-EU trade deal under threat of new 25% auto tariffs; the rise of a digital-populist party in Cyprus (Fidias Panayiotou''s Democrazia Diretta); Eurostat employment data showing Italy at the EU''s lowest female-employment rate; an Irish gangster running again for parliament.'
 bundle: political-economy
 topic: european-economy
-tags: [europe, trump-doctrine, trade-policy, colonial-legacy, labour, us-politics]
-source: https://mail.google.com/mail/u/0/#inbox
+tags:
+- europe
+- trump-doctrine
+- trade-policy
+- colonial-legacy
+- labour
+- us-politics
 resource: https://mail.google.com/mail/u/0/#inbox
-timestamp: 2026-06-05T05:02:31Z
-status: active
+sources:
+- id: inbox
+  resource: https://mail.google.com/mail/u/0/#inbox
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-06-05T05:02:31Z'
+status: stable
 related:
-  - political-economy/european-economy/eu-us-tariffs-may-2026.md
-  - political-economy/european-economy/european-politics-digest-may-14-2026.md
-  - political-economy/european-economy/european-politics-digest-june-04-2026.md
+- political-economy/european-economy/eu-us-tariffs-may-2026.md
+- political-economy/european-economy/european-politics-digest-may-14-2026.md
+- political-economy/european-economy/european-politics-digest-june-04-2026.md
 ---
 
 # European Politics Digest — 21 May 2026

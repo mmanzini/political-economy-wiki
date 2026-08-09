@@ -1,18 +1,26 @@
 ---
 type: analysis
-title: "Hungary Post-Election: Magyar's Priorities"
+title: 'Hungary Post-Election: Magyar''s Priorities'
 description: Péter Magyar's post-election priorities centre on dismantling Orbán's institutional grip (retroactive two-term limit, loyalist removal, court reform), unlocking ~€35B in EU frozen funds, and pivoting Hungary toward EU and NATO alignment.
 bundle: political-economy
 topic: european-economy
-tags: [europe, authoritarianism, geopolitics, energy-markets]
-source: https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally
+tags:
+- europe
+- authoritarianism
+- geopolitics
+- energy-markets
 resource: https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally
-timestamp: 2026-05-09T07:13:14Z
-status: active
+sources:
+- id: hungary-s-tisza-party-widens-election-majority-in-fresh-tally
+  resource: https://www.bloomberg.com/news/articles/2026-04-18/hungary-s-tisza-party-widens-election-majority-in-fresh-tally
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:13:14Z'
+status: stable
 related:
-  - political-economy/european-economy/hungary-elections-2026.md
-  - political-economy/european-economy/european-stagflation-risk.md
-  - political-economy/middle-east-conflict-2026/conflict-and-ceasefire-status.md
+- political-economy/european-economy/hungary-elections-2026.md
+- political-economy/european-economy/european-stagflation-risk.md
+- political-economy/middle-east-conflict-2026/conflict-and-ceasefire-status.md
 ---
 
 # Hungary Post-Election: Magyar's Priorities

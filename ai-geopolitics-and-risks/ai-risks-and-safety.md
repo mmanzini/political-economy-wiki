@@ -4,19 +4,29 @@ title: AI Risks and Safety
 description: Dario Amodei's essay frames AI development as humanity's "technological adolescence" — a civilisational test with five risk categories (autonomy, mass destruction, power seizure, economic disruption, and indirect effects), each paired with proposed defences.
 bundle: political-economy
 topic: ai-geopolitics-and-risks
-tags: [ai-safety-risk, ai-industry, authoritarianism, china, labour, digital-privacy]
-source: https://darioamodei.com
+tags:
+- ai-safety-risk
+- ai-industry
+- authoritarianism
+- china
+- labour
+- digital-privacy
 resource: https://darioamodei.com
-timestamp: 2026-05-09T07:13:14Z
-status: active
+sources:
+- id: darioamodei
+  resource: https://darioamodei.com
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:13:14Z'
+status: stable
 related:
-  - political-economy/ai-geopolitics-and-risks/ai-transformative-potential.md
-  - political-economy/ai-industry/deepseek-and-export-controls.md
-  - political-economy/ai-industry/ai-developments-april-2026.md
-  - political-economy/ai-industry/silicon-valley-military-ai-split.md
-  - political-economy/ai-geopolitics-and-risks/ai-nuclear-wargaming.md
-  - political-economy/european-economy/hungary-elections-2026.md
-  - political-economy/us-markets-and-economy/us-macro-data-april-2026.md
+- political-economy/ai-geopolitics-and-risks/ai-transformative-potential.md
+- political-economy/ai-industry/deepseek-and-export-controls.md
+- political-economy/ai-industry/ai-developments-april-2026.md
+- political-economy/ai-industry/silicon-valley-military-ai-split.md
+- political-economy/ai-geopolitics-and-risks/ai-nuclear-wargaming.md
+- political-economy/european-economy/hungary-elections-2026.md
+- political-economy/us-markets-and-economy/us-macro-data-april-2026.md
 ---
 
 # AI Risks and Safety

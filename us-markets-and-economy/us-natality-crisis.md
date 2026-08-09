@@ -4,14 +4,21 @@ title: US Natality Crisis
 description: 2025 was the worst year for US births in 25 years, with fertility rates declining despite economic recovery — confirming a structural rather than cyclical trend.
 bundle: political-economy
 topic: us-markets-and-economy
-tags: [demographics, us-politics, trump-doctrine, religion-and-politics]
-source: US CDC natality data; multiple press reports — compiled 2026
-resource:
-timestamp: 2026-05-09T07:18:11Z
-status: active
+tags:
+- demographics
+- us-politics
+- trump-doctrine
+- religion-and-politics
+sources:
+- id: us-cdc-natality-data-multiple-press-reports-compiled-2026
+  resource: US CDC natality data; multiple press reports — compiled 2026
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-05-09T07:18:11Z'
+status: stable
 related:
-  - political-economy/us-markets-and-economy/us-macro-data-april-2026.md
-  - political-economy/european-economy/eu-demographics-2100.md
+- political-economy/us-markets-and-economy/us-macro-data-april-2026.md
+- political-economy/european-economy/eu-demographics-2100.md
 ---
 
 # US Natality Crisis

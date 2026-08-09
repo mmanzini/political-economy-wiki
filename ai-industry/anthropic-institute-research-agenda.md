@@ -4,14 +4,21 @@ title: The Anthropic Institute — research agenda on AI's societal impact
 description: Anthropic's TAI publishes its living research agenda across four pillars — economic diffusion, threats and resilience, AI systems in the wild, and AI-driven R&D — using frontier-lab vantage to publish public-interest findings and feed the Long-Term Benefit Trust.
 bundle: political-economy
 topic: ai-industry
-tags: [ai-industry, ai-safety-risk, labour]
-source: Resources/web-clippings/2026-07-16-Focus areas for The Anthropic Institute.md
+tags:
+- ai-industry
+- ai-safety-risk
+- labour
 resource: https://www.anthropic.com/research/anthropic-institute-agenda
-timestamp: 2026-08-05T09:00:00Z
-status: active
+sources:
+- id: 2026-07-16-focus-areas-for-the-anthropic-institute
+  resource: Resources/web-clippings/2026-07-16-Focus areas for The Anthropic Institute.md
+generated:
+  by: claude-code/atlas-consolidate
+  at: '2026-08-05T09:00:00Z'
+status: stable
 related:
-  - political-economy/ai-industry/anthropic-81k-interviews.md
-  - political-economy/ai-industry/anthropic-economic-index-march-2026.md
+- political-economy/ai-industry/anthropic-81k-interviews.md
+- political-economy/ai-industry/anthropic-economic-index-march-2026.md
 ---
 
 # The Anthropic Institute — research agenda on AI's societal impact
