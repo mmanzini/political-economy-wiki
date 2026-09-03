@@ -9,6 +9,7 @@ Articles on the transformative potential, geopolitical implications, and civilis
 - [[ai-nuclear-wargaming]] — King's College study: AI models choose nuclear escalation 95% of the time in crisis simulations; model-by-model analysis
 - [[palantir-technomilitarism-manifesti]] — Palantir's evolution to techno-militarist; Carp's 22-point manifesto (hard power, conscription, cultural hierarchy); Chatham House 4 macro trends: patriotic tech, dual-use boom, sovereign AI, $800B bubble risk (Fuori da Qui Ep.131, 2026)
 - [[malaysia-data-center-hub-2026]] — Malaysia as inference-only compute hub, Gebeng rare-earth refining, $96M Pentagon contract, Section 301 tariff limbo after Feb 2026 Supreme Court IEEPA ruling
+- [[kaiser-kuo-china-us-mutually-assured-disruption]] — Kaiser Kuo (Sinica podcast, ex-Baidu) at Altri Orienti Rome: China-US temporary truce, DeepSeek ecosystem, Star Trek vs Black Mirror, 2x2 AI race scenarios, cognitive empathy for China-EU
 
 ## Related (cross-linked)
 
